@@ -447,7 +447,8 @@
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/goods/fcgi/qwd_goodsinfo.h" timestamp="1514364241869">
         <mark key="'" line="35" column="13" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/proto/business/jsf_resp.proto" timestamp="1527758002232">
+      <file name="$USER_HOME$/code/jshare_server/proto/business/jsf_resp.proto" timestamp="1527770767726">
+        <mark key="'" line="417" column="24" />
         <mark key="[" line="434" column="82" />
         <mark key="]" line="434" column="95" />
         <mark key="." line="434" column="82" />
@@ -620,6 +621,12 @@
       <file name="/union.promotioncode.jsfservice.h" timestamp="1524812420309">
         <mark key="'" line="387" column="28" />
       </file>
+      <file name="$USER_HOME$/code/jshare_server/ut/env_utils_test.cpp" timestamp="1527245399170">
+        <mark key="'" line="9" column="4" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/core/noncopyable.hpp" timestamp="1522829580998">
         <mark key="'" line="43" column="22" />
       </file>
@@ -782,6 +789,12 @@
       </file>
       <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/regex.hpp" timestamp="1517804227438">
         <mark key="'" line="27" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/stu_price_jsf_service.hpp" timestamp="1527479149965">
+        <mark key="'" line="99" column="42" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="100" column="45" />
+        <mark key="." line="91" column="66" />
       </file>
       <file name="$USER_HOME$/code/jshare_server/netgo/thirdparty/libevhtp-1.2.10/oniguruma/CMakeLists.txt" timestamp="1522312550379">
         <mark key="'" line="47" column="29" />
@@ -1057,6 +1070,12 @@
       <file name="$USER_HOME$/code/jshare_server/netgo/include/http/http_response.hpp" timestamp="1523688745187">
         <mark key="'" line="21" column="42" />
       </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/coupon/svc/makefile" timestamp="1527610736081">
+        <mark key="'" line="31" column="42" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="8" />
+        <mark key="." line="9" column="8" />
+      </file>
       <file name="$USER_HOME$/code/jshare/thirdparty/gmock-1.6.0/gtest/src/gtest.cc" timestamp="1515145773956">
         <mark key="'" line="1164" column="26" />
       </file>
@@ -1105,6 +1124,12 @@
       </file>
       <file name="/Library/Developer/CommandLineTools/usr/include/c++/v1/type_traits" timestamp="1527164935434">
         <mark key="'" line="4426" column="22" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/jdcps_handler_factory.hpp" timestamp="1527157880970">
+        <mark key="'" line="21" column="34" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/util/qwd_promotecode_define.h" timestamp="1524812496897">
         <mark key="'" line="17" column="16" />
@@ -1365,7 +1390,8 @@
         <mark key="^" line="48" column="21" />
         <mark key="." line="46" column="46" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" timestamp="1527696761354">
+      <file name="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" timestamp="1527770837281">
+        <mark key="'" line="116" column="11" />
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="0" />
         <mark key="." line="119" column="0" />
@@ -1460,11 +1486,6 @@
       </file>
       <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/smart_ptr/shared_ptr.hpp" timestamp="1522832933450">
         <mark key="'" line="322" column="33" />
-      </file>
-      <file name="$USER_HOME$/code/jshare_server/cps_server/utils/api_utils.hpp" timestamp="1527576011781">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/promo_detector_result.hpp" timestamp="1526987115397">
         <mark key="'" line="33" column="12" />
@@ -1801,9 +1822,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="232" column="10" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
-      <jump line="134" column="40" filename="$USER_HOME$/code/jshare_server/cps_server/utils/log/trace_log.hpp" />
-      <jump line="48" column="23" filename="$USER_HOME$/code/jshare_server/cps_server/utils/log/trace_log.hpp" />
       <jump line="60" column="9" filename="$USER_HOME$/code/jshare_server/cps_server/utils/log/trace_log.hpp" />
       <jump line="148" column="4" filename="$USER_HOME$/code/jshare_server/cps_server/utils/log/trace_log.hpp" />
       <jump line="141" column="4" filename="$USER_HOME$/code/jshare_server/cps_server/utils/log/trace_log.hpp" />
@@ -1901,6 +1919,9 @@
       <jump line="36" column="18" filename="$USER_HOME$/code/jshare_server/CMakeLists.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/code/jshare_server/CMakeLists.txt" />
       <jump line="22" column="8" filename="$USER_HOME$/code/jshare_server/cps_server/business/coupon_jsf_service.hpp" />
+      <jump line="433" column="20" filename="$USER_HOME$/code/jshare_server/proto/business/jsf_resp.proto" />
+      <jump line="417" column="24" filename="$USER_HOME$/code/jshare_server/proto/business/jsf_resp.proto" />
+      <jump line="116" column="11" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1916,7 +1937,7 @@
         <text>31</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtZXNzYWdlXD4=</text>
+        <text encoding="base64">XDxkaXNjb3VudFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y21ha2VfbWluaW11bV9yZXF1aXJlZChWRVJTSU9OIDMuOSkKcHJvamVjdChqc2hhcmVfc2VydmVyKQoKc2V0KENNQUtFX0NYWF9TVEFOREFSRCAxMSkKCmluY2x1ZGVfZGlyZWN0b3JpZXMoLi4vanNoYXJlX3NlcnZlcgogICAgICAgIC4vdGhpcmRwYXJ0eQogICAgICAgIC4vbmV0Z28KICAgICAgICAuL25ldGdvL2luY2x1ZGUKICAgICAgICAuL3Byb3RvCiAgICAgICAgKQoKYXV4X3NvdXJjZV9kaXJlY3RvcnkoY3BzX3NlcnZlciBESVJfU1JDUykKYXV4X3NvdXJjZV9kaXJlY3RvcnkoY3BzX3NlcnZlci9ib3NzIERJUl9TUkNTKQphdXhfc291cmNlX2RpcmVjdG9yeShjcHNfc2VydmVyL2J1c2luZXNzIERJUl9TUkNTKQphdXhfc291cmNlX2RpcmVjdG9yeShjcHNfc2VydmVyL2NvbW1vbiBESVJfU1JDUykKYXV4X3NvdXJjZV9kaXJlY3RvcnkoY3BzX3NlcnZlci9jb25maWcgRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KGNwc19zZXJ2ZXIvY29uZmlnb3IgRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KGNwc19zZXJ2ZXIvY29uc3QgRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KGNwc19zZXJ2ZXIvZGIgRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KGNwc19zZXJ2ZXIvZXhjZXB0aW9uIERJUl9TUkNTKQphdXhfc291cmNlX2RpcmVjdG9yeShjcHNfc2VydmVyL21vbml0b3IgRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KGNwc19zZXJ2ZXIvY29uc3QgRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KGNwc19zZXJ2ZXIvcmVxdWVzdF9oYW5kbGVyIERJUl9TUkNTKQphdXhfc291cmNlX2RpcmVjdG9yeShjcHNfc2VydmVyL3NlcnZpY2UgRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KGNwc19zZXJ2ZXIvdXRpbHMgRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KGNwc19zZXJ2ZXIvdXRpbHMvanNmX2pzb24gRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KGNwc19zZXJ2ZXIvdXRpbHMvbG9naW4gRElSX1NSQ1MpCgphdXhfc291cmNlX2RpcmVjdG9yeShuZXRnbyBESVJfU1JDUykKYXV4X3NvdXJjZV9kaXJlY3RvcnkocHJvdG8gRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KHV0IERJUl9TUkNTKQphdXhfc291cmNlX2RpcmVjdG9yeShhZHNfY29tbW9uIERJUl9TUkNTKQphdXhfc291cmNlX2RpcmVjdG9yeSh0aGlyZHBhcnR5L2Jvb3N0IERJUl9TUkNTKQoKYWRkX2V4ZWN1dGFibGUoanNoYXJlX3NlcnZlcgogICAgICAgICR7RElSX1NSQ1N9CiAgICAgICAgY3BzX3NlcnZlci8KICAgICAgICBhZHNfY29tbW9uLwogICAgICAgIGNwc19zZXJ2ZXIvdXRpbHMKICAgICAgICBwcm90by9mdW5jdGlvbl9hcGkucGIuaAogICAgICAgIHByb3RvL2J1c2luZXNzCiAgICAgICAgcHJvdG8vc2t1c2VydmljZQogICAgICAgIG5ldGdvLwogICAgICAgIG5ldGdvL2luY2x1ZGUvCiAgICAgICAgY3BzX3NlcnZlci9jb25zdC8KICAgICAgICBjcHNfc2VydmVyL3JlcXVlc3RfaGFuZGxlci8KICAgICAgICBjcHNfc2VydmVyL2J1c2luZXNzLwogICAgICAgIGNwc19zZXJ2ZXIvYnVzaW5lc3MvdXJsX2NvbnZlcnQvCiAgICAgICAgKQo=</text>
@@ -1959,9 +1980,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtZXNzYWdlXD4=</last-search>
+      <last-search encoding="base64">XDxkaXNjb3VudFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtZXNzYWdlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkaXNjb3VudFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXN1bHRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1969,7 +1990,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQcmludE1hcFw+</entry>
         <entry encoding="base64">XDxRdWVyeVNrdUNvdXBvbk1hcEZyb21EYlw+</entry>
         <entry encoding="base64">XDxzZXRfcXVvdGFcPg==</entry>
         <entry encoding="base64">XDxjXD4=</entry>
@@ -1989,6 +2009,7 @@
         <entry encoding="base64">XDxkYXlcPg==</entry>
         <entry encoding="base64">XDxvUmVxXD4=</entry>
         <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
+        <entry encoding="base64">XDxkaXNjb3VudFw+</entry>
       </history-search>
       <history-cmd>
         <entry>/</entry>
