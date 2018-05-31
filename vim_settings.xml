@@ -413,7 +413,7 @@
       <file name="$USER_HOME$/Documents/workspaceSet/clion/HttpUtils/curl/curl.h" timestamp="1509106366087">
         <mark key="'" line="2732" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527775771924">
+      <file name="/Dummy.txt" timestamp="1527783753351">
         <mark key="'" line="0" column="4" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -1350,6 +1350,11 @@
       </file>
       <file name="$USER_HOME$/code/jshare_server/cps_server/db/blocking_db_manager.h" timestamp="1523500982057">
         <mark key="'" line="131" column="49" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/include/qwd_ump_define.h" timestamp="1527783753037">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="102" column="45" />
+        <mark key="]" line="102" column="70" />
       </file>
       <file name="$USER_HOME$/code/jshare_server/ut/nlohmann_json.cpp" timestamp="1527144898582">
         <mark key="'" line="13" column="14" />
