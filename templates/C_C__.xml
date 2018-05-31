@@ -1,0 +1,26 @@
+<templateSet group="C/C++">
+  <template name="cct" value="class $NAME$ConvertContent : public ConvertContent {&#10;    $COPY_NAME$ConvertContent(const std::string &amp;rawUrl, const std::string &amp;url)&#10;            : ConvertContent(rawUrl, url, UrlRule::$RULE_NAME$, $PRO_TYPE$, $PRO_CONT$){&#10;        $OTHER_INIT$&#10;    }&#10;    &#10;    bool Judge(const std::string &amp;url) override {&#10;        return UrlRule::$JUDGE_EXPR$;&#10;    }&#10;};" description="generate convert content's subclass" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="COPY_NAME" expression="NAME" defaultValue="" alwaysStopAt="false" />
+    <variable name="RULE_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PRO_TYPE" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
+    <variable name="PRO_CONT" expression="" defaultValue="&quot;0&quot;" alwaysStopAt="true" />
+    <variable name="OTHER_INIT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="JUDGE_EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="c" value="true" />
+      <option name="cpp" value="true" />
+    </context>
+  </template>
+  <template name="ccb" value="class $NAME$ConvertContentBuilder : public ConvertContentBuilder {&#10;public:&#10;    bool Judge(const std::string &amp;value) override {&#10;        return UrlRule::$URL_RULE$;&#10;    }&#10;    &#10;    std::shared_ptr&lt;ConvertContent&gt; Build() override {&#10;        return std::make_shared&lt;ConvertContent&gt;(GetRawUrl(), GetUrl(), UrlRule::$RULE_NAME$, $PRO_TYPE$, $PRO_CONT$);&#10;    }&#10;};" description="generate ConvertContentBuilder's subclass" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="URL_RULE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="RULE_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PRO_TYPE" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
+    <variable name="PRO_CONT" expression="" defaultValue="&quot;0&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="c" value="true" />
+      <option name="cpp" value="true" />
+    </context>
+  </template>
+</templateSet>

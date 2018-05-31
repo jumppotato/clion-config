@@ -1,0 +1,2050 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks>
+      <mark key="A" line="227" column="53" filename="$USER_HOME$/code/jshare_server/netgo/include/tcp_client.hpp" protocol="file" />
+    </globalmarks>
+    <filemarks>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/db/mysql_client.hpp" timestamp="1524135096473">
+        <mark key="'" line="29" column="37" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/jsf_include/com-jd-ads-union-master-api-service-user-UserInfoService/jsf/bjunion/queryusercardidsresponse_bjunion.h" timestamp="1521104143625">
+        <mark key="'" line="28" column="18" />
+      </file>
+      <file name="$USER_HOME$/code/jxj/front/static/js/module/dm.qwd.shop.js" timestamp="1524901232778">
+        <mark key="'" line="24" column="8" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/toft/net/http/http_message.cpp" timestamp="1517991964207">
+        <mark key="'" line="101" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/netgo/src/worker_coroutine.cpp" timestamp="1521894648665">
+        <mark key="'" line="44" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/include/filter_vender.h" timestamp="1524800534637">
+        <mark key="'" line="241" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/sales/dao/dbmysql_qwdrecord.cpp" timestamp="1524825033858">
+        <mark key="'" line="804" column="31" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/coupon/bin/qwd.dailycoupon.cpp" timestamp="1527652126442">
+        <mark key="'" line="82" column="29" />
+        <mark key="[" line="189" column="18" />
+        <mark key="]" line="189" column="24" />
+      </file>
+      <file name="/Library/Developer/CommandLineTools/usr/include/c++/v1/set" timestamp="1524552473658">
+        <mark key="'" line="451" column="27" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/common/util/include/semlock.h" timestamp="1520839801527">
+        <mark key="'" line="23" column="17" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/CMakeLists.txt" timestamp="1509010989950">
+        <mark key="'" line="3789" column="13" />
+      </file>
+      <file name="/Library/Developer/CommandLineTools/usr/include/c++/v1/iostream" timestamp="1526632614182">
+        <mark key="'" line="50" column="8" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/netgo/thirdparty/boost/serialization/detail/shared_ptr_nmt_132.hpp" timestamp="1514973572826">
+        <mark key="'" line="74" column="32" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/jlx/user/ao/jlx_user_ao.cpp" timestamp="1525680206855">
+        <mark key="'" line="258" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/pb/qwd_bjgateway.proto" timestamp="1520340853979">
+        <mark key="'" line="30" column="8" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/thirdparty/boost/log/sources/severity_feature.hpp" timestamp="1515665444602">
+        <mark key="'" line="301" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/db/db_result.cpp" timestamp="1523501194176">
+        <mark key="'" line="76" column="18" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/chnreport/fcgi/qwd_channel_com_preview.cpp" timestamp="1526370281328">
+        <mark key="'" line="228" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/discount/dao/mysql_qwddiscount.cpp" timestamp="1518159873716">
+        <mark key="'" line="178" column="186" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/shop/bin/qwd_unionid_sync.cpp" timestamp="1524904071428">
+        <mark key="'" line="72" column="71" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/netgo/src/http/http_cookie.cpp" timestamp="1516355140393">
+        <mark key="'" line="69" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/gtest-1.6.0/include/gtest/gtest.h" timestamp="1521701385899">
+        <mark key="'" line="1262" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/base_handler.hpp" timestamp="1522392924215">
+        <mark key="'" line="77" column="25" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/proto/BUILD" timestamp="1527758094582">
+        <mark key="'" line="8" column="31" />
+        <mark key="[" line="11" column="33" />
+        <mark key="]" line="12" column="19" />
+        <mark key="^" line="12" column="19" />
+        <mark key="." line="12" column="19" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/common/util/src/base64_2.cpp" timestamp="1523270942334">
+        <mark key="'" line="102" column="25" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/boss/market_shop_config_hanlder.cpp" timestamp="1523452453890">
+        <mark key="'" line="122" column="33" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/asio/impl/read.hpp" timestamp="1521884729453">
+        <mark key="'" line="717" column="14" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/utils/login/check_login.cpp" timestamp="1526283488413">
+        <mark key="'" line="65" column="32" />
+      </file>
+      <file name="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include/opencl-c.h" timestamp="1515577535442">
+        <mark key="'" line="53" column="27" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/include/fapp.h" timestamp="1520333532221">
+        <mark key="'" line="32" column="41" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/include/qwd_versiontype_query.h" timestamp="1519974598629">
+        <mark key="'" line="42" column="87" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/netgo/include/worker_mgr.hpp" timestamp="1523689304205">
+        <mark key="'" line="14" column="54" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/sales/fcgi/qwd_itemshare.h" timestamp="1516693986285">
+        <mark key="'" line="74" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/common/misc/src/makefile" timestamp="1520327553213">
+        <mark key="'" line="19" column="14" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/export_include/serialize.h" timestamp="1521171124381">
+        <mark key="'" line="52" column="26" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/thirdparty/boost/smart_ptr/shared_ptr.hpp" timestamp="1514973543771">
+        <mark key="'" line="52" column="32" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/include/qwd_jsfreq_tostring.h" timestamp="1513222621589">
+        <mark key="'" line="30" column="12" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/common/counter_helper.hpp" timestamp="1521196855611">
+        <mark key="'" line="116" column="18" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/jshare_server/db/blocking_db_manager.h" timestamp="1514894059316">
+        <mark key="'" line="58" column="27" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/stringencoders-svn-355/src/modp_b64.c" timestamp="1526463398791">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/date_time/date_clock_device.hpp" timestamp="1521710581080">
+        <mark key="'" line="23" column="17" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/algorithm/string/detail/classification.hpp" timestamp="1523534408981">
+        <mark key="'" line="67" column="50" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/sales/fcgi/qwd_searchitem_ex.cpp" timestamp="1525769764426">
+        <mark key="'" line="586" column="22" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/activity/fcgi/qwd_activity_list.h" timestamp="1519888892110">
+        <mark key="'" line="65" column="31" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/netgo/include/server_connection.hpp" timestamp="1522293045169">
+        <mark key="'" line="255" column="42" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/toft/system/net/socket.cpp" timestamp="1524707522524">
+        <mark key="'" line="238" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/coupon/dao/mysql_qwdcoupon.cpp" timestamp="1527242119233">
+        <mark key="'" line="141" column="4" />
+        <mark key="[" line="36" column="14" />
+        <mark key="]" line="36" column="13" />
+        <mark key="^" line="36" column="13" />
+        <mark key="." line="36" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/common/util/src/semlock.cpp" timestamp="1520842421428">
+        <mark key="'" line="6" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/convert_content_builder.hpp" timestamp="1527162730126">
+        <mark key="'" line="168" column="12" />
+        <mark key="[" line="158" column="19" />
+        <mark key="]" line="158" column="38" />
+        <mark key="." line="173" column="12" />
+        <mark key="^" line="173" column="12" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/jsfgateway/tools/qwd_jsfgateway_test.cpp" timestamp="1524737056887">
+        <mark key="'" line="259" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/ut/protocol_buffer_test.cpp" timestamp="1527758059269">
+        <mark key="'" line="9" column="38" />
+        <mark key="[" line="35" column="4" />
+        <mark key="]" line="35" column="3" />
+        <mark key="^" line="35" column="3" />
+        <mark key="." line="35" column="3" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/jmq/ao/ao_jmq.cpp" timestamp="1519719900578">
+        <mark key="'" line="70" column="81" />
+      </file>
+      <file name="/Library/Developer/CommandLineTools/usr/include/c++/v1/ios" timestamp="1526871639426">
+        <mark key="'" line="581" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/jxj/front/static/js/module/dm.boss.qwdEditActivity.js" timestamp="1527063156140">
+        <mark key="'" line="17" column="12" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/netgo/src/logging.cpp" timestamp="1526627370251">
+        <mark key="'" line="194" column="51" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/tools/blade/blade.conf" timestamp="1515751708250">
+        <mark key="'" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/thirdparty/gtest-1.6.0/include/gtest/gtest_pred_impl.h" timestamp="1515142040496">
+        <mark key="'" line="145" column="8" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/netgo/include/upstream_manager.hpp" timestamp="1516100423542">
+        <mark key="'" line="81" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/boss/db/campus_token_price_db_object.hpp" timestamp="1527232703150">
+        <mark key="'" line="72" column="39" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/wpublic/svc/qwd.wpublic.cpp" timestamp="1527062173707">
+        <mark key="'" line="37" column="19" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/config/url/url_judge.json" timestamp="1517308049442">
+        <mark key="'" line="72" column="10" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/jshare_server/jshare_request_handler.cpp" timestamp="1514890225727">
+        <mark key="'" line="26" column="8" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/commission/fcgi/qwd_commission_query.cpp" timestamp="1524567675158">
+        <mark key="'" line="103" column="54" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/netgo/include/shared_ptr_list_base_node.hpp" timestamp="1514862842566">
+        <mark key="'" line="69" column="10" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/jlx/import/adownercommission_service.h" timestamp="1524618190635">
+        <mark key="'" line="265" column="42" />
+      </file>
+      <file name="/Library/Developer/CommandLineTools/usr/include/c++/v1/vector" timestamp="1516367002259">
+        <mark key="'" line="329" column="37" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/gtest/gtest.h" timestamp="1521701383153">
+        <mark key="'" line="0" column="52" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/gflags-2.0/src/gflags/gflags.h" timestamp="1521702133093">
+        <mark key="'" line="546" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/netgo/include/jimdb_response.hpp" timestamp="1522833190019">
+        <mark key="'" line="41" column="55" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/common/util/src/base64.cpp" timestamp="1523270880037">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/netgo/include/redis_client.hpp" timestamp="1523608831010">
+        <mark key="'" line="20" column="10" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/utils/protocol_utils.hpp" timestamp="1527758060396">
+        <mark key="'" line="478" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/sales/fcgi/qwd_fxitem_query.cpp" timestamp="1524824844560">
+        <mark key="'" line="75" column="18" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/thirdparty/boost/algorithm/string/predicate.hpp" timestamp="1515556445850">
+        <mark key="'" line="169" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/asio/detail/throw_error.hpp" timestamp="1526632036867">
+        <mark key="'" line="37" column="12" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/toft/net/http/http_client.cpp" timestamp="1524707426012">
+        <mark key="'" line="191" column="35" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/netgo/thirdparty/glog-0.3.2/src/logging_unittest.cc" timestamp="1523517694546">
+        <mark key="'" line="722" column="33" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/thirdparty/rapidjson-1.0.2/include/rapidjson/allocators.h" timestamp="1515143533747">
+        <mark key="'" line="124" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/utils/shop_util.hpp" timestamp="1522831258443">
+        <mark key="'" line="11" column="22" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/common/misc/include/exp_config.h" timestamp="1520843861908">
+        <mark key="'" line="56" column="24" />
+      </file>
+      <file name="/Library/Developer/CommandLineTools/usr/include/c++/v1/functional" timestamp="1521719295720">
+        <mark key="'" line="2313" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/util/qwd_sku_convertor.cpp" timestamp="1527649680653">
+        <mark key="'" line="96" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/asio/placeholders.hpp" timestamp="1521878244346">
+        <mark key="'" line="61" column="18" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/configor/configor.hpp" timestamp="1522828173722">
+        <mark key="'" line="14" column="25" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/commission/commission_pay.hpp" timestamp="1522047345834">
+        <mark key="'" line="31" column="27" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/proto/jdcps_sku_info.proto" timestamp="1516791077264">
+        <mark key="'" line="20" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/jsfgateway/svc/qwd.jsfgateway.cpp" timestamp="1524879499910">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/util/qwd_util.h" timestamp="1527675609621">
+        <mark key="'" line="160" column="63" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/proto/skuservice/sku_info_publish.proto" timestamp="1522746319883">
+        <mark key="'" line="196" column="21" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/netgo/include/logging.hpp" timestamp="1515748547991">
+        <mark key="'" line="239" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/CMakeLists.txt" timestamp="1527758579429">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="49" column="9" />
+      </file>
+      <file name="/qwd_chnrelation_test.cpp" timestamp="1510300545120">
+        <mark key="'" line="386" column="12" />
+      </file>
+      <file name="/usr/include/i386/limits.h" timestamp="1509185637799">
+        <mark key="'" line="45" column="34" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/thirdparty/gtest-1.6.0/include/gtest/gtest.h" timestamp="1516980079008">
+        <mark key="'" line="684" column="6" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/proto/jdcps_config.proto" timestamp="1521120685541">
+        <mark key="'" line="30" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/proto/business/jsf_resp.pb.h" timestamp="1527515321223">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/wpublic/ao/ao_wpublic.h" timestamp="1527062175162">
+        <mark key="'" line="30" column="32" />
+      </file>
+      <file name="/Library/Developer/CommandLineTools/usr/include/c++/v1/__config" timestamp="1526632435213">
+        <mark key="'" line="629" column="45" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/activity/svc/qwd.activity.cpp" timestamp="1527590726453">
+        <mark key="'" line="38" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/jxj/front/static/js/module/dm.qwd.remark.js" timestamp="1524106995119">
+        <mark key="'" line="422" column="36" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/util/channel/qwd_channel_rbook.h" timestamp="1524904326998">
+        <mark key="'" line="57" column="23" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/sales/test/makefile" timestamp="1524637792090">
+        <mark key="'" line="35" column="18" />
+        <mark key="[" line="39" column="46" />
+        <mark key="]" line="39" column="97" />
+        <mark key="." line="39" column="46" />
+        <mark key="^" line="51" column="177" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/pb/qwd_market.proto" timestamp="1524108157248">
+        <mark key="'" line="69" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/netgo/include/worker_coroutine.hpp" timestamp="1521894489265">
+        <mark key="'" line="98" column="61" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/unordered/unordered_map.hpp" timestamp="1521776710660">
+        <mark key="'" line="88" column="32" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/sales/fcgi/qwd_searchitem.h" timestamp="1510833489502">
+        <mark key="'" line="146" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/agreement/svc/qwd.agreement.cpp" timestamp="1524906251347">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/jdcps_handle_content.hpp" timestamp="1527219601727">
+        <mark key="'" line="194" column="36" />
+        <mark key="[" line="150" column="16" />
+        <mark key="]" line="150" column="15" />
+        <mark key="^" line="150" column="15" />
+        <mark key="." line="150" column="15" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/relation/svc/qwd.relation.h" timestamp="1520393437365">
+        <mark key="'" line="31" column="53" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/risk/svc/qwd.risk.cpp" timestamp="1520842081508">
+        <mark key="'" line="82" column="14" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/sales/fcgi/action_sales.h" timestamp="1523589589120">
+        <mark key="'" line="38" column="8" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/item/async/ao/cfg_itemasync.h" timestamp="1515412788817">
+        <mark key="'" line="15" column="52" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/discount/dao/mysql_qwddiscount.h" timestamp="1518159866411">
+        <mark key="'" line="104" column="24" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/market/dao/mysql_qwdmarket.cpp" timestamp="1524725117591">
+        <mark key="'" line="28" column="15" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/regex/v4/regex_iterator.hpp" timestamp="1517806144993">
+        <mark key="'" line="168" column="36" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/smart_ptr/weak_ptr.hpp" timestamp="1521875912088">
+        <mark key="'" line="175" column="18" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/netgo/include/http_server.hpp" timestamp="1514896021880">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="/usr/include/sys/_types/_clock_t.h" timestamp="1526975172523">
+        <mark key="'" line="29" column="22" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/item/fcgi/item_struct.h" timestamp="1516792777924">
+        <mark key="'" line="907" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/config/suffix.hpp" timestamp="1523689354570">
+        <mark key="'" line="910" column="10" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/report/commission/fcgi/qwd_reapply_coms.cpp" timestamp="1524897513840">
+        <mark key="'" line="117" column="22" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/bjgateway/ao/aocps/qwd_sku_product.h" timestamp="1523258190915">
+        <mark key="'" line="53" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/relation/fcgi/qwd_relation_mktadd.cpp" timestamp="1524023197729">
+        <mark key="'" line="278" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/remark/fcgi/qwd_remark_query.cpp" timestamp="1514256612111">
+        <mark key="'" line="110" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/pb/qwd_relation.proto" timestamp="1520334356381">
+        <mark key="'" line="80" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/netgo/include/async_service.hpp" timestamp="1523689078911">
+        <mark key="'" line="110" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspaceSet/clion/HttpUtils/curl/curl.h" timestamp="1509106366087">
+        <mark key="'" line="2732" column="58" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1527756732470">
+        <mark key="'" line="0" column="4" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/cps_server/business/url_convert/url_detector.hpp" timestamp="1517037629482">
+        <mark key="'" line="46" column="55" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/toft/net/uri/uri.h" timestamp="1524707015249">
+        <mark key="'" line="279" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/app/fcgi/makefile" timestamp="1524733619905">
+        <mark key="'" line="20" column="41" />
+        <mark key="[" line="25" column="64" />
+        <mark key="]" line="25" column="64" />
+        <mark key="^" line="25" column="64" />
+        <mark key="." line="25" column="64" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/netgo/thirdparty/gperftools-2.0/src/tests/heap-checker_unittest.cc" timestamp="1523517975528">
+        <mark key="'" line="317" column="2" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/common/compass.cpp" timestamp="1526975268445">
+        <mark key="'" line="39" column="72" />
+        <mark key="[" line="39" column="65" />
+        <mark key="]" line="39" column="74" />
+        <mark key="." line="39" column="65" />
+        <mark key="^" line="39" column="34" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/goods/fcgi/qwd_goodsinfo.h" timestamp="1514364241869">
+        <mark key="'" line="35" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/proto/business/jsf_resp.proto" timestamp="1527758002232">
+        <mark key="[" line="434" column="82" />
+        <mark key="]" line="434" column="95" />
+        <mark key="." line="434" column="82" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/sec_kill_jsf_service.hpp" timestamp="1526987267603">
+        <mark key="'" line="99" column="12" />
+        <mark key="[" line="101" column="12" />
+        <mark key="]" line="101" column="12" />
+        <mark key="^" line="101" column="12" />
+        <mark key="." line="101" column="12" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/netgo/src/redis_client.cpp" timestamp="1523608815529">
+        <mark key="'" line="43" column="8" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/sales/fcgi/qwd_followitem.h" timestamp="1527607877033">
+        <mark key="'" line="178" column="28" />
+        <mark key="[" line="264" column="0" />
+        <mark key="]" line="272" column="8" />
+        <mark key="." line="261" column="18" />
+        <mark key="^" line="261" column="18" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/util/render/qwd_render_builder.h" timestamp="1524884686093">
+        <mark key="'" line="24" column="37" />
+      </file>
+      <file name="$USER_HOME$/code/jxj/front/jdqwd/WXSQRelated/js/jxjWXActivity.js" timestamp="1524057166766">
+        <mark key="'" line="5" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/log/sinks/async_frontend.hpp" timestamp="1523504542235">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/proto/test.proto" timestamp="1527513819915">
+        <mark key="'" line="20" column="19" />
+        <mark key="[" line="10" column="1" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+      </file>
+      <file name="/usr/include/sys/socket.h" timestamp="1523694603641">
+        <mark key="'" line="450" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/init_submodule.sh" timestamp="1522306742035">
+        <mark key="'" line="5" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/import/union.promotioncode.jsfservice.h" timestamp="1527676122159">
+        <mark key="'" line="171" column="43" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/shop/ao/userinfo_shop.cpp" timestamp="1524901793722">
+        <mark key="'" line="28" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/app/ao/cfg_sales.cpp" timestamp="1524728612718">
+        <mark key="'" line="41" column="10" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/date_time/gregorian/gregorian_types.hpp" timestamp="1521710706947">
+        <mark key="'" line="70" column="31" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/shop/svc/qwd.shop.cpp" timestamp="1524879452159">
+        <mark key="'" line="313" column="14" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/3rd/mysql/mysql.h" timestamp="1523501285921">
+        <mark key="'" line="315" column="10" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/article/bin/makefile" timestamp="1524733466063">
+        <mark key="'" line="16" column="50" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/request_handler/url_promo_info_transfer_handler.cpp" timestamp="1526986990932">
+        <mark key="'" line="47" column="53" />
+        <mark key="[" line="57" column="12" />
+        <mark key="]" line="57" column="12" />
+        <mark key="^" line="57" column="12" />
+        <mark key="." line="57" column="12" />
+      </file>
+      <file name="/Library/Developer/CommandLineTools/usr/include/c++/v1/exception" timestamp="1520945718996">
+        <mark key="'" line="30" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/discount/ao/ao_discount.cpp" timestamp="1518159144043">
+        <mark key="'" line="148" column="25" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/db/mysql_wrapper.cpp" timestamp="1525665414871">
+        <mark key="'" line="174" column="22" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/cps_server/db/mysql_client.hpp" timestamp="1516354758112">
+        <mark key="'" line="203" column="32" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/common/util/src/facility.cpp" timestamp="1516886105551">
+        <mark key="'" line="261" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/util/union_user_reg.cpp" timestamp="1525680865930">
+        <mark key="'" line="71" column="19" />
+      </file>
+      <file name="/Library/Developer/CommandLineTools/usr/include/c++/v1/__string" timestamp="1526544092440">
+        <mark key="'" line="702" column="31" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/request_handler/product_handler.cpp" timestamp="1527039539117">
+        <mark key="'" line="112" column="68" />
+        <mark key="[" line="38" column="55" />
+        <mark key="]" line="38" column="20" />
+        <mark key="^" line="38" column="20" />
+        <mark key="." line="38" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/shop/ao/ao_shop.cpp" timestamp="1524904610908">
+        <mark key="'" line="1984" column="14" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/unordered/detail/buckets.hpp" timestamp="1524221734605">
+        <mark key="'" line="28" column="50" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/thirdparty/boost/shared_ptr.hpp" timestamp="1514973533244">
+        <mark key="'" line="16" column="35" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/convert_content_generator.cpp" timestamp="1526987083429">
+        <mark key="'" line="65" column="12" />
+        <mark key="[" line="99" column="8" />
+        <mark key="]" line="99" column="8" />
+        <mark key="^" line="99" column="8" />
+        <mark key="." line="99" column="8" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/jlx/user/svc/jlx.user.cpp" timestamp="1525679975970">
+        <mark key="'" line="58" column="21" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/ads_common/Segment/CMakeLists.txt" timestamp="1522313302323">
+        <mark key="'" line="20" column="29" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/item/union/import/jimdb_access.h" timestamp="1519979429998">
+        <mark key="'" line="74" column="75" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/netgo/src/http/http_response.cpp" timestamp="1522064325023">
+        <mark key="'" line="143" column="46" />
+      </file>
+      <file name="/Library/Developer/CommandLineTools/usr/include/c++/v1/regex" timestamp="1517820958439">
+        <mark key="'" line="5350" column="63" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/netgo/include/buffer.hpp" timestamp="1521877752909">
+        <mark key="'" line="50" column="14" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/import/goods.info.json.h" timestamp="1527650076856">
+        <mark key="'" line="637" column="49" />
+        <mark key="[" line="617" column="16" />
+        <mark key="]" line="617" column="91" />
+        <mark key="." line="531" column="9" />
+        <mark key="^" line="531" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/report/commission/fcgi/qwd_coms_extract_history.cpp" timestamp="1524654076425">
+        <mark key="'" line="228" column="29" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/bind/arg.hpp" timestamp="1521878184678">
+        <mark key="'" line="36" column="40" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/union_commission.hpp" timestamp="1517404720725">
+        <mark key="'" line="30" column="8" />
+      </file>
+      <file name="/qwd_cps_product.h" timestamp="1527676412925">
+        <mark key="'" line="37" column="49" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/toft/net/uri/uri.cpp" timestamp="1524707151902">
+        <mark key="'" line="82" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/algorithm/string/predicate.hpp" timestamp="1517741668762">
+        <mark key="'" line="92" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/utils/log/trace_log.hpp" timestamp="1527693205829">
+        <mark key="'" line="64" column="24" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="162" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="57" column="42" />
+      </file>
+      <file name="/union.promotioncode.jsfservice.h" timestamp="1524812420309">
+        <mark key="'" line="387" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/core/noncopyable.hpp" timestamp="1522829580998">
+        <mark key="'" line="43" column="22" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/jshare_server/common/counter_helper.cpp" timestamp="1514895642864">
+        <mark key="'" line="34" column="73" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/proto/gen_proto.sh" timestamp="1527758109131">
+        <mark key="[" line="6" column="56" />
+        <mark key="]" line="7" column="43" />
+        <mark key="^" line="7" column="43" />
+        <mark key="." line="7" column="43" />
+      </file>
+      <file name="/json.hpp" timestamp="1521023264267">
+        <mark key="'" line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/apply_jt_plan_jsf_service.cpp" timestamp="1526987232606">
+        <mark key="'" line="86" column="12" />
+        <mark key="[" line="89" column="12" />
+        <mark key="]" line="89" column="12" />
+        <mark key="." line="89" column="12" />
+        <mark key="^" line="89" column="12" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/common/misc/src/exp_config.cpp" timestamp="1520843656181">
+        <mark key="'" line="65" column="15" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/bjgateway/ao/aocps/qwd_merchant_product.h" timestamp="1524022602627">
+        <mark key="'" line="15" column="57" />
+      </file>
+      <file name="/usr/include/time.h" timestamp="1526975169660">
+        <mark key="'" line="107" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/thirdparty/boost/algorithm/string/trim.hpp" timestamp="1516171843055">
+        <mark key="'" line="338" column="34" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/promote/fcgi/qwd_selected_shops.cpp" timestamp="1515664453502">
+        <mark key="'" line="134" column="57" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/activity/fcgi/qwd_gen_acturl.cpp" timestamp="1526627856244">
+        <mark key="'" line="36" column="53" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/include/toft/toft/net/http/http_client.cpp" timestamp="1527611733663">
+        <mark key="'" line="490" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/algorithm/string/iter_find.hpp" timestamp="1524536791164">
+        <mark key="'" line="156" column="56" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/discount/fcgi/qwd_discount_querycache.cpp" timestamp="1518168169716">
+        <mark key="'" line="101" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/netgo/include/http/http_request.hpp" timestamp="1521556082526">
+        <mark key="'" line="101" column="23" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/chnrelation/fcgi/qwd_chnrel_batchget.cpp" timestamp="1515416553533">
+        <mark key="'" line="81" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/item/union/test/advert_test.cpp" timestamp="1511430047240">
+        <mark key="'" line="68" column="10" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/joft/crypto/rsa_private_decode_test.cc" timestamp="1526440102856">
+        <mark key="'" line="38" column="2" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/thread/tss.hpp" timestamp="1524225642263">
+        <mark key="'" line="25" column="78" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/activity/svc/qwd.activity.h" timestamp="1527590709561">
+        <mark key="'" line="19" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/union_click_info_jsf_service.hpp" timestamp="1526987129944">
+        <mark key="'" line="46" column="12" />
+        <mark key="[" line="48" column="12" />
+        <mark key="]" line="48" column="12" />
+        <mark key="^" line="48" column="12" />
+        <mark key="." line="48" column="12" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/thirdparty/boost/thread/lock_types.hpp" timestamp="1517222643409">
+        <mark key="'" line="121" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/convert_content.hpp" timestamp="1526987044096">
+        <mark key="'" line="177" column="16" />
+        <mark key="[" line="186" column="12" />
+        <mark key="]" line="186" column="12" />
+        <mark key="." line="186" column="12" />
+        <mark key="^" line="186" column="12" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/utils/log/compus_log.hpp" timestamp="1526629306820">
+        <mark key="'" line="38" column="30" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="64" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/task/bin/qwd.newtask.cpp" timestamp="1519961054602">
+        <mark key="'" line="33" column="8" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/pb/qwd_jsfgateway.proto" timestamp="1527606567595">
+        <mark key="'" line="359" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/item/fcgi/mid_page.h" timestamp="1524465521644">
+        <mark key="'" line="14" column="14" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/thirdparty/boost/bind/placeholders.hpp" timestamp="1514878580809">
+        <mark key="'" line="54" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/jmq/tools/qwd_jmq_test.cpp" timestamp="1513775682954">
+        <mark key="'" line="189" column="8" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/app/dao/mysql_qwdcampus.cpp" timestamp="1525763822562">
+        <mark key="'" line="23" column="17" />
+        <mark key="[" line="32" column="22" />
+        <mark key="]" line="32" column="23" />
+        <mark key="^" line="32" column="21" />
+        <mark key="." line="32" column="23" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/netgo/include/go_wrapper.hpp" timestamp="1521894487503">
+        <mark key="'" line="90" column="50" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/url_generator.hpp" timestamp="1527609344610">
+        <mark key="'" line="97" column="23" />
+        <mark key="[" line="164" column="16" />
+        <mark key="]" line="164" column="16" />
+        <mark key="." line="164" column="16" />
+        <mark key="^" line="164" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/proto/function_api.pb.h" timestamp="1516776306116">
+        <mark key="'" line="486" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/discount/tools/qwd_discount_test.cpp" timestamp="1518167824800">
+        <mark key="'" line="292" column="56" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/algorithm/string/join.hpp" timestamp="1527686170622">
+        <mark key="'" line="47" column="18" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/common/util/include/fun_mon.h" timestamp="1520323576535">
+        <mark key="'" line="10" column="6" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/shop/fcgi/image_upload.h" timestamp="1514289878307">
+        <mark key="'" line="23" column="7" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/netgo/ut/gtest_main.cc" timestamp="1515751202851">
+        <mark key="'" line="99" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/remark/ao/ao_remark.cpp" timestamp="1527676238433">
+        <mark key="'" line="303" column="17" />
+        <mark key="[" line="299" column="59" />
+        <mark key="]" line="299" column="59" />
+        <mark key="." line="299" column="59" />
+        <mark key="^" line="299" column="59" />
+      </file>
+      <file name="/usr/include/sys/_types/_time_t.h" timestamp="1526956010647">
+        <mark key="'" line="29" column="22" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/date_time/gregorian_calendar.hpp" timestamp="1526976635977">
+        <mark key="'" line="30" column="12" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/include/qwd_query_rbook.h" timestamp="1525679481956">
+        <mark key="'" line="44" column="29" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/netgo/include/http/http_base_message.hpp" timestamp="1523688751646">
+        <mark key="'" line="12" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/regex.hpp" timestamp="1517804227438">
+        <mark key="'" line="27" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/netgo/thirdparty/libevhtp-1.2.10/oniguruma/CMakeLists.txt" timestamp="1522312550379">
+        <mark key="'" line="47" column="29" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/netgo/thirdparty/rapidjson-1.0.2/include/rapidjson/internal/meta.h" timestamp="1516022342871">
+        <mark key="'" line="155" column="53" />
+      </file>
+      <file name="/Library/Developer/CommandLineTools/usr/include/c++/v1/iosfwd" timestamp="1526632566765">
+        <mark key="'" line="52" column="37" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/log/sources/global_logger_storage.hpp" timestamp="1526869857683">
+        <mark key="'" line="180" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/remark/svc/qwd.remark.h" timestamp="1527675760955">
+        <mark key="'" line="21" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/thirdparty/gtest-1.6.0/BUILD" timestamp="1515753639555">
+        <mark key="'" line="7" column="13" />
+      </file>
+      <file name="/date_utils.hpp" timestamp="1527737989952">
+        <mark key="'" line="104" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/gmonitor/include/pbjson.hpp" timestamp="1516020089861">
+        <mark key="'" line="42" column="15" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/utils/jsf_json/jsf_json.hpp" timestamp="1522160525473">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/url_detector.hpp" timestamp="1526987204000">
+        <mark key="'" line="51" column="16" />
+        <mark key="[" line="58" column="16" />
+        <mark key="]" line="58" column="16" />
+        <mark key="." line="58" column="16" />
+        <mark key="^" line="58" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/cps_server/business/url_convert/promo_candidate.hpp" timestamp="1517230997718">
+        <mark key="'" line="174" column="5" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/discount/bin/qwd.dailydiscount.cpp" timestamp="1518168816171">
+        <mark key="'" line="223" column="4" />
+      </file>
+      <file name="/usr/include/sys/_types/_null.h" timestamp="1517997954640">
+        <mark key="'" line="28" column="26" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/article/ao/ao_article.cpp" timestamp="1523615668020">
+        <mark key="'" line="151" column="51" />
+      </file>
+      <file name="/qwd_apply_jt_rate.cpp" timestamp="1512635959267">
+        <mark key="'" line="148" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/date_time/gregorian/greg_date.hpp" timestamp="1526976640449">
+        <mark key="'" line="43" column="39" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/jsf_include/com-jd-ads-data-skuSearchRetrieve/jsf/skusearch/searchresultinfo.h" timestamp="1514434376669">
+        <mark key="'" line="100" column="53" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/commission/commission_pay.cpp" timestamp="1526985881153">
+        <mark key="'" line="59" column="8" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="47" />
+        <mark key="^" line="60" column="8" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/db/db_result.h" timestamp="1523500886475">
+        <mark key="'" line="167" column="29" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/utils/jsf_utils.hpp" timestamp="1526987407026">
+        <mark key="'" line="33" column="16" />
+        <mark key="[" line="48" column="16" />
+        <mark key="]" line="48" column="16" />
+        <mark key="." line="48" column="16" />
+        <mark key="^" line="48" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/ad_userinfo.cpp" timestamp="1527579069040">
+        <mark key="'" line="5" column="29" />
+        <mark key="[" line="104" column="12" />
+        <mark key="]" line="104" column="12" />
+        <mark key="." line="104" column="12" />
+        <mark key="^" line="104" column="12" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/thirdparty/gflags-2.0/src/gflags.cc" timestamp="1517055876701">
+        <mark key="'" line="1030" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/sales/ao/ao_sales.cpp" timestamp="1525829096236">
+        <mark key="'" line="974" column="14" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/common/util/src/idea.cpp" timestamp="1523270040147">
+        <mark key="'" line="1" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/netgo/src/jimdb_client.cpp" timestamp="1523688528885">
+        <mark key="'" line="377" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/include/qwd_query_allpinbanlance.h" timestamp="1524904439162">
+        <mark key="'" line="61" column="27" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/thirdparty/boost/unordered/unordered_map.hpp" timestamp="1516100438077">
+        <mark key="'" line="240" column="19" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/netgo/thirdparty/helloredis2/src/config.h" timestamp="1522843166803">
+        <mark key="'" line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/netgo/thirdparty/stringencoders-svn-355/src/modp_b64r.h" timestamp="1526454842958">
+        <mark key="'" line="67" column="7" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/boss/business/mix_non_seckill_and_seckill.hpp" timestamp="1524534344503">
+        <mark key="'" line="295" column="70" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/netgo/include/connection.hpp" timestamp="1521885533028">
+        <mark key="'" line="160" column="8" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/netgo/thirdparty/stringencoders-svn-355/src/modp_b64r.c" timestamp="1526459670146">
+        <mark key="'" line="78" column="7" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/app/ao/cfg_app.cpp" timestamp="1525829539474">
+        <mark key="'" line="47" column="50" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="41" column="12" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/bjgateway/ao/cfg_bjgateway.cpp" timestamp="1515147386304">
+        <mark key="'" line="9" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" timestamp="1527691699553">
+        <mark key="'" line="67" column="100" />
+        <mark key="[" line="62" column="29" />
+        <mark key="]" line="66" column="11" />
+        <mark key="." line="66" column="11" />
+        <mark key="^" line="66" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/jxj/front/static/js/qwd/qwd.coupon.js" timestamp="1524737941524">
+        <mark key="'" line="134" column="12" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/jsf_include/com-jd-couponActive-freeGet-saf-ActiveCouponSafService/jsf/coupon/getactivecouponrequest_coupon.h" timestamp="1524736412838">
+        <mark key="'" line="25" column="7" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/promote/svc/qwd.promote.h" timestamp="1525864365061">
+        <mark key="'" line="31" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/thirdparty/gflags-2.0/src/gflags/gflags.h" timestamp="1517041876038">
+        <mark key="'" line="546" column="22" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/common/db/include/dbacc_mysql.h" timestamp="1525764222158">
+        <mark key="'" line="20" column="33" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/promote/fcgi/qwd_share_merchant.cpp" timestamp="1524727108324">
+        <mark key="'" line="154" column="49" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="147" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/market/svc/qwd.market.h" timestamp="1525866102676">
+        <mark key="'" line="73" column="55" />
+      </file>
+      <file name="/Library/Developer/CommandLineTools/usr/include/c++/v1/unordered_map" timestamp="1527595952259">
+        <mark key="'" line="903" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/user/fcgi/qwd_user_query.cpp" timestamp="1524903158953">
+        <mark key="'" line="266" column="14" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/user/fcgi/qwd_user_update.cpp" timestamp="1525679786852">
+        <mark key="'" line="294" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/toft/net/http/http_request.h" timestamp="1509448567721">
+        <mark key="'" line="11" column="34" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/thirdparty/rapidjson-1.0.2/include/rapidjson/encodings.h" timestamp="1515384075311">
+        <mark key="'" line="96" column="22" />
+      </file>
+      <file name="/usr/include/execinfo.h" timestamp="1523520764574">
+        <mark key="'" line="31" column="44" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/db/async_db_manager.h" timestamp="1517915871729">
+        <mark key="'" line="15" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/market/ao/ao_market.cpp" timestamp="1525866116381">
+        <mark key="'" line="108" column="71" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/utils/sql_utils.hpp" timestamp="1523452401090">
+        <mark key="'" line="24" column="24" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/include/qwd_query_authentication.h" timestamp="1525679769488">
+        <mark key="'" line="29" column="8" />
+      </file>
+      <file name="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include/stddef.h" timestamp="1516016909004">
+        <mark key="'" line="99" column="21" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/app/fcgi/qwd_app_upgrade.cpp" timestamp="1512565419029">
+        <mark key="'" line="67" column="38" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/common/util/include/idea.h" timestamp="1523257340260">
+        <mark key="'" line="7" column="16" />
+      </file>
+      <file name="/Library/Developer/CommandLineTools/usr/include/c++/v1/algorithm" timestamp="1527231247901">
+        <mark key="'" line="1151" column="67" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/smart_ptr/enable_shared_from_this.hpp" timestamp="1523689840367">
+        <mark key="'" line="73" column="18" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/sales/svc/makefile" timestamp="1527748211981">
+        <mark key="[" line="23" column="61" />
+        <mark key="]" line="23" column="62" />
+        <mark key="^" line="23" column="62" />
+        <mark key="." line="23" column="62" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/netgo/include/exception_helper.hpp" timestamp="1521549549811">
+        <mark key="'" line="10" column="8" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/bjgateway/ao/cfg_bjgateway.h" timestamp="1515147433462">
+        <mark key="'" line="15" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/sales/fcgi/qwd_itemshare_jlx.cpp" timestamp="1524811264094">
+        <mark key="'" line="112" column="22" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/commission/fcgi/qwd_comm_spec.cpp" timestamp="1512122364375">
+        <mark key="'" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/thirdparty/rapidjson-1.0.2/include/rapidjson/stringbuffer.h" timestamp="1515392007930">
+        <mark key="'" line="56" column="10" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/gmonitor/src/registry.cpp" timestamp="1521195418962">
+        <mark key="'" line="79" column="35" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/item/fcgi/action_item.cpp" timestamp="1522662869273">
+        <mark key="'" line="198" column="43" />
+      </file>
+      <file name="/Library/Developer/CommandLineTools/usr/include/c++/v1/ostream" timestamp="1526871636951">
+        <mark key="'" line="151" column="27" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/util/channel/qwd_channel.h" timestamp="1524901491951">
+        <mark key="'" line="85" column="22" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/toft/net/http/http_client.h" timestamp="1524706066387">
+        <mark key="'" line="42" column="23" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/report/commission/fcgi/qwd_apply_coms_extract.cpp" timestamp="1524900410975">
+        <mark key="'" line="258" column="17" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/common/db/include/dbacc.h" timestamp="1525764275826">
+        <mark key="'" line="31" column="29" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/jsf_include/com-jd-pop-market-coupon-api-service-CouponReadService/jsf/pop/getbycouponidrequest_pop.h" timestamp="1527066273215">
+        <mark key="'" line="45" column="1" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/jsfgateway/ao/ao_jsfgateway.h" timestamp="1524735948734">
+        <mark key="'" line="51" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/sales/svc/qwd.sales.h" timestamp="1525829117765">
+        <mark key="'" line="48" column="8" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/sales/fcgi/qwd_sales_addbanner_tk.cpp" timestamp="1524109441077">
+        <mark key="'" line="189" column="17" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/submodule_load.sh" timestamp="1517314599391">
+        <mark key="'" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/gflags-2.0/src/gflags.cc" timestamp="1521702887200">
+        <mark key="'" line="733" column="24" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/coupon/svc/qwd.coupon.cpp" timestamp="1527515151000">
+        <mark key="'" line="35" column="10" />
+      </file>
+      <file name="$USER_HOME$/code/jxj/front/static/js/module/dm.qwd.bannerManage.js" timestamp="1524108046338">
+        <mark key="'" line="10" column="65" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/netgo/thirdparty/libevhtp-1.2.10/evhtp.h" timestamp="1515133143138">
+        <mark key="'" line="55" column="15" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/common/util/include/str.h" timestamp="1527607473214">
+        <mark key="'" line="8" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/netgo/include/http/http_response.hpp" timestamp="1523688745187">
+        <mark key="'" line="21" column="42" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/thirdparty/gmock-1.6.0/gtest/src/gtest.cc" timestamp="1515145773956">
+        <mark key="'" line="1164" column="26" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/netgo/src/worker.cpp" timestamp="1521877427440">
+        <mark key="'" line="305" column="19" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/promo_candidate.hpp" timestamp="1526987103320">
+        <mark key="'" line="267" column="16" />
+        <mark key="[" line="286" column="16" />
+        <mark key="]" line="286" column="16" />
+        <mark key="." line="286" column="16" />
+        <mark key="^" line="286" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/market/svc/qwd.market.cpp" timestamp="1524731519113">
+        <mark key="'" line="23" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/netgo/thirdparty/rapidjson-1.0.2/test/unittest/valuetest.cpp" timestamp="1514896804260">
+        <mark key="'" line="1249" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/jsf_include/com-jd-ads-data-skuSearchRetrieve/jsf/skusearch/outputvo.h" timestamp="1514434356960">
+        <mark key="'" line="32" column="17" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/jshare_server/utils/login/check_login.hpp" timestamp="1514447459786">
+        <mark key="'" line="5" column="41" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/algorithm/string/classification.hpp" timestamp="1523534397401">
+        <mark key="'" line="200" column="31" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/common/util/src/buffered_file_reader.cpp" timestamp="1508729749698">
+        <mark key="'" line="26" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/algorithm/string/split.hpp" timestamp="1524536758898">
+        <mark key="'" line="145" column="39" />
+      </file>
+      <file name="$USER_HOME$/code/jxj/front/static/js/boss/qwd/boss.qwd.editActivity.vue" timestamp="1527063217322">
+        <mark key="'" line="837" column="25" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/gmonitor/include/pbjson.hpp" timestamp="1527579091453">
+        <mark key="'" line="35" column="38" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/remark/svc/qwd.remark.cpp" timestamp="1514199047042">
+        <mark key="'" line="27" column="0" />
+      </file>
+      <file name="/sku_service.cpp" timestamp="1522845343055">
+        <mark key="'" line="162" column="56" />
+      </file>
+      <file name="/Library/Developer/CommandLineTools/usr/include/c++/v1/type_traits" timestamp="1527164935434">
+        <mark key="'" line="4426" column="22" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/util/qwd_promotecode_define.h" timestamp="1524812496897">
+        <mark key="'" line="17" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/clickserver/click_server/http_function.h" timestamp="1509442693192">
+        <mark key="'" line="14" column="6" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/thirdparty/rapidjson-1.0.2/include/rapidjson/internal/meta.h" timestamp="1515397274400">
+        <mark key="'" line="67" column="53" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/item/async/ao/cfg_itemasync.cpp" timestamp="1515412849360">
+        <mark key="'" line="34" column="22" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/util/render/qwd_common_render.h" timestamp="1524884597472">
+        <mark key="'" line="20" column="59" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/promote/ao/ao_promote.cpp" timestamp="1525864372109">
+        <mark key="'" line="97" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/ads_common/protobuf/sku_server/sku_server.proto" timestamp="1527665001256">
+        <mark key="'" line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/jxj/front/static/js/module/dm.qwd.shopCategory.js" timestamp="1525829240982">
+        <mark key="'" line="10" column="12" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/joft/crypto/rc4_crypto.cc" timestamp="1526455203891">
+        <mark key="'" line="85" column="47" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/utils/qwd_utils.cpp" timestamp="1526987432282">
+        <mark key="'" line="12" column="4" />
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="4" />
+        <mark key="." line="14" column="4" />
+        <mark key="^" line="14" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/config/jsf/jsf.json" timestamp="1526634209026">
+        <mark key="'" line="188" column="17" />
+        <mark key="[" line="261" column="17" />
+        <mark key="]" line="261" column="30" />
+        <mark key="^" line="205" column="17" />
+        <mark key="." line="205" column="17" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/asio/impl/error.ipp" timestamp="1523514217320">
+        <mark key="'" line="111" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/proto/jdcps_user.proto" timestamp="1522657891522">
+        <mark key="'" line="10" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/bjgateway/ao/aocps/qwd_cps_product.h" timestamp="1527678613701">
+        <mark key="'" line="42" column="23" />
+        <mark key="[" line="41" column="21" />
+        <mark key="]" line="41" column="21" />
+        <mark key="^" line="40" column="16" />
+        <mark key="." line="41" column="21" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/regex/v4/basic_regex.hpp" timestamp="1517803406036">
+        <mark key="'" line="331" column="75" />
+      </file>
+      <file name="$USER_HOME$/code/php_cps_cgi/web/jxj/includes/JxjConst.php" timestamp="1524737724473">
+        <mark key="'" line="66" column="10" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/boss/boss_handler.cpp" timestamp="1523688475453">
+        <mark key="'" line="19" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/user/fcgi/qwd_reg_invitation.cpp" timestamp="1525680530944">
+        <mark key="'" line="302" column="19" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/jshare_server/common/counter_helper.hpp" timestamp="1514889711170">
+        <mark key="'" line="7" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/external/tools/qwd_external_test.cpp" timestamp="1513246657300">
+        <mark key="'" line="83" column="31" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/ad_userinfo.hpp" timestamp="1517404522139">
+        <mark key="'" line="22" column="29" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/market/fcgi/qwd_query_marketlist.cpp" timestamp="1524731440151">
+        <mark key="'" line="336" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/include/qwd_external_queryapplycomm.h" timestamp="1524648225983">
+        <mark key="'" line="92" column="8" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/common/cgi/include/fcgi.h" timestamp="1520323553734">
+        <mark key="'" line="7" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/market/dao/mysql_qwdmarket.h" timestamp="1523893281624">
+        <mark key="'" line="97" column="42" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/request_handler/commission_handler.hpp" timestamp="1527490521830">
+        <mark key="'" line="68" column="15" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="76" />
+        <mark key="." line="125" column="14" />
+        <mark key="^" line="125" column="14" />
+      </file>
+      <file name="$USER_HOME$/code/jxj/front/jdqwd/coupons.shtml" timestamp="1524737942293">
+        <mark key="'" line="46" column="37" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/toft/net/http/http_client.cpp" timestamp="1515499411410">
+        <mark key="'" line="498" column="24" />
+      </file>
+      <file name="$USER_HOME$/code/php_cps_cgi/web/jxj/biz/coupon/ao/CouponAO.php" timestamp="1524737782722">
+        <mark key="'" line="27" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/ut/date_utils_test.cpp" timestamp="1527739371413">
+        <mark key="'" line="16" column="54" />
+        <mark key="[" line="21" column="69" />
+        <mark key="]" line="21" column="70" />
+        <mark key="." line="21" column="70" />
+        <mark key="^" line="22" column="38" />
+      </file>
+      <file name="$USER_HOME$/code/cps_cs/jdwi/item_view.cs" timestamp="1524124410127">
+        <mark key="'" line="142" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/jlx/user/fcgi/jlx_user_regist.cpp" timestamp="1525679939296">
+        <mark key="'" line="28" column="23" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/jmq/svc/qwd.jmq.h" timestamp="1519719687875">
+        <mark key="'" line="36" column="74" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/app/fcgi/qwd_app_sharemarket.cpp" timestamp="1525750945227">
+        <mark key="'" line="86" column="52" />
+        <mark key="[" line="86" column="47" />
+        <mark key="]" line="86" column="52" />
+        <mark key="." line="86" column="52" />
+        <mark key="^" line="86" column="52" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/config/db/db.json" timestamp="1524134976880">
+        <mark key="'" line="6" column="19" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/app/fcgi/qwd_app_login.cpp" timestamp="1525680930857">
+        <mark key="'" line="301" column="23" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.hpp" timestamp="1527696264401">
+        <mark key="'" line="64" column="80" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="65" column="15" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/school_status.hpp" timestamp="1526987288267">
+        <mark key="'" line="75" column="12" />
+        <mark key="[" line="75" column="12" />
+        <mark key="]" line="75" column="12" />
+        <mark key="." line="75" column="12" />
+        <mark key="^" line="75" column="12" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/pb/sku_service.proto" timestamp="1512983595015">
+        <mark key="'" line="113" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/exception/exception.hpp" timestamp="1520827933279">
+        <mark key="'" line="285" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/exception/cps_exception.hpp" timestamp="1527511755876">
+        <mark key="'" line="80" column="17" />
+        <mark key="[" line="80" column="80" />
+        <mark key="]" line="80" column="91" />
+        <mark key="^" line="80" column="16" />
+        <mark key="." line="80" column="80" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/thirdparty/rapidjson/document.h" timestamp="1515140334932">
+        <mark key="'" line="0" column="62" />
+      </file>
+      <file name="/Library/Developer/CommandLineTools/usr/include/c++/v1/memory" timestamp="1527213844696">
+        <mark key="'" line="4748" column="14" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/log/sources/severity_feature.hpp" timestamp="1526871715013">
+        <mark key="'" line="298" column="28" />
+      </file>
+      <file name="/Library/Developer/CommandLineTools/usr/include/c++/v1/string" timestamp="1527056705285">
+        <mark key="'" line="642" column="39" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/discount/fcgi/qwd_discount_bind.cpp" timestamp="1518168865174">
+        <mark key="'" line="165" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/user/fcgi/qwd_union_reg.cpp" timestamp="1524906119506">
+        <mark key="'" line="167" column="15" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/request_handler/url_promo_info_transfer_handler.hpp" timestamp="1526285663592">
+        <mark key="'" line="56" column="17" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/utils/log/campuss_log.hpp" timestamp="1526985258275">
+        <mark key="'" line="38" column="4" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="35" column="85" />
+        <mark key="." line="64" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/date_time/posix_time/posix_time_types.hpp" timestamp="1526979828151">
+        <mark key="'" line="39" column="40" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/chnrelation/svc/qwd.chnrelation.cpp" timestamp="1520332004824">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/sales/fcgi/qwd_searchitem_ex.h" timestamp="1523541152655">
+        <mark key="'" line="162" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/helloredis2/src/helloredis.h" timestamp="1522843216456">
+        <mark key="'" line="8" column="14" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/article/include/qwd_contentdetail_struct.h" timestamp="1511429989834">
+        <mark key="'" line="37" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/url_rule.hpp" timestamp="1524621192199">
+        <mark key="'" line="126" column="33" />
+        <mark key="[" line="174" column="32" />
+        <mark key="]" line="174" column="33" />
+        <mark key="^" line="174" column="33" />
+        <mark key="." line="174" column="33" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/utils/date_utils.hpp" timestamp="1527739156524">
+        <mark key="'" line="116" column="12" />
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="44" />
+        <mark key="." line="117" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/db/blocking_db_manager.h" timestamp="1523500982057">
+        <mark key="'" line="131" column="49" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/ut/nlohmann_json.cpp" timestamp="1527144898582">
+        <mark key="'" line="13" column="14" />
+      </file>
+      <file name="/usr/include/string.h" timestamp="1517050054372">
+        <mark key="'" line="71" column="14" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/jsftest/qwd_jsf_test.cpp" timestamp="1524648613074">
+        <mark key="'" line="110" column="45" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/sales/fcgi/qwd_sales_querybanner.cpp" timestamp="1513863946086">
+        <mark key="'" line="55" column="41" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/report/commission/fcgi/qwd_coms_account.cpp" timestamp="1524905136801">
+        <mark key="'" line="26" column="39" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/jsf_include/com-jd-ads-union-master-api-service-user-UserInfoService/jsf/bjunion/usercardidquevo.h" timestamp="1521118025460">
+        <mark key="'" line="158" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/import/mastercommissionreport_service.h" timestamp="1514967737912">
+        <mark key="'" line="253" column="10" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/commission/commission_account.cpp" timestamp="1527495152089">
+        <mark key="'" line="4" column="16" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="28" column="8" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/asio/impl/io_service.hpp" timestamp="1521876438389">
+        <mark key="'" line="97" column="12" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/include/qwd_jsf_utils.h" timestamp="1527609814479">
+        <mark key="'" line="40" column="45" />
+        <mark key="[" line="46" column="46" />
+        <mark key="]" line="46" column="46" />
+        <mark key="^" line="48" column="21" />
+        <mark key="." line="46" column="46" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" timestamp="1527696761354">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
+      </file>
+      <file name="/usr/include/Availability.h" timestamp="1523520770829">
+        <mark key="'" line="199" column="74" />
+      </file>
+      <file name="/Library/Developer/CommandLineTools/usr/include/c++/v1/__bit_reference" timestamp="1523886909173">
+        <mark key="'" line="304" column="75" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/article/fcgi/qwd_article_list.cpp" timestamp="1523615676421">
+        <mark key="'" line="57" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/pb/item_union.proto" timestamp="1516792732306">
+        <mark key="'" line="21" column="8" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/toft/net/http/http_client.h" timestamp="1515499390100">
+        <mark key="'" line="27" column="14" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/gmonitor/src/out_handler.cpp" timestamp="1523608730870">
+        <mark key="'" line="42" column="33" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/util/render/qwd_rbook_render.h" timestamp="1524884585638">
+        <mark key="'" line="50" column="36" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/proto/business/business_api.pb.h" timestamp="1521535610943">
+        <mark key="'" line="4747" column="47" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/stringencoders-svn-355/src/modp_b64r.h" timestamp="1526522637384">
+        <mark key="'" line="90" column="7" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/netgo/include/listener.hpp" timestamp="1526954623078">
+        <mark key="'" line="42" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/thirdparty/boost/thread/pthread/shared_mutex.hpp" timestamp="1516709722786">
+        <mark key="'" line="174" column="8" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/netgo/src/http_server.cpp" timestamp="1526632258344">
+        <mark key="'" line="23" column="55" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/utils/env_utils.cpp" timestamp="1527244458336">
+        <mark key="'" line="19" column="34" />
+        <mark key="[" line="34" column="4" />
+        <mark key="]" line="34" column="4" />
+        <mark key="." line="34" column="4" />
+        <mark key="^" line="29" column="34" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/date_time/microsec_time_clock.hpp" timestamp="1526979808873">
+        <mark key="'" line="73" column="19" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/stringencoders-svn-355/src/modp_b64r.c" timestamp="1526525372236">
+        <mark key="'" line="114" column="15" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="68" column="6" />
+        <mark key="." line="68" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/agreement/fcgi/qwd_agreement.cpp" timestamp="1525681036647">
+        <mark key="'" line="37" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/jsf_include/union-master-api-service-user/jsf/updateuser/mresultvo.h" timestamp="1521104155647">
+        <mark key="'" line="55" column="10" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/bjgateway/ao/aocps/qwd_cps_fetcher.cpp" timestamp="1527608411145">
+        <mark key="'" line="209" column="19" />
+        <mark key="[" line="158" column="21" />
+        <mark key="]" line="158" column="20" />
+        <mark key="." line="158" column="20" />
+        <mark key="^" line="158" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/asio/ip/tcp.hpp" timestamp="1526954631708">
+        <mark key="'" line="49" column="10" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/proto/jshare_user.proto" timestamp="1514893662665">
+        <mark key="'" line="33" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/activity/ao/ao_activity.cpp" timestamp="1527590736053">
+        <mark key="'" line="98" column="78" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/bjgateway/ao/aocps/qwd_cps_define.h" timestamp="1524567045945">
+        <mark key="'" line="96" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/app/fcgi/qwd_app_sharematerial.cpp" timestamp="1525768342621">
+        <mark key="'" line="39" column="32" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="42" column="23" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/commission/fcgi/qwd_apply_jt_rate.cpp" timestamp="1525678526397">
+        <mark key="'" line="123" column="84" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/smart_ptr/shared_ptr.hpp" timestamp="1522832933450">
+        <mark key="'" line="322" column="33" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/utils/api_utils.hpp" timestamp="1527576011781">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/promo_detector_result.hpp" timestamp="1526987115397">
+        <mark key="'" line="33" column="12" />
+        <mark key="[" line="48" column="12" />
+        <mark key="]" line="48" column="12" />
+        <mark key="." line="48" column="12" />
+        <mark key="^" line="48" column="12" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/coupon/fcgi/qwd_coupon_query.cpp" timestamp="1527605260463">
+        <mark key="'" line="114" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/request_handler/campus_handler.hpp" timestamp="1526348254871">
+        <mark key="'" line="40" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/ut/check_login_test.cpp" timestamp="1516017758352">
+        <mark key="'" line="20" column="33" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/ads_common/protobuf/SpuInfo.proto" timestamp="1522746730407">
+        <mark key="'" line="7" column="22" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/netgo/include/http/http_request.hpp" timestamp="1516355130208">
+        <mark key="'" line="118" column="24" />
+      </file>
+      <file name="/qwd_bjgateway_test.cpp" timestamp="1512039558086">
+        <mark key="'" line="25" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/convert_content_filler.hpp" timestamp="1526987073900">
+        <mark key="'" line="176" column="16" />
+        <mark key="[" line="187" column="16" />
+        <mark key="]" line="187" column="16" />
+        <mark key="." line="187" column="16" />
+        <mark key="^" line="187" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/product.hpp" timestamp="1526987089572">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/market/fcgi/qwd_render_together.cpp" timestamp="1525866142431">
+        <mark key="'" line="77" column="101" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/promote/svc/qwd.promote.cpp" timestamp="1525864362947">
+        <mark key="'" line="53" column="19" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/item/union/svc/item.union.cpp" timestamp="1516792634157">
+        <mark key="'" line="71" column="23" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/regex/config.hpp" timestamp="1517804233902">
+        <mark key="'" line="363" column="1" />
+      </file>
+      <file name="$USER_HOME$/code/cps_cs/qwd/qwd_apply_jt_rate.cs" timestamp="1512031054358">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/service/login_service.cpp" timestamp="1525661194866">
+        <mark key="'" line="81" column="21" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/rapidjson-1.0.2/include/rapidjson/rapidjson.h" timestamp="1527578894931">
+        <mark key="'" line="115" column="32" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/bjgateway/svc/qwd.bjgateway.cpp" timestamp="1526872687666">
+        <mark key="'" line="79" column="17" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/bjgateway/ao/aocps/qwd_pg_product.h" timestamp="1523955047064">
+        <mark key="'" line="14" column="34" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/asio/basic_deadline_timer.hpp" timestamp="1523689700896">
+        <mark key="'" line="500" column="15" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/include/qwd_external_extractcomm.h" timestamp="1519721250091">
+        <mark key="'" line="51" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/jdcps_request_handler.hpp" timestamp="1527166851296">
+        <mark key="'" line="132" column="83" />
+        <mark key="[" line="127" column="69" />
+        <mark key="]" line="127" column="69" />
+        <mark key="^" line="127" column="69" />
+        <mark key="." line="127" column="69" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/jsf_include/com-jd-ads-data-skuSearchRetrieve/jsf/skusearch/mainsearchresponse_skusearch.h" timestamp="1514434346236">
+        <mark key="'" line="26" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/include/qwd_query_userunioninfo.h" timestamp="1524901018214">
+        <mark key="'" line="20" column="10" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/thirdparty/boost/bind/bind.hpp" timestamp="1514895885827">
+        <mark key="'" line="1594" column="31" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/netgo/thirdparty/glog-0.3.2/src/glog/logging.h" timestamp="1523520454506">
+        <mark key="'" line="1538" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/date_time/year_month_day.hpp" timestamp="1521711071977">
+        <mark key="'" line="16" column="27" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/jsfgateway/svc/qwd.jsfgateway.h" timestamp="1527606516712">
+        <mark key="'" line="69" column="143" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/discount/ao/cfg_discount.cpp" timestamp="1518161129895">
+        <mark key="'" line="51" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/sales/cgi/action_sales.cpp" timestamp="1526368065098">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="/qwd_external_extractcomm.h" timestamp="1508839790086">
+        <mark key="'" line="75" column="29" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/exception/err_code_explain.hpp" timestamp="1527494834918">
+        <mark key="'" line="52" column="71" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/promote/dao/mysql_qwd_merchant.h" timestamp="1523278585379">
+        <mark key="'" line="96" column="14" />
+      </file>
+      <file name="$USER_HOME$/code/jxj/front/static/js/module/dm.qwd.distManage.js" timestamp="1524053744442">
+        <mark key="'" line="16" column="60" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/netgo/include/http_server.hpp" timestamp="1523689401960">
+        <mark key="'" line="80" column="22" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/sales/fcgi/qwd_followitem.cpp" timestamp="1527610545698">
+        <mark key="'" line="202" column="8" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="19" />
+        <mark key="^" line="212" column="85" />
+        <mark key="." line="212" column="85" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/wq_common/c2c_platform/jsf-sdk/include/jsf/bytestream.h" timestamp="1521171860816">
+        <mark key="'" line="1002" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspaceSet/clion/HttpUtils/curl/easy.h" timestamp="1509106307538">
+        <mark key="'" line="29" column="21" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/common/misc/include/hash__map.h" timestamp="1520843671931">
+        <mark key="'" line="135" column="15" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/netgo/include/exception.hpp" timestamp="1521874228271">
+        <mark key="'" line="17" column="32" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/jsf_include/com-jd-ads-union-allocate-api-external-service-master-MasterApi/jsf/commission/skuresvo.h" timestamp="1511351240651">
+        <mark key="'" line="389" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/jmq/svc/qwd.jmq.cpp" timestamp="1519719702876">
+        <mark key="'" line="36" column="14" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/remark/fcgi/qwd_remark_add.cpp" timestamp="1527756731962">
+        <mark key="'" line="54" column="24" />
+      </file>
+      <file name="$USER_HOME$/code/thirdparty/stringencoders-svn-355/test/modp_b64_test.c" timestamp="1526466728997">
+        <mark key="'" line="257" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/thirdparty/stringencoders-svn-355/test/cxx_test.cc" timestamp="1526466845386">
+        <mark key="'" line="219" column="19" />
+      </file>
+      <file name="/ao_remark.cpp" timestamp="1527676085577">
+        <mark key="'" line="299" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/toft/system/net/socket.h" timestamp="1524707440925">
+        <mark key="'" line="189" column="9" />
+      </file>
+      <file name="$USER_HOME$/code/jxj/front/static/js/module/dm.qwd.watchlist.js" timestamp="1524796750272">
+        <mark key="'" line="224" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/article/svc/qwd.article.cpp" timestamp="1523615492022">
+        <mark key="'" line="33" column="17" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/toft/encoding/base64.cpp" timestamp="1526522620293">
+        <mark key="'" line="68" column="36" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="70" />
+        <mark key="^" line="38" column="66" />
+        <mark key="." line="38" column="67" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/chnrelation/fcgi/qwd_chnrel_linkcopy.cpp" timestamp="1517367783133">
+        <mark key="'" line="203" column="24" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/utils/string_utils.hpp" timestamp="1527689755764">
+        <mark key="[" line="30" column="42" />
+        <mark key="]" line="30" column="42" />
+        <mark key="." line="30" column="42" />
+        <mark key="^" line="30" column="42" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/util/https_head.h" timestamp="1519719191530">
+        <mark key="'" line="8" column="26" />
+      </file>
+      <file name="$USER_HOME$/code/jxj/front/static/js/module/dm.qwd.spreaderSetPage.js" timestamp="1524054050119">
+        <mark key="'" line="189" column="41" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/gmonitor/src/pbjson.cpp" timestamp="1527576025915">
+        <mark key="'" line="490" column="33" />
+        <mark key="[" line="220" column="12" />
+        <mark key="]" line="220" column="11" />
+        <mark key="^" line="220" column="11" />
+        <mark key="." line="220" column="11" />
+      </file>
+      <file name="/Library/Developer/CommandLineTools/usr/include/c++/v1/bitset" timestamp="1523886912758">
+        <mark key="'" line="978" column="60" />
+      </file>
+      <file name="$USER_HOME$/code/php_cps_cgi/web/jxj/biz/coupon/cgi/ManageController.php" timestamp="1526036999092">
+        <mark key="'" line="36" column="43" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/netgo/include/logging.hpp" timestamp="1526952862171">
+        <mark key="'" line="262" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="45" column="151" />
+        <mark key="^" line="49" column="1" />
+        <mark key="." line="49" column="1" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/bjgateway/ao/aocps/qwd_cps_fetcher.h" timestamp="1524629379772">
+        <mark key="'" line="70" column="23" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/commission/commission_forecast.cpp" timestamp="1527739001764">
+        <mark key="'" line="15" column="64" />
+        <mark key="[" line="23" column="28" />
+        <mark key="]" line="23" column="37" />
+        <mark key="." line="93" column="8" />
+        <mark key="^" line="93" column="8" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/netgo/thirdparty/rapidjson-1.0.2/include/rapidjson/document.h" timestamp="1516022420707">
+        <mark key="'" line="559" column="5" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/system/error_code.hpp" timestamp="1527245214548">
+        <mark key="'" line="220" column="52" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/item/async/rpm/buildrpm.sh" timestamp="1524723957697">
+        <mark key="'" line="33" column="22" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/commission/commission_settle.cpp" timestamp="1526985964030">
+        <mark key="'" line="51" column="8" />
+        <mark key="[" line="55" column="8" />
+        <mark key="]" line="55" column="8" />
+        <mark key="." line="55" column="8" />
+        <mark key="^" line="55" column="8" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/app/ao/cfg_sales.h" timestamp="1524728680252">
+        <mark key="'" line="33" column="9" />
+        <mark key="[" line="48" column="15" />
+        <mark key="]" line="48" column="17" />
+        <mark key="." line="48" column="17" />
+        <mark key="^" line="48" column="17" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/article/svc/qwd.article.h" timestamp="1523615654641">
+        <mark key="'" line="25" column="55" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/commission/commission_account.hpp" timestamp="1525775900847">
+        <mark key="'" line="44" column="20" />
+        <mark key="[" line="44" column="41" />
+        <mark key="]" line="44" column="41" />
+        <mark key="." line="44" column="41" />
+        <mark key="^" line="46" column="42" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/date_time/date.hpp" timestamp="1521711060504">
+        <mark key="'" line="65" column="31" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/market/fcgi/qwd_gen_mkturl.cpp" timestamp="1524731419959">
+        <mark key="'" line="407" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/cps_server/utils/jsf_json/jsf_json.hpp" timestamp="1516886269104">
+        <mark key="'" line="88" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/request_handler/user_handler.hpp" timestamp="1527220386532">
+        <mark key="'" line="31" column="63" />
+        <mark key="[" line="31" column="77" />
+        <mark key="]" line="31" column="81" />
+        <mark key="." line="31" column="81" />
+        <mark key="^" line="31" column="81" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/config/dev/jsf/jsf.json" timestamp="1527477937035">
+        <mark key="'" line="338" column="4" />
+        <mark key="[" line="351" column="5" />
+        <mark key="]" line="365" column="4" />
+        <mark key="^" line="353" column="24" />
+        <mark key="." line="359" column="18" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/util/qwd_check_login.h" timestamp="1522140755476">
+        <mark key="'" line="123" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspaceSet/clion/HttpUtils/cmake-build-debug/CMakeFiles/CMakeOutput.log" timestamp="1509102697668">
+        <mark key="'" line="458" column="43" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/item/async/svc/if_itemasync.cpp" timestamp="1515412770954">
+        <mark key="'" line="11" column="25" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/activity/fcgi/qwd_activity_list.cpp" timestamp="1527591008481">
+        <mark key="'" line="265" column="56" />
+        <mark key="[" line="50" column="21" />
+        <mark key="]" line="50" column="42" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/stringencoders-svn-355/src/modp_b64r_data.h" timestamp="1526455763958">
+        <mark key="'" line="2" column="8" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/service/jsf_service.hpp" timestamp="1527597077731">
+        <mark key="[" line="496" column="40" />
+        <mark key="]" line="496" column="41" />
+        <mark key="." line="496" column="41" />
+        <mark key="^" line="496" column="44" />
+      </file>
+      <file name="/Library/Developer/CommandLineTools/usr/include/c++/v1/cstdint" timestamp="1516887964091">
+        <mark key="'" line="155" column="12" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/item/fcgi/view.h" timestamp="1522663381285">
+        <mark key="'" line="94" column="86" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/discount/svc/qwd.discount.cpp" timestamp="1518158669879">
+        <mark key="'" line="27" column="18" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/app/fcgi/qwd_app_sharemerchant.cpp" timestamp="1525864339561">
+        <mark key="'" line="49" column="4" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/agreement/ao/ao_agreement.cpp" timestamp="1525681569649">
+        <mark key="'" line="62" column="14" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/wpublic/svc/qwd.wpublic.h" timestamp="1527062159980">
+        <mark key="'" line="35" column="64" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/netgo/src/worker_mgr.cpp" timestamp="1523792254786">
+        <mark key="'" line="122" column="34" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/jshare_server/configor/configor.hpp" timestamp="1514863555054">
+        <mark key="'" line="6" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/netgo/thirdparty/gtest-1.6.0/BUILD" timestamp="1515751043007">
+        <mark key="'" line="21" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/cps_server/biz/jlx/user/svc/jlx.user.h" timestamp="1525679981191">
+        <mark key="'" line="18" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/netgo/include/upstream.hpp" timestamp="1527597120902">
+        <mark key="'" line="231" column="24" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/thirdparty/gflags-2.0/src/gflags/gflags_declare.h" timestamp="1521700530480">
+        <mark key="'" line="104" column="23" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/cps_server/jdcps_request_handler.hpp" timestamp="1516349805034">
+        <mark key="'" line="45" column="23" />
+      </file>
+      <file name="$USER_HOME$/code/jshare/thirdparty/boost/core/noncopyable.hpp" timestamp="1514878739382">
+        <mark key="'" line="43" column="32" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="226" column="76" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="232" column="10" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="134" column="40" filename="$USER_HOME$/code/jshare_server/cps_server/utils/log/trace_log.hpp" />
+      <jump line="48" column="23" filename="$USER_HOME$/code/jshare_server/cps_server/utils/log/trace_log.hpp" />
+      <jump line="60" column="9" filename="$USER_HOME$/code/jshare_server/cps_server/utils/log/trace_log.hpp" />
+      <jump line="148" column="4" filename="$USER_HOME$/code/jshare_server/cps_server/utils/log/trace_log.hpp" />
+      <jump line="141" column="4" filename="$USER_HOME$/code/jshare_server/cps_server/utils/log/trace_log.hpp" />
+      <jump line="125" column="16" filename="$USER_HOME$/code/jshare_server/cps_server/utils/log/trace_log.hpp" />
+      <jump line="33" column="16" filename="$USER_HOME$/code/jshare_server/cps_server/utils/log/trace_log.hpp" />
+      <jump line="7" column="0" filename="$USER_HOME$/code/jshare_server/cps_server/utils/log/trace_log.hpp" />
+      <jump line="64" column="24" filename="$USER_HOME$/code/jshare_server/cps_server/utils/log/trace_log.hpp" />
+      <jump line="218" column="19" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="132" column="89" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="183" column="16" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="177" column="87" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="137" column="11" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="53" column="19" filename="$USER_HOME$/code/cps_server/biz/qwshop/coupon/ao/ao_coupon.cpp" />
+      <jump line="300" column="21" filename="$USER_HOME$/code/cps_server/biz/qwshop/coupon/ao/ao_coupon.cpp" />
+      <jump line="299" column="24" filename="$USER_HOME$/code/cps_server/biz/qwshop/coupon/ao/ao_coupon.cpp" />
+      <jump line="291" column="32" filename="$USER_HOME$/code/cps_server/biz/qwshop/coupon/ao/ao_coupon.cpp" />
+      <jump line="23" column="21" filename="$USER_HOME$/code/cps_server/biz/qwshop/coupon/ao/ao_coupon.h" />
+      <jump line="222" column="0" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="225" column="7" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="70" column="0" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="73" column="39" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="75" column="26" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="76" column="16" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="74" column="55" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="111" column="43" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="259" column="15" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="258" column="61" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="255" column="16" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="251" column="16" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="250" column="22" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="89" column="59" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="88" column="37" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="71" column="17" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="37" column="91" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.hpp" />
+      <jump line="80" column="53" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="33" column="69" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="30" column="17" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="32" column="55" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="78" column="36" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="31" column="55" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="145" column="59" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="142" column="3" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="146" column="59" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="147" column="60" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="162" column="33" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="148" column="15" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="144" column="74" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="79" column="36" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="64" column="80" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.hpp" />
+      <jump line="22" column="61" filename="$USER_HOME$/code/jshare_server/cps_server/business/commission/commission_forecast.cpp" />
+      <jump line="23" column="39" filename="$USER_HOME$/code/jshare_server/cps_server/business/commission/commission_forecast.cpp" />
+      <jump line="26" column="55" filename="$USER_HOME$/code/jshare_server/cps_server/business/commission/commission_forecast.cpp" />
+      <jump line="27" column="26" filename="$USER_HOME$/code/jshare_server/cps_server/business/commission/commission_forecast.cpp" />
+      <jump line="40" column="29" filename="$USER_HOME$/code/jshare_server/cps_server/business/commission/commission_forecast.cpp" />
+      <jump line="104" column="25" filename="$USER_HOME$/code/jshare_server/cps_server/utils/date_utils.hpp" />
+      <jump line="56" column="33" filename="$USER_HOME$/code/jshare_server/cps_server/business/commission/commission_forecast.cpp" />
+      <jump line="58" column="0" filename="$USER_HOME$/code/jshare_server/cps_server/business/commission/commission_forecast.cpp" />
+      <jump line="46" column="23" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/commission_handler.cpp" />
+      <jump line="135" column="67" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/commission_handler.cpp" />
+      <jump line="135" column="0" filename="$USER_HOME$/code/jshare_server/cps_server/utils/date_utils.hpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/jshare_server/cps_server/utils/date_utils.hpp" />
+      <jump line="104" column="28" filename="/date_utils.hpp" />
+      <jump line="128" column="8" filename="$USER_HOME$/code/jshare_server/BUILD" />
+      <jump line="25" column="68" filename="$USER_HOME$/code/jshare_server/cps_server/business/commission/commission_forecast.cpp" />
+      <jump line="15" column="64" filename="$USER_HOME$/code/jshare_server/cps_server/business/commission/commission_forecast.cpp" />
+      <jump line="16" column="54" filename="$USER_HOME$/code/jshare_server/ut/date_utils_test.cpp" />
+      <jump line="96" column="32" filename="$USER_HOME$/code/jshare_server/cps_server/utils/date_utils.hpp" />
+      <jump line="115" column="17" filename="$USER_HOME$/code/jshare_server/cps_server/utils/date_utils.hpp" />
+      <jump line="118" column="24" filename="$USER_HOME$/code/jshare_server/cps_server/utils/date_utils.hpp" />
+      <jump line="117" column="23" filename="$USER_HOME$/code/jshare_server/cps_server/utils/date_utils.hpp" />
+      <jump line="116" column="12" filename="$USER_HOME$/code/jshare_server/cps_server/utils/date_utils.hpp" />
+      <jump line="34" column="32" filename="$USER_HOME$/code/cps_server/biz/qwshop/remark/fcgi/qwd_remark_add.cpp" />
+      <jump line="38" column="4" filename="$USER_HOME$/code/cps_server/biz/qwshop/remark/fcgi/qwd_remark_add.cpp" />
+      <jump line="39" column="4" filename="$USER_HOME$/code/cps_server/biz/qwshop/remark/fcgi/qwd_remark_add.cpp" />
+      <jump line="40" column="4" filename="$USER_HOME$/code/cps_server/biz/qwshop/remark/fcgi/qwd_remark_add.cpp" />
+      <jump line="41" column="4" filename="$USER_HOME$/code/cps_server/biz/qwshop/remark/fcgi/qwd_remark_add.cpp" />
+      <jump line="42" column="4" filename="$USER_HOME$/code/cps_server/biz/qwshop/remark/fcgi/qwd_remark_add.cpp" />
+      <jump line="43" column="4" filename="$USER_HOME$/code/cps_server/biz/qwshop/remark/fcgi/qwd_remark_add.cpp" />
+      <jump line="44" column="4" filename="$USER_HOME$/code/cps_server/biz/qwshop/remark/fcgi/qwd_remark_add.cpp" />
+      <jump line="45" column="4" filename="$USER_HOME$/code/cps_server/biz/qwshop/remark/fcgi/qwd_remark_add.cpp" />
+      <jump line="46" column="4" filename="$USER_HOME$/code/cps_server/biz/qwshop/remark/fcgi/qwd_remark_add.cpp" />
+      <jump line="47" column="4" filename="$USER_HOME$/code/cps_server/biz/qwshop/remark/fcgi/qwd_remark_add.cpp" />
+      <jump line="48" column="4" filename="$USER_HOME$/code/cps_server/biz/qwshop/remark/fcgi/qwd_remark_add.cpp" />
+      <jump line="49" column="4" filename="$USER_HOME$/code/cps_server/biz/qwshop/remark/fcgi/qwd_remark_add.cpp" />
+      <jump line="50" column="4" filename="$USER_HOME$/code/cps_server/biz/qwshop/remark/fcgi/qwd_remark_add.cpp" />
+      <jump line="51" column="4" filename="$USER_HOME$/code/cps_server/biz/qwshop/remark/fcgi/qwd_remark_add.cpp" />
+      <jump line="52" column="6" filename="$USER_HOME$/code/cps_server/biz/qwshop/remark/fcgi/qwd_remark_add.cpp" />
+      <jump line="54" column="24" filename="$USER_HOME$/code/cps_server/biz/qwshop/remark/fcgi/qwd_remark_add.cpp" />
+      <jump line="13" column="29" filename="$USER_HOME$/code/jshare_server/ut/protocol_buffer_test.cpp" />
+      <jump line="15" column="12" filename="$USER_HOME$/code/jshare_server/ut/protocol_buffer_test.cpp" />
+      <jump line="16" column="47" filename="$USER_HOME$/code/jshare_server/ut/protocol_buffer_test.cpp" />
+      <jump line="11" column="15" filename="$USER_HOME$/code/jshare_server/ut/protocol_buffer_test.cpp" />
+      <jump line="9" column="38" filename="$USER_HOME$/code/jshare_server/ut/protocol_buffer_test.cpp" />
+      <jump line="478" column="0" filename="$USER_HOME$/code/jshare_server/cps_server/utils/protocol_utils.hpp" />
+      <jump line="36" column="18" filename="$USER_HOME$/code/jshare_server/CMakeLists.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/jshare_server/CMakeLists.txt" />
+    </jumps>
+    <registers>
+      <register name="a" type="4">
+        <text>0f(lllyebbbbf_lvepbf_lveuj</text>
+      </register>
+      <register name="b" type="4">
+        <text>f,lldf(f)xj</text>
+      </register>
+      <register name="j" type="4">
+        <text>k</text>
+      </register>
+      <register name="-" type="4">
+        <text>31</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxtZXNzYWdlXD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">Y21ha2VfbWluaW11bV9yZXF1aXJlZChWRVJTSU9OIDMuOSkKcHJvamVjdChqc2hhcmVfc2VydmVyKQoKc2V0KENNQUtFX0NYWF9TVEFOREFSRCAxMSkKCmluY2x1ZGVfZGlyZWN0b3JpZXMoLi4vanNoYXJlX3NlcnZlcgogICAgICAgIC4vdGhpcmRwYXJ0eQogICAgICAgIC4vbmV0Z28KICAgICAgICAuL25ldGdvL2luY2x1ZGUKICAgICAgICAuL3Byb3RvCiAgICAgICAgKQoKYXV4X3NvdXJjZV9kaXJlY3RvcnkoY3BzX3NlcnZlciBESVJfU1JDUykKYXV4X3NvdXJjZV9kaXJlY3RvcnkoY3BzX3NlcnZlci9ib3NzIERJUl9TUkNTKQphdXhfc291cmNlX2RpcmVjdG9yeShjcHNfc2VydmVyL2J1c2luZXNzIERJUl9TUkNTKQphdXhfc291cmNlX2RpcmVjdG9yeShjcHNfc2VydmVyL2NvbW1vbiBESVJfU1JDUykKYXV4X3NvdXJjZV9kaXJlY3RvcnkoY3BzX3NlcnZlci9jb25maWcgRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KGNwc19zZXJ2ZXIvY29uZmlnb3IgRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KGNwc19zZXJ2ZXIvY29uc3QgRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KGNwc19zZXJ2ZXIvZGIgRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KGNwc19zZXJ2ZXIvZXhjZXB0aW9uIERJUl9TUkNTKQphdXhfc291cmNlX2RpcmVjdG9yeShjcHNfc2VydmVyL21vbml0b3IgRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KGNwc19zZXJ2ZXIvY29uc3QgRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KGNwc19zZXJ2ZXIvcmVxdWVzdF9oYW5kbGVyIERJUl9TUkNTKQphdXhfc291cmNlX2RpcmVjdG9yeShjcHNfc2VydmVyL3NlcnZpY2UgRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KGNwc19zZXJ2ZXIvdXRpbHMgRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KGNwc19zZXJ2ZXIvdXRpbHMvanNmX2pzb24gRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KGNwc19zZXJ2ZXIvdXRpbHMvbG9naW4gRElSX1NSQ1MpCgphdXhfc291cmNlX2RpcmVjdG9yeShuZXRnbyBESVJfU1JDUykKYXV4X3NvdXJjZV9kaXJlY3RvcnkocHJvdG8gRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KHV0IERJUl9TUkNTKQphdXhfc291cmNlX2RpcmVjdG9yeShhZHNfY29tbW9uIERJUl9TUkNTKQphdXhfc291cmNlX2RpcmVjdG9yeSh0aGlyZHBhcnR5L2Jvb3N0IERJUl9TUkNTKQoKYWRkX2V4ZWN1dGFibGUoanNoYXJlX3NlcnZlcgogICAgICAgICR7RElSX1NSQ1N9CiAgICAgICAgY3BzX3NlcnZlci8KICAgICAgICBhZHNfY29tbW9uLwogICAgICAgIGNwc19zZXJ2ZXIvdXRpbHMKICAgICAgICBwcm90by9mdW5jdGlvbl9hcGkucGIuaAogICAgICAgIHByb3RvL2J1c2luZXNzCiAgICAgICAgcHJvdG8vc2t1c2VydmljZQogICAgICAgIG5ldGdvLwogICAgICAgIG5ldGdvL2luY2x1ZGUvCiAgICAgICAgY3BzX3NlcnZlci9jb25zdC8KICAgICAgICBjcHNfc2VydmVyL3JlcXVlc3RfaGFuZGxlci8KICAgICAgICBjcHNfc2VydmVyL2J1c2luZXNzLwogICAgICAgIGNwc19zZXJ2ZXIvYnVzaW5lc3MvdXJsX2NvbnZlcnQvCiAgICAgICAgKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBFWFBFQ1RfRVEoc3RkOjpzdHJpbmcoIjIwMTgwMzMxIiksIERhdGVVdGlsczo6Tk1vbnRoQWdvRW5kKDIpKTsKICAgICAgICBFWFBFQ1RfRVEoc3RkOjpzdHJpbmcoIjIwMTgwMjI4IiksIERhdGVVdGlsczo6Tk1vbnRoQWdvRW5kKDMpKTsK</text>
+      </register>
+      <register name="q" type="4">
+        <text>@af;r,j017@af;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0@af;r,j0kkkkkkkkkkkkkkkkkkkkkkjjjb</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBFWFBFQ1RfRVEoc3RkOjpzdHJpbmcoIjIwMTgwMjI4IiksIERhdGVVdGlsczo6Tk1vbnRoQWdvRW5kKDMpKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXV0byB5bWQgPSBkYXkueWVhcl9tb250aF9kYXkoKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyDorr7nva5SZXNwb25zZSBlcnJjb2Rl5Li6MAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIOa4heepulJlcXVlc3Qg5ZKMIFJlc3BvbnNlCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyBhZGQgZGIgaW5mbyB0byByZXNwb25zZQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzdGQ6OnVub3JkZXJlZF9tYXA8aW50NjRfdCwgQ291cG9uSnNmU2VydmljZTo6UmVzcFB0cj4gUXVlcnlPcHRpbWFsQ291cG9uKAogICAgICAgICAgICAgICAgY29uc3Qgc3RkOjp2ZWN0b3I8aW50NjRfdD4gJnNrdUlkcywgY29uc3Qgc3RkOjp2ZWN0b3I8aW50NjRfdD4gJmNvdXBvbklkcyk7Cg==</text>
+      </register>
+      <register name="w" type="4">
+        <text>jkjk</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3Qgc3RkOjp1bm9yZGVyZWRfbWFwPGludDY0X3QsIHN0ZDo6dmVjdG9yPHN0ZDo6cGFpcjxpbnQ2NF90LCBpbnQ2NF90Pj4+ICZza3VDb3Vwb25JZE1hcCl7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXV0byBza3VDb3Vwb25NYXAgPSBRdWVyeVNrdUNvdXBvbk1hcEZyb21EYihza3VJZHMsIGNvdXBvbklkcyk7Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxtZXNzYWdlXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxtZXNzYWdlXD4=</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute encoding="base64">XDxyZXN1bHRcPg==</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxQcmludE1hcFw+</entry>
+        <entry encoding="base64">XDxRdWVyeVNrdUNvdXBvbk1hcEZyb21EYlw+</entry>
+        <entry encoding="base64">XDxzZXRfcXVvdGFcPg==</entry>
+        <entry encoding="base64">XDxjXD4=</entry>
+        <entry encoding="base64">XDxxdW90YVw+</entry>
+        <entry encoding="base64">XDxjb3Vwb25zXD4=</entry>
+        <entry encoding="base64">XDxRd2RDb3Vwb25cPg==</entry>
+        <entry encoding="base64">XDxza3VJZENvdXBvbkRiTWFwXD4=</entry>
+        <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
+        <entry encoding="base64">XDxza3VDb3Vwb25JZE1hcFw+</entry>
+        <entry encoding="base64">XDxza3VJbmZvTWFwUHRyXD4=</entry>
+        <entry encoding="base64">XDxza3VDb3Vwb25NYXBcPg==</entry>
+        <entry encoding="base64">XDxza3VJZHNcPg==</entry>
+        <entry encoding="base64">XDxjb3Vwb25JZHNcPg==</entry>
+        <entry encoding="base64">XDxRdWVyeU9wdGltYWxDb3Vwb25cPg==</entry>
+        <entry encoding="base64">XDx1bmlvbklkXD4=</entry>
+        <entry encoding="base64">XDx5bWRcPg==</entry>
+        <entry encoding="base64">XDxkYXlcPg==</entry>
+        <entry encoding="base64">XDxvUmVxXD4=</entry>
+        <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>/</entry>
+        <entry>:%s</entry>
+        <entry>rege</entry>
+        <entry>reg</entry>
+        <entry>set nu</entry>
+        <entry>set number</entry>
+        <entry>q</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
