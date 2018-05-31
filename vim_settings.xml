@@ -1190,6 +1190,9 @@
       <file name="$USER_HOME$/code/cps_server/common/cgi/include/fcgi.h" timestamp="1520323553734">
         <mark key="'" line="7" column="9" />
       </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/coupon_jsf_service.hpp" timestamp="1527769294864">
+        <mark key="'" line="22" column="8" />
+      </file>
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/market/dao/mysql_qwdmarket.h" timestamp="1523893281624">
         <mark key="'" line="97" column="42" />
       </file>
@@ -1798,7 +1801,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="226" column="76" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
       <jump line="232" column="10" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
       <jump line="134" column="40" filename="$USER_HOME$/code/jshare_server/cps_server/utils/log/trace_log.hpp" />
       <jump line="48" column="23" filename="$USER_HOME$/code/jshare_server/cps_server/utils/log/trace_log.hpp" />
@@ -1898,6 +1900,7 @@
       <jump line="478" column="0" filename="$USER_HOME$/code/jshare_server/cps_server/utils/protocol_utils.hpp" />
       <jump line="36" column="18" filename="$USER_HOME$/code/jshare_server/CMakeLists.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/code/jshare_server/CMakeLists.txt" />
+      <jump line="22" column="8" filename="$USER_HOME$/code/jshare_server/cps_server/business/coupon_jsf_service.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
