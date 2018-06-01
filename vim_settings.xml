@@ -917,10 +917,10 @@
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/bjgateway/ao/cfg_bjgateway.cpp" timestamp="1515147386304">
         <mark key="'" line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" timestamp="1527775766827">
-        <mark key="'" line="141" column="24" />
-        <mark key="[" line="153" column="28" />
-        <mark key="]" line="153" column="301" />
+      <file name="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" timestamp="1527843904528">
+        <mark key="'" line="286" column="68" />
+        <mark key="[" line="281" column="44" />
+        <mark key="]" line="281" column="56" />
         <mark key="^" line="153" column="27" />
         <mark key="." line="153" column="28" />
       </file>
@@ -1830,7 +1830,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="55" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
       <jump line="78" column="36" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
       <jump line="31" column="55" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
       <jump line="145" column="59" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
@@ -1930,6 +1929,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/cps_server/biz/qwshop/bjgateway/ao/ao_bjgateway.cpp" />
       <jump line="1075" column="12" filename="$USER_HOME$/code/cps_server/biz/qwshop/bjgateway/ao/ao_bjgateway.cpp" />
       <jump line="197" column="87" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="286" column="68" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1948,7 +1948,7 @@
         <text encoding="base64">XDxza3VJZFw+</text>
       </register>
       <register name="0" type="4">
-        <text>deleteFlag = 2</text>
+        <text>SkuReportPool</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgb2xkRGF0YS5hcHBlbmQoIiBXSEVSRSAxID0gMSAiKTsK</text>
