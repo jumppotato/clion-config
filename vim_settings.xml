@@ -1265,8 +1265,8 @@
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/app/fcgi/qwd_app_login.cpp" timestamp="1525680930857">
         <mark key="'" line="301" column="23" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.hpp" timestamp="1527696264401">
-        <mark key="'" line="64" column="80" />
+      <file name="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.hpp" timestamp="1527857577631">
+        <mark key="'" line="66" column="0" />
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
@@ -1394,7 +1394,7 @@
         <mark key="^" line="48" column="21" />
         <mark key="." line="46" column="46" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" timestamp="1527846848245">
+      <file name="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" timestamp="1527858126951">
         <mark key="'" line="197" column="87" />
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="0" />
@@ -1830,7 +1830,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="60" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
       <jump line="162" column="33" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
       <jump line="148" column="15" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
       <jump line="144" column="74" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
@@ -1930,6 +1929,7 @@
       <jump line="165" column="12" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
       <jump line="177" column="49" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
       <jump line="166" column="12" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
+      <jump line="66" column="0" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1945,7 +1945,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbGREYXRhXD4=</text>
+        <text>original</text>
       </register>
       <register name="0" type="4">
         <text>SkuReportPool</text>
@@ -1988,9 +1988,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvbGREYXRhXD4=</last-search>
+      <last-search>original</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbGREYXRhXD4=</last-pattern>
+      <last-pattern>original</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXN1bHRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1998,7 +1998,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
         <entry encoding="base64">XDxza3VDb3Vwb25JZE1hcFw+</entry>
         <entry encoding="base64">XDxza3VJbmZvTWFwUHRyXD4=</entry>
         <entry encoding="base64">XDxza3VDb3Vwb25NYXBcPg==</entry>
@@ -2018,6 +2017,7 @@
         <entry encoding="base64">XDxjb3Vwb25JZHNTdHJcPg==</entry>
         <entry encoding="base64">XDxza3VJZFw+</entry>
         <entry encoding="base64">XDxvbGREYXRhXD4=</entry>
+        <entry>original</entry>
       </history-search>
       <history-cmd>
         <entry>/</entry>
