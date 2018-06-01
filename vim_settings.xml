@@ -235,8 +235,8 @@
       <file name="$USER_HOME$/code/jshare_server/netgo/include/redis_client.hpp" timestamp="1523608831010">
         <mark key="'" line="20" column="10" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/cps_server/utils/protocol_utils.hpp" timestamp="1527758060396">
-        <mark key="'" line="478" column="0" />
+      <file name="$USER_HOME$/code/jshare_server/cps_server/utils/protocol_utils.hpp" timestamp="1527864407434">
+        <mark key="'" line="405" column="24" />
       </file>
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/sales/fcgi/qwd_fxitem_query.cpp" timestamp="1524824844560">
         <mark key="'" line="75" column="18" />
@@ -629,7 +629,7 @@
       <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/core/noncopyable.hpp" timestamp="1522829580998">
         <mark key="'" line="43" column="22" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/cps_server/business/union_user_info.cpp" timestamp="1527858308817">
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/union_user_info.cpp" timestamp="1527864389478">
         <mark key="'" line="46" column="46" />
       </file>
       <file name="$USER_HOME$/code/jshare/jshare_server/common/counter_helper.cpp" timestamp="1514895642864">
@@ -1836,11 +1836,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="74" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
-      <jump line="79" column="36" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
-      <jump line="64" column="80" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.hpp" />
-      <jump line="22" column="61" filename="$USER_HOME$/code/jshare_server/cps_server/business/commission/commission_forecast.cpp" />
-      <jump line="23" column="39" filename="$USER_HOME$/code/jshare_server/cps_server/business/commission/commission_forecast.cpp" />
       <jump line="26" column="55" filename="$USER_HOME$/code/jshare_server/cps_server/business/commission/commission_forecast.cpp" />
       <jump line="27" column="26" filename="$USER_HOME$/code/jshare_server/cps_server/business/commission/commission_forecast.cpp" />
       <jump line="40" column="29" filename="$USER_HOME$/code/jshare_server/cps_server/business/commission/commission_forecast.cpp" />
@@ -1935,7 +1930,12 @@
       <jump line="166" column="12" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
       <jump line="66" column="0" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.hpp" />
       <jump line="306" column="46" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/commission_handler.cpp" />
+      <jump line="16" column="20" filename="$USER_HOME$/code/jshare_server/cps_server/business/union_user_info.cpp" />
+      <jump line="31" column="20" filename="$USER_HOME$/code/jshare_server/cps_server/business/union_user_info.cpp" />
+      <jump line="39" column="20" filename="$USER_HOME$/code/jshare_server/cps_server/business/union_user_info.cpp" />
       <jump line="46" column="46" filename="$USER_HOME$/code/jshare_server/cps_server/business/union_user_info.cpp" />
+      <jump line="166" column="20" filename="$USER_HOME$/code/jshare_server/cps_server/utils/protocol_utils.hpp" />
+      <jump line="405" column="24" filename="$USER_HOME$/code/jshare_server/cps_server/utils/protocol_utils.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1951,7 +1951,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxRdWVyeUluZm9cPg==</text>
+        <text encoding="base64">XDxDb3B5UHJvcGVydGllc1w+</text>
       </register>
       <register name="0" type="4">
         <text>SkuReportPool</text>
@@ -1994,17 +1994,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxRdWVyeUluZm9cPg==</last-search>
+      <last-search encoding="base64">XDxDb3B5UHJvcGVydGllc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxRdWVyeUluZm9cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxDb3B5UHJvcGVydGllc1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXN1bHRcPg==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxza3VJbmZvTWFwUHRyXD4=</entry>
         <entry encoding="base64">XDxza3VDb3Vwb25NYXBcPg==</entry>
         <entry encoding="base64">XDxza3VJZHNcPg==</entry>
         <entry encoding="base64">XDxRdWVyeU9wdGltYWxDb3Vwb25cPg==</entry>
@@ -2024,6 +2023,7 @@
         <entry encoding="base64">XDxvbGREYXRhXD4=</entry>
         <entry>original</entry>
         <entry encoding="base64">XDxRdWVyeUluZm9cPg==</entry>
+        <entry encoding="base64">XDxDb3B5UHJvcGVydGllc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>/</entry>
