@@ -409,6 +409,9 @@
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/relation/fcgi/qwd_relation_mktadd.cpp" timestamp="1524023197729">
         <mark key="'" line="278" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/coupon/bin/qwd.dailycoupon.cpp" timestamp="1527859751459">
+        <mark key="'" line="229" column="21" />
+      </file>
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/remark/fcgi/qwd_remark_query.cpp" timestamp="1514256612111">
         <mark key="'" line="110" column="11" />
       </file>
@@ -421,7 +424,7 @@
       <file name="$USER_HOME$/Documents/workspaceSet/clion/HttpUtils/curl/curl.h" timestamp="1509106366087">
         <mark key="'" line="2732" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527756732470">
+      <file name="/Dummy.txt" timestamp="1527860058396">
         <mark key="'" line="0" column="4" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -785,6 +788,13 @@
       </file>
       <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/date_time/gregorian_calendar.hpp" timestamp="1526976635977">
         <mark key="'" line="30" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/coupon/dao/mysql_qwdcoupon.cpp" timestamp="1527859952298">
+        <mark key="'" line="12" column="228" />
+        <mark key="[" line="184" column="18" />
+        <mark key="]" line="184" column="28" />
+        <mark key="^" line="184" column="34" />
+        <mark key="." line="184" column="18" />
       </file>
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/include/qwd_query_rbook.h" timestamp="1525679481956">
         <mark key="'" line="44" column="29" />
@@ -1827,14 +1837,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="55" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
-      <jump line="111" column="43" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
-      <jump line="259" column="15" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
-      <jump line="258" column="61" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
-      <jump line="255" column="16" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
-      <jump line="251" column="16" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
-      <jump line="250" column="22" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
-      <jump line="89" column="59" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
       <jump line="88" column="37" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
       <jump line="71" column="17" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
       <jump line="37" column="91" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.hpp" />
@@ -1927,6 +1929,14 @@
       <jump line="308" column="8" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/relation/ao/ao_relation.cpp" />
       <jump line="309" column="11" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/relation/ao/ao_relation.cpp" />
       <jump line="311" column="12" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/relation/ao/ao_relation.cpp" />
+      <jump line="229" column="21" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/coupon/bin/qwd.dailycoupon.cpp" />
+      <jump line="182" column="4" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/coupon/dao/mysql_qwdcoupon.cpp" />
+      <jump line="183" column="4" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/coupon/dao/mysql_qwdcoupon.cpp" />
+      <jump line="185" column="41" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/coupon/dao/mysql_qwdcoupon.cpp" />
+      <jump line="186" column="30" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/coupon/dao/mysql_qwdcoupon.cpp" />
+      <jump line="190" column="57" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/coupon/dao/mysql_qwdcoupon.cpp" />
+      <jump line="184" column="18" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/coupon/dao/mysql_qwdcoupon.cpp" />
+      <jump line="12" column="228" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/coupon/dao/mysql_qwdcoupon.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1935,17 +1945,17 @@
       <register name="b" type="4">
         <text>f,lldf(f)xj</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcm90by9mdW5jdGlvbl9hcGkucGIuaAo=</text>
+      <register name="&quot;" type="4">
+        <text>deleteFlag</text>
       </register>
       <register name="j" type="4">
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>31</text>
+        <text>deleteFlag</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvUmVsYXRpb25EYXRhXD4=</text>
+        <text encoding="base64">XDxEZWxldGVGbGFnXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y21ha2VfbWluaW11bV9yZXF1aXJlZChWRVJTSU9OIDMuOSkKcHJvamVjdChqc2hhcmVfc2VydmVyKQoKc2V0KENNQUtFX0NYWF9TVEFOREFSRCAxMSkKCmluY2x1ZGVfZGlyZWN0b3JpZXMoLi4vanNoYXJlX3NlcnZlcgogICAgICAgIC4vdGhpcmRwYXJ0eQogICAgICAgIC4vbmV0Z28KICAgICAgICAuL25ldGdvL2luY2x1ZGUKICAgICAgICAuL3Byb3RvCiAgICAgICAgKQoKYXV4X3NvdXJjZV9kaXJlY3RvcnkoY3BzX3NlcnZlciBESVJfU1JDUykKYXV4X3NvdXJjZV9kaXJlY3RvcnkoY3BzX3NlcnZlci9ib3NzIERJUl9TUkNTKQphdXhfc291cmNlX2RpcmVjdG9yeShjcHNfc2VydmVyL2J1c2luZXNzIERJUl9TUkNTKQphdXhfc291cmNlX2RpcmVjdG9yeShjcHNfc2VydmVyL2NvbW1vbiBESVJfU1JDUykKYXV4X3NvdXJjZV9kaXJlY3RvcnkoY3BzX3NlcnZlci9jb25maWcgRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KGNwc19zZXJ2ZXIvY29uZmlnb3IgRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KGNwc19zZXJ2ZXIvY29uc3QgRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KGNwc19zZXJ2ZXIvZGIgRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KGNwc19zZXJ2ZXIvZXhjZXB0aW9uIERJUl9TUkNTKQphdXhfc291cmNlX2RpcmVjdG9yeShjcHNfc2VydmVyL21vbml0b3IgRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KGNwc19zZXJ2ZXIvY29uc3QgRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KGNwc19zZXJ2ZXIvcmVxdWVzdF9oYW5kbGVyIERJUl9TUkNTKQphdXhfc291cmNlX2RpcmVjdG9yeShjcHNfc2VydmVyL3NlcnZpY2UgRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KGNwc19zZXJ2ZXIvdXRpbHMgRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KGNwc19zZXJ2ZXIvdXRpbHMvanNmX2pzb24gRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KGNwc19zZXJ2ZXIvdXRpbHMvbG9naW4gRElSX1NSQ1MpCgphdXhfc291cmNlX2RpcmVjdG9yeShuZXRnbyBESVJfU1JDUykKYXV4X3NvdXJjZV9kaXJlY3RvcnkocHJvdG8gRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KHV0IERJUl9TUkNTKQphdXhfc291cmNlX2RpcmVjdG9yeShhZHNfY29tbW9uIERJUl9TUkNTKQphdXhfc291cmNlX2RpcmVjdG9yeSh0aGlyZHBhcnR5L2Jvb3N0IERJUl9TUkNTKQoKYWRkX2V4ZWN1dGFibGUoanNoYXJlX3NlcnZlcgogICAgICAgICR7RElSX1NSQ1N9CiAgICAgICAgY3BzX3NlcnZlci8KICAgICAgICBhZHNfY29tbW9uLwogICAgICAgIGNwc19zZXJ2ZXIvdXRpbHMKICAgICAgICBwcm90by9mdW5jdGlvbl9hcGkucGIuaAogICAgICAgIHByb3RvL2J1c2luZXNzCiAgICAgICAgcHJvdG8vc2t1c2VydmljZQogICAgICAgIG5ldGdvLwogICAgICAgIG5ldGdvL2luY2x1ZGUvCiAgICAgICAgY3BzX3NlcnZlci9jb25zdC8KICAgICAgICBjcHNfc2VydmVyL3JlcXVlc3RfaGFuZGxlci8KICAgICAgICBjcHNfc2VydmVyL2J1c2luZXNzLwogICAgICAgIGNwc19zZXJ2ZXIvYnVzaW5lc3MvdXJsX2NvbnZlcnQvCiAgICAgICAgKQo=</text>
@@ -1988,9 +1998,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvUmVsYXRpb25EYXRhXD4=</last-search>
+      <last-search encoding="base64">XDxEZWxldGVGbGFnXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvUmVsYXRpb25EYXRhXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxEZWxldGVGbGFnXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXN1bHRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1998,8 +2008,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
-        <entry encoding="base64">XDxza3VDb3Vwb25JZE1hcFw+</entry>
         <entry encoding="base64">XDxza3VJbmZvTWFwUHRyXD4=</entry>
         <entry encoding="base64">XDxza3VDb3Vwb25NYXBcPg==</entry>
         <entry encoding="base64">XDxza3VJZHNcPg==</entry>
@@ -2018,6 +2026,8 @@
         <entry encoding="base64">XDxBZGRcPg==</entry>
         <entry encoding="base64">XDxBZGRDTU1SZWxhdGlvblw+</entry>
         <entry encoding="base64">XDxvUmVsYXRpb25EYXRhXD4=</entry>
+        <entry encoding="base64">XDxvU3FsXD4=</entry>
+        <entry encoding="base64">XDxEZWxldGVGbGFnXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>/</entry>
