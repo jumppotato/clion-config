@@ -235,9 +235,6 @@
       <file name="$USER_HOME$/code/jshare_server/netgo/include/redis_client.hpp" timestamp="1523608831010">
         <mark key="'" line="20" column="10" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/cps_server/utils/protocol_utils.hpp" timestamp="1527864407434">
-        <mark key="'" line="405" column="24" />
-      </file>
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/sales/fcgi/qwd_fxitem_query.cpp" timestamp="1524824844560">
         <mark key="'" line="75" column="18" />
       </file>
@@ -628,9 +625,6 @@
       </file>
       <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/core/noncopyable.hpp" timestamp="1522829580998">
         <mark key="'" line="43" column="22" />
-      </file>
-      <file name="$USER_HOME$/code/jshare_server/cps_server/business/union_user_info.cpp" timestamp="1527864389478">
-        <mark key="'" line="46" column="46" />
       </file>
       <file name="$USER_HOME$/code/jshare/jshare_server/common/counter_helper.cpp" timestamp="1514895642864">
         <mark key="'" line="34" column="73" />
@@ -1397,8 +1391,8 @@
         <mark key="^" line="48" column="21" />
         <mark key="." line="46" column="46" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" timestamp="1527858126951">
-        <mark key="'" line="197" column="87" />
+      <file name="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" timestamp="1527869039891">
+        <mark key="'" line="147" column="15" />
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="0" />
         <mark key="." line="119" column="0" />
@@ -1703,13 +1697,6 @@
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/bjgateway/ao/aocps/qwd_cps_fetcher.h" timestamp="1524629379772">
         <mark key="'" line="70" column="23" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/cps_server/business/commission/commission_forecast.cpp" timestamp="1527739001764">
-        <mark key="'" line="15" column="64" />
-        <mark key="[" line="23" column="28" />
-        <mark key="]" line="23" column="37" />
-        <mark key="." line="93" column="8" />
-        <mark key="^" line="93" column="8" />
-      </file>
       <file name="$USER_HOME$/code/jshare/netgo/thirdparty/rapidjson-1.0.2/include/rapidjson/document.h" timestamp="1516022420707">
         <mark key="'" line="559" column="5" />
       </file>
@@ -1836,8 +1823,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="55" filename="$USER_HOME$/code/jshare_server/cps_server/business/commission/commission_forecast.cpp" />
-      <jump line="27" column="26" filename="$USER_HOME$/code/jshare_server/cps_server/business/commission/commission_forecast.cpp" />
       <jump line="40" column="29" filename="$USER_HOME$/code/jshare_server/cps_server/business/commission/commission_forecast.cpp" />
       <jump line="104" column="25" filename="$USER_HOME$/code/jshare_server/cps_server/utils/date_utils.hpp" />
       <jump line="56" column="33" filename="$USER_HOME$/code/jshare_server/cps_server/business/commission/commission_forecast.cpp" />
@@ -1936,6 +1921,8 @@
       <jump line="46" column="46" filename="$USER_HOME$/code/jshare_server/cps_server/business/union_user_info.cpp" />
       <jump line="166" column="20" filename="$USER_HOME$/code/jshare_server/cps_server/utils/protocol_utils.hpp" />
       <jump line="405" column="24" filename="$USER_HOME$/code/jshare_server/cps_server/utils/protocol_utils.hpp" />
+      <jump line="31" column="36" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="147" column="15" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
