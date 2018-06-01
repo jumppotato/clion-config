@@ -1648,6 +1648,9 @@
       <file name="$USER_HOME$/code/jxj/front/static/js/module/dm.qwd.watchlist.js" timestamp="1524796750272">
         <mark key="'" line="224" column="13" />
       </file>
+      <file name="$USER_HOME$/code/cps_server/biz/qwshop/bjgateway/ao/ao_bjgateway.cpp" timestamp="1527833859443">
+        <mark key="'" line="1075" column="12" />
+      </file>
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/article/svc/qwd.article.cpp" timestamp="1523615492022">
         <mark key="'" line="33" column="17" />
       </file>
@@ -1827,8 +1830,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="53" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
-      <jump line="33" column="69" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
       <jump line="30" column="17" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
       <jump line="32" column="55" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
       <jump line="78" column="36" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
@@ -1927,6 +1928,8 @@
       <jump line="227" column="0" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
       <jump line="200" column="57" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
       <jump line="190" column="49" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/cps_server/biz/qwshop/bjgateway/ao/ao_bjgateway.cpp" />
+      <jump line="1075" column="12" filename="$USER_HOME$/code/cps_server/biz/qwshop/bjgateway/ao/ao_bjgateway.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
