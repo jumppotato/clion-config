@@ -917,8 +917,8 @@
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/bjgateway/ao/cfg_bjgateway.cpp" timestamp="1515147386304">
         <mark key="'" line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" timestamp="1527843904528">
-        <mark key="'" line="286" column="68" />
+      <file name="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" timestamp="1527846927120">
+        <mark key="'" line="166" column="12" />
         <mark key="[" line="281" column="44" />
         <mark key="]" line="281" column="56" />
         <mark key="^" line="153" column="27" />
@@ -1394,7 +1394,7 @@
         <mark key="^" line="48" column="21" />
         <mark key="." line="46" column="46" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" timestamp="1527839533217">
+      <file name="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" timestamp="1527846848245">
         <mark key="'" line="197" column="87" />
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="0" />
@@ -1830,11 +1830,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="36" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
-      <jump line="31" column="55" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
-      <jump line="145" column="59" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
-      <jump line="142" column="3" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
-      <jump line="146" column="59" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
       <jump line="147" column="60" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
       <jump line="162" column="33" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
       <jump line="148" column="15" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
@@ -1897,15 +1892,6 @@
       <jump line="149" column="18" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
       <jump line="150" column="18" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
       <jump line="151" column="18" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
-      <jump line="152" column="18" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
-      <jump line="153" column="18" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
-      <jump line="154" column="18" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
-      <jump line="156" column="22" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
-      <jump line="157" column="22" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
-      <jump line="158" column="22" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
-      <jump line="162" column="22" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
-      <jump line="163" column="22" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
-      <jump line="166" column="18" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
       <jump line="167" column="18" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
       <jump line="14" column="10" filename="$USER_HOME$/code/jshare_server/cps_server/utils/string_utils.hpp" />
       <jump line="134" column="124" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
@@ -1917,9 +1903,7 @@
       <jump line="170" column="12" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
       <jump line="171" column="12" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
       <jump line="172" column="12" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
-      <jump line="165" column="27" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
       <jump line="175" column="27" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
-      <jump line="160" column="45" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
       <jump line="168" column="75" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
       <jump line="176" column="27" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
       <jump line="141" column="24" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
@@ -1930,6 +1914,22 @@
       <jump line="1075" column="12" filename="$USER_HOME$/code/cps_server/biz/qwshop/bjgateway/ao/ao_bjgateway.cpp" />
       <jump line="197" column="87" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
       <jump line="286" column="68" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
+      <jump line="152" column="24" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
+      <jump line="153" column="12" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
+      <jump line="154" column="12" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
+      <jump line="155" column="12" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
+      <jump line="156" column="12" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
+      <jump line="157" column="12" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
+      <jump line="158" column="12" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
+      <jump line="159" column="12" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
+      <jump line="160" column="12" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
+      <jump line="161" column="12" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
+      <jump line="162" column="12" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
+      <jump line="163" column="12" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
+      <jump line="164" column="12" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
+      <jump line="165" column="12" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
+      <jump line="177" column="49" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
+      <jump line="166" column="12" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1945,7 +1945,7 @@
         <text>Fields()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxza3VJZFw+</text>
+        <text encoding="base64">XDxvbGREYXRhXD4=</text>
       </register>
       <register name="0" type="4">
         <text>SkuReportPool</text>
@@ -1988,9 +1988,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxza3VJZFw+</last-search>
+      <last-search encoding="base64">XDxvbGREYXRhXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxza3VJZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxvbGREYXRhXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXN1bHRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2010,7 +2010,6 @@
         <entry encoding="base64">XDxvUmVxXD4=</entry>
         <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxkaXNjb3VudFw+</entry>
-        <entry encoding="base64">XDxvbGREYXRhXD4=</entry>
         <entry encoding="base64">XDxoZWFkU3FsXD4=</entry>
         <entry encoding="base64">XDxjb3Vwb25JZHNcPg==</entry>
         <entry encoding="base64">XDxjb3Vwb25JZFN0clw+</entry>
@@ -2018,6 +2017,7 @@
         <entry encoding="base64">XDxjb3Vwb25JZFw+</entry>
         <entry encoding="base64">XDxjb3Vwb25JZHNTdHJcPg==</entry>
         <entry encoding="base64">XDxza3VJZFw+</entry>
+        <entry encoding="base64">XDxvbGREYXRhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>/</entry>
