@@ -1561,6 +1561,10 @@
       <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/asio/basic_deadline_timer.hpp" timestamp="1523689700896">
         <mark key="'" line="500" column="15" />
       </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/config/online/jsf/jsf.json" timestamp="1529252984504">
+        <mark key="[" line="18" column="18" />
+        <mark key="]" line="18" column="75" />
+      </file>
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/include/qwd_external_extractcomm.h" timestamp="1519721250091">
         <mark key="'" line="51" column="30" />
       </file>
@@ -1954,8 +1958,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxncm91cEJ5V2hhdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y21ha2VfbWluaW11bV9yZXF1aXJlZChWRVJTSU9OIDMuOSkKcHJvamVjdChqc2hhcmVfc2VydmVyKQoKc2V0KENNQUtFX0NYWF9TVEFOREFSRCAxMSkKCmluY2x1ZGVfZGlyZWN0b3JpZXMoLi4vanNoYXJlX3NlcnZlcgogICAgICAgIC4vdGhpcmRwYXJ0eQogICAgICAgIC4vbmV0Z28KICAgICAgICAuL25ldGdvL2luY2x1ZGUKICAgICAgICAuL3Byb3RvCiAgICAgICAgKQoKYXV4X3NvdXJjZV9kaXJlY3RvcnkoY3BzX3NlcnZlciBESVJfU1JDUykKYXV4X3NvdXJjZV9kaXJlY3RvcnkoY3BzX3NlcnZlci9ib3NzIERJUl9TUkNTKQphdXhfc291cmNlX2RpcmVjdG9yeShjcHNfc2VydmVyL2J1c2luZXNzIERJUl9TUkNTKQphdXhfc291cmNlX2RpcmVjdG9yeShjcHNfc2VydmVyL2NvbW1vbiBESVJfU1JDUykKYXV4X3NvdXJjZV9kaXJlY3RvcnkoY3BzX3NlcnZlci9jb25maWcgRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KGNwc19zZXJ2ZXIvY29uZmlnb3IgRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KGNwc19zZXJ2ZXIvY29uc3QgRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KGNwc19zZXJ2ZXIvZGIgRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KGNwc19zZXJ2ZXIvZXhjZXB0aW9uIERJUl9TUkNTKQphdXhfc291cmNlX2RpcmVjdG9yeShjcHNfc2VydmVyL21vbml0b3IgRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KGNwc19zZXJ2ZXIvY29uc3QgRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KGNwc19zZXJ2ZXIvcmVxdWVzdF9oYW5kbGVyIERJUl9TUkNTKQphdXhfc291cmNlX2RpcmVjdG9yeShjcHNfc2VydmVyL3NlcnZpY2UgRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KGNwc19zZXJ2ZXIvdXRpbHMgRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KGNwc19zZXJ2ZXIvdXRpbHMvanNmX2pzb24gRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KGNwc19zZXJ2ZXIvdXRpbHMvbG9naW4gRElSX1NSQ1MpCgphdXhfc291cmNlX2RpcmVjdG9yeShuZXRnbyBESVJfU1JDUykKYXV4X3NvdXJjZV9kaXJlY3RvcnkocHJvdG8gRElSX1NSQ1MpCmF1eF9zb3VyY2VfZGlyZWN0b3J5KHV0IERJUl9TUkNTKQphdXhfc291cmNlX2RpcmVjdG9yeShhZHNfY29tbW9uIERJUl9TUkNTKQphdXhfc291cmNlX2RpcmVjdG9yeSh0aGlyZHBhcnR5L2Jvb3N0IERJUl9TUkNTKQoKYWRkX2V4ZWN1dGFibGUoanNoYXJlX3NlcnZlcgogICAgICAgICR7RElSX1NSQ1N9CiAgICAgICAgY3BzX3NlcnZlci8KICAgICAgICBhZHNfY29tbW9uLwogICAgICAgIGNwc19zZXJ2ZXIvdXRpbHMKICAgICAgICBwcm90by9mdW5jdGlvbl9hcGkucGIuaAogICAgICAgIHByb3RvL2J1c2luZXNzCiAgICAgICAgcHJvdG8vc2t1c2VydmljZQogICAgICAgIG5ldGdvLwogICAgICAgIG5ldGdvL2luY2x1ZGUvCiAgICAgICAgY3BzX3NlcnZlci9jb25zdC8KICAgICAgICBjcHNfc2VydmVyL3JlcXVlc3RfaGFuZGxlci8KICAgICAgICBjcHNfc2VydmVyL2J1c2luZXNzLwogICAgICAgIGNwc19zZXJ2ZXIvYnVzaW5lc3MvdXJsX2NvbnZlcnQvCiAgICAgICAgKQo=</text>
+      <register name="0" type="4">
+        <text>com.jd.union.promotion.api.jsf.GeneratePromotionUrlService</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcm90by9mdW5jdGlvbl9hcGkucGIuaAo=</text>
