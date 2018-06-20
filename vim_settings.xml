@@ -423,7 +423,7 @@
       <file name="$USER_HOME$/Documents/workspaceSet/clion/HttpUtils/curl/curl.h" timestamp="1509106366087">
         <mark key="'" line="2732" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529251290895">
+      <file name="/Dummy.txt" timestamp="1529465060909">
         <mark key="'" line="0" column="4" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -925,11 +925,11 @@
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/bjgateway/ao/cfg_bjgateway.cpp" timestamp="1515147386304">
         <mark key="'" line="9" column="20" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" timestamp="1528998566223">
-        <mark key="'" line="385" column="95" />
-        <mark key="[" line="370" column="56" />
-        <mark key="]" line="370" column="60" />
-        <mark key="." line="370" column="60" />
+      <file name="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" timestamp="1529465629485">
+        <mark key="'" line="370" column="78" />
+        <mark key="[" line="370" column="0" />
+        <mark key="]" line="370" column="0" />
+        <mark key="." line="370" column="0" />
         <mark key="^" line="370" column="60" />
       </file>
       <file name="$USER_HOME$/code/jxj/front/static/js/qwd/qwd.coupon.js" timestamp="1524737941524">
@@ -1031,8 +1031,8 @@
       <file name="$USER_HOME$/code/jshare/thirdparty/rapidjson-1.0.2/include/rapidjson/stringbuffer.h" timestamp="1515392007930">
         <mark key="'" line="56" column="10" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" timestamp="1528999030605">
-        <mark key="'" line="214" column="87" />
+      <file name="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" timestamp="1529465800257">
+        <mark key="'" line="322" column="103" />
       </file>
       <file name="$USER_HOME$/code/jshare_server/gmonitor/src/registry.cpp" timestamp="1521195418962">
         <mark key="'" line="79" column="35" />
@@ -1208,6 +1208,9 @@
       </file>
       <file name="$USER_HOME$/code/jshare/jshare_server/common/counter_helper.hpp" timestamp="1514889711170">
         <mark key="'" line="7" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/proto/boss_api.proto" timestamp="1529464955452">
+        <mark key="'" line="192" column="23" />
       </file>
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/external/tools/qwd_external_test.cpp" timestamp="1513246657300">
         <mark key="'" line="83" column="31" />
@@ -1561,9 +1564,11 @@
       <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/asio/basic_deadline_timer.hpp" timestamp="1523689700896">
         <mark key="'" line="500" column="15" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/cps_server/config/online/jsf/jsf.json" timestamp="1529252984504">
-        <mark key="[" line="18" column="18" />
-        <mark key="]" line="18" column="75" />
+      <file name="$USER_HOME$/code/jshare_server/cps_server/config/online/jsf/jsf.json" timestamp="1529464876146">
+        <mark key="[" line="29" column="6" />
+        <mark key="]" line="29" column="6" />
+        <mark key="^" line="29" column="6" />
+        <mark key="." line="29" column="6" />
       </file>
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/include/qwd_external_extractcomm.h" timestamp="1519721250091">
         <mark key="'" line="51" column="30" />
@@ -1724,6 +1729,9 @@
       <file name="$USER_HOME$/code/cps_server/biz/item/async/rpm/buildrpm.sh" timestamp="1524723957697">
         <mark key="'" line="33" column="22" />
       </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/service/coupon_service.hpp" timestamp="1529465846711">
+        <mark key="'" line="23" column="84" />
+      </file>
       <file name="$USER_HOME$/code/jshare_server/cps_server/business/commission/commission_settle.cpp" timestamp="1526985964030">
         <mark key="'" line="51" column="8" />
         <mark key="[" line="55" column="8" />
@@ -1838,25 +1846,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="17" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
-      <jump line="32" column="55" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
-      <jump line="78" column="36" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
-      <jump line="31" column="55" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
-      <jump line="145" column="59" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
-      <jump line="142" column="3" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
-      <jump line="146" column="59" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
-      <jump line="147" column="60" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
-      <jump line="162" column="33" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
-      <jump line="148" column="15" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
-      <jump line="144" column="74" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
-      <jump line="79" column="36" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.cpp" />
-      <jump line="64" column="80" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/coupon_handler.hpp" />
-      <jump line="22" column="61" filename="$USER_HOME$/code/jshare_server/cps_server/business/commission/commission_forecast.cpp" />
-      <jump line="23" column="39" filename="$USER_HOME$/code/jshare_server/cps_server/business/commission/commission_forecast.cpp" />
-      <jump line="26" column="55" filename="$USER_HOME$/code/jshare_server/cps_server/business/commission/commission_forecast.cpp" />
-      <jump line="27" column="26" filename="$USER_HOME$/code/jshare_server/cps_server/business/commission/commission_forecast.cpp" />
-      <jump line="40" column="29" filename="$USER_HOME$/code/jshare_server/cps_server/business/commission/commission_forecast.cpp" />
-      <jump line="104" column="25" filename="$USER_HOME$/code/jshare_server/cps_server/utils/date_utils.hpp" />
       <jump line="56" column="33" filename="$USER_HOME$/code/jshare_server/cps_server/business/commission/commission_forecast.cpp" />
       <jump line="58" column="0" filename="$USER_HOME$/code/jshare_server/cps_server/business/commission/commission_forecast.cpp" />
       <jump line="46" column="23" filename="$USER_HOME$/code/jshare_server/cps_server/request_handler/commission_handler.cpp" />
@@ -1938,6 +1927,25 @@
       <jump line="366" column="23" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
       <jump line="385" column="95" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
       <jump line="214" column="87" filename="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" />
+      <jump line="484" column="56" filename="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" />
+      <jump line="482" column="28" filename="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" />
+      <jump line="402" column="35" filename="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" />
+      <jump line="403" column="32" filename="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" />
+      <jump line="300" column="23" filename="$USER_HOME$/code/jshare_server/proto/boss_api.proto" />
+      <jump line="192" column="23" filename="$USER_HOME$/code/jshare_server/proto/boss_api.proto" />
+      <jump line="370" column="31" filename="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" />
+      <jump line="483" column="58" filename="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" />
+      <jump line="414" column="27" filename="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" />
+      <jump line="329" column="12" filename="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" />
+      <jump line="323" column="33" filename="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" />
+      <jump line="333" column="49" filename="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" />
+      <jump line="291" column="75" filename="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" />
+      <jump line="379" column="95" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
+      <jump line="370" column="78" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
+      <jump line="85" column="54" filename="$USER_HOME$/code/jshare_server/cps_server/service/coupon_service.hpp" />
+      <jump line="310" column="68" filename="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" />
+      <jump line="322" column="103" filename="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" />
+      <jump line="23" column="84" filename="$USER_HOME$/code/jshare_server/cps_server/service/coupon_service.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1956,52 +1964,52 @@
         <text>deleteFlag</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxncm91cEJ5V2hhdFw+</text>
+        <text encoding="base64">XDxjb3Vwb25NYXBcPg==</text>
       </register>
       <register name="0" type="4">
         <text>com.jd.union.promotion.api.jsf.GeneratePromotionUrlService</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcm90by9mdW5jdGlvbl9hcGkucGIuaAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBzdGQ6OnN0cmluZyBzcWwKLy8gICAgICAgICAgICAgICAgICAgID0gIlNFTEVDVCI7Ci8vICAgICAgICAgICAgc3FsLmFwcGVuZChGaWVsZHMoKSk7Ci8vICAgICAgICAgICAgc3FsLmFwcGVuZCgiICBGUk9NICIpOwovLyAgICAgICAgICAgIHNxbC5hcHBlbmQoVGFibGVOYW1lKCkpOwovLyAgICAgICAgICAgIHNxbC5hcHBlbmQoIiAgV0hFUkUgIik7Ci8vICAgICAgICAgICAgc3FsLmFwcGVuZCggICAgIEJ1aWxkQmFzZVdoZXJlKGNkdCkpOwovLyAgICAgICAgICAgIHNxbC5hcHBlbmQoIiAgICBBTkQgaWQgSU4gKCIpOwovLyAgICAgICAgICAgIHNxbC5hcHBlbmQoIiAgICAgIFNFTEVDVCAiKTsKLy8gICAgICAgICAgICBzcWwuYXBwZW5kKCIgICAgICAgIG1heChpZCkgYXMgaWQgIik7Ci8vICAgICAgICAgICAgc3FsLmFwcGVuZCgiICAgICAgRlJPTSIpOwovLyAgICAgICAgICAgIHNxbC5hcHBlbmQoICAgICAgICAgVGFibGVOYW1lKCkpOwovLyAgICAgICAgICAgIHNxbC5hcHBlbmQoIiAgICAgIFdIRVJFICIpOwovLyAgICAgICAgICAgIHNxbC5hcHBlbmQoICAgICAgICAgQnVpbGRCYXNlV2hlcmUoY2R0KSk7Ci8vICAgICAgICAgICAgc3FsLmFwcGVuZCgiICAgICAgQU5EIHNrdUlkIElOKCIpOwovLyAgICAgICAgICAgIHNxbC5hcHBlbmQoIiAgICAgICAgU0VMRUNUICIpOwovLyAgICAgICAgICAgIHNxbC5hcHBlbmQoIiAgICAgICAgICBza3VJZCAiKTsKLy8gICAgICAgICAgICBzcWwuYXBwZW5kKCIgICAgICAgIEZST00gIik7Ci8vICAgICAgICAgICAgc3FsLmFwcGVuZCggICAgICAgICAgIFRhYmxlTmFtZSgpKTsKLy8gICAgICAgICAgICBzcWwuYXBwZW5kKCIgICAgICAgIFdIRVJFICIpOwovLyAgICAgICAgICAgIHNxbC5hcHBlbmQoICAgICAgICAgICBCdWlsZEJhc2VXaGVyZShjZHQpKTsKLy8gICAgICAgICAgICBzcWwuYXBwZW5kKCIgICAgICApIik7Ci8vICAgICAgICAgICAgc3FsLmFwcGVuZCgiICAgICAgR1JPVVAgQlkgc2t1SWQiKTsKLy8gICAgICAgICAgICBzcWwuYXBwZW5kKCIgICAgKSIpOwovLyAgICAgICAgICAgIHNxbC5hcHBlbmQoQnVpbGRDb21wbGV4V2hlcmUoY2R0KSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>@af;r,j017@af;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0@af;r,j0kkkkkkkkkkkkkkkkkkkkkkjjjb</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcm90by9za3VzZXJ2aWNlCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcm90by9idXNpbmVzcwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcm90by9idXNpbmVzcwogICAgICAgIHByb3RvL3NrdXNlcnZpY2UK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwcm90by9mdW5jdGlvbl9hcGkucGIuaAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcm90by9za3VzZXJ2aWNlCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcm90by9idXNpbmVzcwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcm90by9idXNpbmVzcwogICAgICAgIHByb3RvL3NrdXNlcnZpY2UK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjcHNfc2VydmVyL3V0aWxzCg==</text>
+        <text encoding="base64">ICAgICAgICBwcm90by9mdW5jdGlvbl9hcGkucGIuaAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBFWFBFQ1RfRVEoc3RkOjpzdHJpbmcoIjIwMTgwMzMxIiksIERhdGVVdGlsczo6Tk1vbnRoQWdvRW5kKDIpKTsKICAgICAgICBFWFBFQ1RfRVEoc3RkOjpzdHJpbmcoIjIwMTgwMjI4IiksIERhdGVVdGlsczo6Tk1vbnRoQWdvRW5kKDMpKTsK</text>
+        <text encoding="base64">ICAgICAgICBjcHNfc2VydmVyL3V0aWxzCg==</text>
       </register>
       <register name="w" type="4">
         <text>jkjk</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBFWFBFQ1RfRVEoc3RkOjpzdHJpbmcoIjIwMTgwMjI4IiksIERhdGVVdGlsczo6Tk1vbnRoQWdvRW5kKDMpKTsK</text>
+        <text encoding="base64">ICAgICAgICBFWFBFQ1RfRVEoc3RkOjpzdHJpbmcoIjIwMTgwMzMxIiksIERhdGVVdGlsczo6Tk1vbnRoQWdvRW5kKDIpKTsKICAgICAgICBFWFBFQ1RfRVEoc3RkOjpzdHJpbmcoIjIwMTgwMjI4IiksIERhdGVVdGlsczo6Tk1vbnRoQWdvRW5kKDMpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0byB5bWQgPSBkYXkueWVhcl9tb250aF9kYXkoKTsK</text>
+        <text encoding="base64">ICAgICAgICBFWFBFQ1RfRVEoc3RkOjpzdHJpbmcoIjIwMTgwMjI4IiksIERhdGVVdGlsczo6Tk1vbnRoQWdvRW5kKDMpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxncm91cEJ5V2hhdFw+</last-search>
+      <last-search encoding="base64">XDxjb3Vwb25NYXBcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxncm91cEJ5V2hhdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxjb3Vwb25NYXBcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXN1bHRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -2009,14 +2017,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxRdWVyeU9wdGltYWxDb3Vwb25cPg==</entry>
-        <entry encoding="base64">XDx1bmlvbklkXD4=</entry>
-        <entry encoding="base64">XDx5bWRcPg==</entry>
-        <entry encoding="base64">XDxkYXlcPg==</entry>
-        <entry encoding="base64">XDxvUmVxXD4=</entry>
-        <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
-        <entry>utils</entry>
-        <entry encoding="base64">XDxHZXRVbmlvblNrdVVybFw+</entry>
         <entry encoding="base64">XDxHZXRDbGlja1VybFw+</entry>
         <entry encoding="base64">XDxBZGRUb1NhbGVSZWxhdGlvblw+</entry>
         <entry encoding="base64">XDxSZXBsYWNlSXRlbVw+</entry>
@@ -2029,6 +2029,14 @@
         <entry encoding="base64">XDx2ZW5kZXJJZFw+</entry>
         <entry>Fields</entry>
         <entry encoding="base64">XDxncm91cEJ5V2hhdFw+</entry>
+        <entry encoding="base64">XDxNZXJnZUNvdXBvbkluZm9cPg==</entry>
+        <entry encoding="base64">XDxjb3Vwb25JdFw+</entry>
+        <entry encoding="base64">XDxjb3Vwb25WYWxpZFw+</entry>
+        <entry encoding="base64">XDxxdWVyeVZlbmRlcklkc1w+</entry>
+        <entry encoding="base64">XDxjb3Vwb25JbmZvc1w+</entry>
+        <entry encoding="base64">XDxzdWJtaXRTa3VzXD4=</entry>
+        <entry encoding="base64">XDxjb21wbGV4U3VmZml4XD4=</entry>
+        <entry encoding="base64">XDxjb3Vwb25NYXBcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>/</entry>
