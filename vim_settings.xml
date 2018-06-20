@@ -242,12 +242,12 @@
       <file name="$USER_HOME$/code/jshare_server/netgo/include/redis_client.hpp" timestamp="1523608831010">
         <mark key="'" line="20" column="10" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/cps_server/utils/protocol_utils.hpp" timestamp="1529466971621">
-        <mark key="'" line="159" column="83" />
-        <mark key="[" line="150" column="33" />
-        <mark key="]" line="150" column="33" />
-        <mark key="." line="150" column="33" />
-        <mark key="^" line="150" column="33" />
+      <file name="$USER_HOME$/code/jshare_server/cps_server/utils/protocol_utils.hpp" timestamp="1529468658083">
+        <mark key="'" line="159" column="103" />
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="0" />
+        <mark key="." line="158" column="0" />
+        <mark key="^" line="159" column="102" />
       </file>
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/sales/fcgi/qwd_fxitem_query.cpp" timestamp="1524824844560">
         <mark key="'" line="75" column="18" />
@@ -427,7 +427,7 @@
       <file name="$USER_HOME$/Documents/workspaceSet/clion/HttpUtils/curl/curl.h" timestamp="1509106366087">
         <mark key="'" line="2732" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529467181552">
+      <file name="/Dummy.txt" timestamp="1529468254131">
         <mark key="'" line="0" column="4" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -1866,7 +1866,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="4" filename="$USER_HOME$/code/cps_server/biz/qwshop/remark/fcgi/qwd_remark_add.cpp" />
       <jump line="42" column="4" filename="$USER_HOME$/code/cps_server/biz/qwshop/remark/fcgi/qwd_remark_add.cpp" />
       <jump line="43" column="4" filename="$USER_HOME$/code/cps_server/biz/qwshop/remark/fcgi/qwd_remark_add.cpp" />
       <jump line="44" column="4" filename="$USER_HOME$/code/cps_server/biz/qwshop/remark/fcgi/qwd_remark_add.cpp" />
@@ -1964,8 +1963,9 @@
       <jump line="54" column="65" filename="$USER_HOME$/code/jshare_server/cps_server/service/coupon_service.hpp" />
       <jump line="56" column="41" filename="$USER_HOME$/code/jshare_server/cps_server/service/coupon_service.hpp" />
       <jump line="55" column="43" filename="$USER_HOME$/code/jshare_server/cps_server/service/coupon_service.hpp" />
-      <jump line="159" column="83" filename="$USER_HOME$/code/jshare_server/cps_server/utils/protocol_utils.hpp" />
       <jump line="322" column="134" filename="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" />
+      <jump line="158" column="37" filename="$USER_HOME$/code/jshare_server/cps_server/utils/protocol_utils.hpp" />
+      <jump line="159" column="103" filename="$USER_HOME$/code/jshare_server/cps_server/utils/protocol_utils.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1990,37 +1990,37 @@
         <text>Content-Type</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdXBvblB0ci0+c2V0X2NvdXBvbnZhbGlkKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHx8IGh0dHBSZXF1ZXN0LT5oZWFkZXIoY3BzOjpjcHNfY29uc3Q6OnVybDo6aGVhZGVyczo6Q09OVEVOVF9UWVBFKS5maW5kKAogICAgICAgICAgICAgICAgICAgIGNwczo6Y3BzX2NvbnN0Ojp1cmw6OmhlYWRlcl92YWx1ZXM6OkNPTlRFTlRfVFlQRV9BUFBMSUNBVElPTl9KU09OKSA9PSBzdGQ6OnN0cmluZzo6bnBvcykgeyAvLyDpnIDkuLpQT1NUIOS4lENvbnRlbnQtVHlwZeWQq+aciWFwcGxpY2F0aW9uL2pzb24K</text>
       </register>
       <register name="q" type="4">
         <text>@af;r,j017@af;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0@af;r,j0kkkkkkkkkkkkkkkkkkkkkkjjjb</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdXBvblB0ci0+c2V0X2NvdXBvbnZhbGlkKGNoZWNrUmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdXBvblB0ci0+c2V0X2NvdXBvbnZhbGlkKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG8gY291cG9uUHRyID0gcmVmZXJlbmNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdXBvblB0ci0+c2V0X2NvdXBvbnZhbGlkKGNoZWNrUmVzdWx0KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdXBvblB0ci0+c2V0X2NvdXBvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG8gY291cG9uUHRyID0gcmVmZXJlbmNlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEpMT0coaW5mbykgPDwgInNrdSBpZCA6ICIgPDwgc2t1SWRzW2ldIDw8ICIgY291cG9uSWQgOiAiIDw8IGMtPmNvdXBvbmlkKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdXBvblB0ci0+c2V0X2NvdXBvbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0aWMgc3RkOjp2ZWN0b3I8Q291cG9uSnNmU2VydmljZTo6UmVzcFB0cj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEpMT0coaW5mbykgPDwgInNrdSBpZCA6ICIgPDwgc2t1SWRzW2ldIDw8ICIgY291cG9uSWQgOiAiIDw8IGMtPmNvdXBvbmlkKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgYy0+c2V0X2NvdXBvbnZhbGlkKENoZWNrKQo=</text>
+        <text encoding="base64">ICAgICAgICBzdGF0aWMgc3RkOjp2ZWN0b3I8Q291cG9uSnNmU2VydmljZTo6UmVzcFB0cj4K</text>
       </register>
       <register name="w" type="4">
         <text>jkjk</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgYy0+c2V0X2NvdXBvbnZhbGlkKENoZWNrKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvdWJsZSBqZFByaWNlID0gMC4wOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
