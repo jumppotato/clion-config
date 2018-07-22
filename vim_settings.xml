@@ -556,7 +556,6 @@
       <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/unordered/detail/buckets.hpp" timestamp="1524221734605">
         <mark key="'" line="28" column="50" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/netgo/include/tcp_client.hpp" timestamp="1527763218276" />
       <file name="$USER_HOME$/code/jshare/thirdparty/boost/shared_ptr.hpp" timestamp="1514973533244">
         <mark key="'" line="16" column="35" />
       </file>
@@ -878,6 +877,7 @@
       <file name="$USER_HOME$/code/jshare/thirdparty/gflags-2.0/src/gflags.cc" timestamp="1517055876701">
         <mark key="'" line="1030" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/workspaceSet/clion/sgistl-code-r1/CMakeLists.txt" timestamp="1532265298614" />
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/sales/ao/ao_sales.cpp" timestamp="1525829096236">
         <mark key="'" line="974" column="14" />
       </file>
