@@ -564,6 +564,11 @@
       <file name="$USER_HOME$/code/jshare_server/netgo/include/buffer.hpp" timestamp="1521877752909">
         <mark key="'" line="50" column="14" />
       </file>
+      <file name="/usr/local/include/boost/system/error_code.hpp" timestamp="1532433178331">
+        <mark key="'" line="200" column="7" />
+        <mark key="[" line="200" column="7" />
+        <mark key="]" line="200" column="36" />
+      </file>
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/import/goods.info.json.h" timestamp="1527650076856">
         <mark key="'" line="637" column="49" />
         <mark key="[" line="617" column="16" />
@@ -1198,6 +1203,13 @@
       <file name="$USER_HOME$/code/jshare/toft/net/http/http_client.cpp" timestamp="1515499411410">
         <mark key="'" line="498" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/workspaceSet/clion/HeaderFinder/main.cpp" timestamp="1532433686500">
+        <mark key="'" line="11" column="28" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="41" />
+        <mark key="." line="9" column="36" />
+        <mark key="^" line="9" column="36" />
+      </file>
       <file name="$USER_HOME$/code/php_cps_cgi/web/jxj/biz/coupon/ao/CouponAO.php" timestamp="1524737782722">
         <mark key="'" line="27" column="20" />
       </file>
@@ -1248,10 +1260,10 @@
         <mark key="." line="75" column="12" />
         <mark key="^" line="75" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/workspaceSet/clion/HeaderFinder/README.md" timestamp="1532431286426">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Documents/workspaceSet/clion/HeaderFinder/README.md" timestamp="1532431913900">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/code/cps_server/pb/sku_service.proto" timestamp="1512983595015">
         <mark key="'" line="113" column="13" />
@@ -1296,6 +1308,13 @@
       </file>
       <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/date_time/posix_time/posix_time_types.hpp" timestamp="1526979828151">
         <mark key="'" line="39" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspaceSet/clion/HeaderFinder/CMakeLists.txt" timestamp="1532433291990">
+        <mark key="'" line="4" column="23" />
+        <mark key="[" line="4" column="40" />
+        <mark key="]" line="4" column="73" />
+        <mark key="." line="4" column="40" />
+        <mark key="^" line="4" column="59" />
       </file>
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/chnrelation/svc/qwd.chnrelation.cpp" timestamp="1520332004824">
         <mark key="'" line="0" column="0" />
@@ -1769,6 +1788,12 @@
       <file name="$USER_HOME$/code/jshare_server/netgo/src/worker_mgr.cpp" timestamp="1523792254786">
         <mark key="'" line="122" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/workspaceSet/clion/HeaderFinder/file_reader.hpp" timestamp="1532433705435">
+        <mark key="[" line="16" column="77" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="16" column="69" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/code/jshare/jshare_server/configor/configor.hpp" timestamp="1514863555054">
         <mark key="'" line="6" column="13" />
       </file>
@@ -1792,22 +1817,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="451" column="20" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/chnrelation/ao/ao_chnrelation.cpp" />
-      <jump line="440" column="7" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/chnrelation/ao/ao_chnrelation.cpp" />
-      <jump line="765" column="20" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/chnrelation/ao/ao_chnrelation.cpp" />
-      <jump line="794" column="22" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/chnrelation/ao/ao_chnrelation.cpp" />
-      <jump line="714" column="20" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/chnrelation/ao/ao_chnrelation.cpp" />
-      <jump line="432" column="11" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/chnrelation/ao/ao_chnrelation.cpp" />
-      <jump line="800" column="0" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/chnrelation/ao/ao_chnrelation.cpp" />
-      <jump line="790" column="32" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/chnrelation/ao/ao_chnrelation.cpp" />
-      <jump line="31" column="53" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/relation/svc/qwd.relation.h" />
-      <jump line="19" column="16" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/relation/svc/qwd.relation.h" />
-      <jump line="629" column="18" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/relation/ao/ao_relation.cpp" />
-      <jump line="641" column="18" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/relation/ao/ao_relation.cpp" />
-      <jump line="283" column="89" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/relation/ao/ao_relation.cpp" />
-      <jump line="286" column="82" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/relation/ao/ao_relation.cpp" />
-      <jump line="296" column="36" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/relation/ao/ao_relation.cpp" />
-      <jump line="304" column="8" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/relation/ao/ao_relation.cpp" />
       <jump line="305" column="10" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/relation/ao/ao_relation.cpp" />
       <jump line="306" column="10" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/relation/ao/ao_relation.cpp" />
       <jump line="307" column="8" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/relation/ao/ao_relation.cpp" />
@@ -1892,6 +1901,22 @@
       <jump line="27" column="35" filename="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/union_click_info_jsf_service.hpp" />
       <jump line="162" column="57" filename="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/url_generator.hpp" />
       <jump line="64" column="24" filename="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/convert_content_generator.cpp" />
+      <jump line="8" column="11" filename="$USER_HOME$/Documents/workspaceSet/clion/HeaderFinder/file_reader.hpp" />
+      <jump line="38" column="11" filename="$USER_HOME$/Documents/workspaceSet/clion/HeaderFinder/main.cpp" />
+      <jump line="4" column="23" filename="$USER_HOME$/Documents/workspaceSet/clion/HeaderFinder/CMakeLists.txt" />
+      <jump line="2" column="29" filename="$USER_HOME$/Documents/workspaceSet/clion/HeaderFinder/main.cpp" />
+      <jump line="1" column="8" filename="$USER_HOME$/Documents/workspaceSet/clion/HeaderFinder/main.cpp" />
+      <jump line="200" column="7" filename="/usr/local/include/boost/system/error_code.hpp" />
+      <jump line="8" column="28" filename="$USER_HOME$/Documents/workspaceSet/clion/HeaderFinder/main.cpp" />
+      <jump line="7" column="28" filename="$USER_HOME$/Documents/workspaceSet/clion/HeaderFinder/main.cpp" />
+      <jump line="23" column="52" filename="$USER_HOME$/Documents/workspaceSet/clion/HeaderFinder/main.cpp" />
+      <jump line="32" column="43" filename="$USER_HOME$/Documents/workspaceSet/clion/HeaderFinder/main.cpp" />
+      <jump line="21" column="61" filename="$USER_HOME$/Documents/workspaceSet/clion/HeaderFinder/main.cpp" />
+      <jump line="20" column="56" filename="$USER_HOME$/Documents/workspaceSet/clion/HeaderFinder/main.cpp" />
+      <jump line="18" column="44" filename="$USER_HOME$/Documents/workspaceSet/clion/HeaderFinder/main.cpp" />
+      <jump line="14" column="30" filename="$USER_HOME$/Documents/workspaceSet/clion/HeaderFinder/main.cpp" />
+      <jump line="12" column="34" filename="$USER_HOME$/Documents/workspaceSet/clion/HeaderFinder/main.cpp" />
+      <jump line="10" column="28" filename="$USER_HOME$/Documents/workspaceSet/clion/HeaderFinder/main.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1907,71 +1932,62 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1bmlvblVybFw+</text>
+        <text encoding="base64">XDxmaWxlX3BhdGhcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>qwd_user_query</text>
+      <register name="0" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L3N5c3RlbS9lcnJvcl9jb2RlLmhwcD4KI2luY2x1ZGUgPGJvb3N0L2ZpbGVzeXN0ZW0vcGF0aC5ocHA+CiNpbmNsdWRlIDxib29zdC9maWxlc3lzdGVtL29wZXJhdGlvbnMuaHBwPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YGBgYGBgYGAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>@af;r,j017@af;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0@af;r,j0kkkkkkkkkkkkkkkkkkkkkkjjjb</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIApgYGBtZXJtYWlkCmdyYXBoIFRECkFbQ2hyaXN0bWFzXSAtLT58R2V0IG1vbmV5fCBCKEdvIHNob3BwaW5nKQpCIC0tPiBDe0xldCBtZSB0aGlua30KQyAtLT58T25lfCBEW0xhcHRvcF0KQyAtLT58VHdvfCBFW2lQaG9uZV0KQyAtLT58VGhyZWV8IEZbQ2FyXQpgYGAK</text>
+        <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L3N5c3RlbS9lcnJvcl9jb2RlLmhwcD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Z3JhcGggQlQKQSAtLT4gQgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHggPSAxOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">5ZWG5ZOB5o+Q5oql566h55CG5aKe5Yqg5LyY5oOg5Yi45piv5ZCm5pyJ5pWI55qE5Yik5patCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHx8IGh0dHBSZXF1ZXN0LT5oZWFkZXIoY3BzOjpjcHNfY29uc3Q6OnVybDo6aGVhZGVyczo6Q09OVEVOVF9UWVBFKS5maW5kKAogICAgICAgICAgICAgICAgICAgIGNwczo6Y3BzX2NvbnN0Ojp1cmw6OmhlYWRlcl92YWx1ZXM6OkNPTlRFTlRfVFlQRV9BUFBMSUNBVElPTl9KU09OKSA9PSBzdGQ6OnN0cmluZzo6bnBvcykgeyAvLyDpnIDkuLpQT1NUIOS4lENvbnRlbnQtVHlwZeWQq+aciWFwcGxpY2F0aW9uL2pzb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdXBvblB0ci0+c2V0X2NvdXBvbnZhbGlkKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text>jkjk</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdXBvblB0ci0+c2V0X2NvdXBvbnZhbGlkKGNoZWNrUmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG8gY291cG9uUHRyID0gcmVmZXJlbmNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGEK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1bmlvblVybFw+</last-search>
+      <last-search encoding="base64">XDxmaWxlX3BhdGhcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1bmlvblVybFw+</last-pattern>
+      <last-pattern encoding="base64">XDxmaWxlX3BhdGhcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXN1bHRcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb3Vwb25WYWxpZFw+</entry>
-        <entry encoding="base64">XDxxdWVyeVZlbmRlcklkc1w+</entry>
-        <entry encoding="base64">XDxjb3Vwb25JbmZvc1w+</entry>
-        <entry encoding="base64">XDxzdWJtaXRTa3VzXD4=</entry>
-        <entry encoding="base64">XDxjb21wbGV4U3VmZml4XD4=</entry>
-        <entry encoding="base64">XDxjb3Vwb25NYXBcPg==</entry>
-        <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
-        <entry encoding="base64">XDxza3VJZHNcPg==</entry>
-        <entry encoding="base64">XDxqZFByaWNlXD4=</entry>
         <entry encoding="base64">XDxza3VJZFw+</entry>
         <entry encoding="base64">XDxjXD4=</entry>
         <entry encoding="base64">XDxjb3Vwb25QdHJcPg==</entry>
@@ -1983,6 +1999,15 @@
         <entry encoding="base64">XDxtc2dzXD4=</entry>
         <entry encoding="base64">XDxRdWVyeVNrdUlkc0J5U291cmNlSWRcPg==</entry>
         <entry encoding="base64">XDx1bmlvblVybFw+</entry>
+        <entry encoding="base64">XDxzaXplZmlsZVw+</entry>
+        <entry encoding="base64">XDxDTUFLRV9DWFhfRkxBR1NcPg==</entry>
+        <entry encoding="base64">XDxCT09TVF9TWVNURU1fTk9fREVQUkVDQVRFRFw+</entry>
+        <entry encoding="base64">XDxCT09TVF9TWVNURU1fRU5BQkxFX0RFUFJFQ0FURURcPg==</entry>
+        <entry encoding="base64">XDxvbGRfY3BhdGhcPg==</entry>
+        <entry encoding="base64">XDxwYXRoXD4=</entry>
+        <entry encoding="base64">XDxiZWdfaXRlclw+</entry>
+        <entry encoding="base64">XDxuZXdfZmlsZV9wYXRoXD4=</entry>
+        <entry encoding="base64">XDxmaWxlX3BhdGhcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>/</entry>
@@ -2038,6 +2063,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
