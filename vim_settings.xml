@@ -53,6 +53,9 @@
       <file name="$USER_HOME$/code/jshare_server/cps_server/db/db_result.cpp" timestamp="1523501194176">
         <mark key="'" line="76" column="18" />
       </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/utils/url_rule.hpp" timestamp="1532405739717">
+        <mark key="'" line="101" column="21" />
+      </file>
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/chnreport/fcgi/qwd_channel_com_preview.cpp" timestamp="1526370281328">
         <mark key="'" line="228" column="16" />
       </file>
@@ -154,8 +157,8 @@
       <file name="$USER_HOME$/code/cps_server/common/util/src/semlock.cpp" timestamp="1520842421428">
         <mark key="'" line="6" column="4" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/convert_content_builder.hpp" timestamp="1527162730126">
-        <mark key="'" line="168" column="12" />
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/convert_content_builder.hpp" timestamp="1532405737489">
+        <mark key="'" line="61" column="41" />
         <mark key="[" line="158" column="19" />
         <mark key="]" line="158" column="38" />
         <mark key="." line="173" column="12" />
@@ -415,7 +418,7 @@
       <file name="$USER_HOME$/Documents/workspaceSet/clion/HttpUtils/curl/curl.h" timestamp="1509106366087">
         <mark key="'" line="2732" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529552630715">
+      <file name="/Dummy.txt" timestamp="1532405927411">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/jshare/cps_server/business/url_convert/url_detector.hpp" timestamp="1517037629482">
@@ -553,8 +556,8 @@
       <file name="$USER_HOME$/code/jshare/thirdparty/boost/shared_ptr.hpp" timestamp="1514973533244">
         <mark key="'" line="16" column="35" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/convert_content_generator.cpp" timestamp="1526987083429">
-        <mark key="'" line="65" column="12" />
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/convert_content_generator.cpp" timestamp="1532405803030">
+        <mark key="'" line="31" column="50" />
         <mark key="[" line="99" column="8" />
         <mark key="]" line="99" column="8" />
         <mark key="^" line="99" column="8" />
@@ -622,12 +625,6 @@
       <file name="$USER_HOME$/code/jshare/jshare_server/common/counter_helper.cpp" timestamp="1514895642864">
         <mark key="'" line="34" column="73" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/proto/gen_proto.sh" timestamp="1527758109131">
-        <mark key="[" line="6" column="56" />
-        <mark key="]" line="7" column="43" />
-        <mark key="^" line="7" column="43" />
-        <mark key="." line="7" column="43" />
-      </file>
       <file name="/json.hpp" timestamp="1521023264267">
         <mark key="'" line="30" column="0" />
       </file>
@@ -683,8 +680,8 @@
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/activity/svc/qwd.activity.h" timestamp="1527590709561">
         <mark key="'" line="19" column="16" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/union_click_info_jsf_service.hpp" timestamp="1526987129944">
-        <mark key="'" line="46" column="12" />
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/union_click_info_jsf_service.hpp" timestamp="1532405918688">
+        <mark key="'" line="27" column="35" />
         <mark key="[" line="48" column="12" />
         <mark key="]" line="48" column="12" />
         <mark key="^" line="48" column="12" />
@@ -735,8 +732,8 @@
       <file name="$USER_HOME$/code/jshare_server/netgo/include/go_wrapper.hpp" timestamp="1521894487503">
         <mark key="'" line="90" column="50" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/url_generator.hpp" timestamp="1527609344610">
-        <mark key="'" line="97" column="23" />
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/url_generator.hpp" timestamp="1532405912684">
+        <mark key="'" line="162" column="57" />
         <mark key="[" line="164" column="16" />
         <mark key="]" line="164" column="16" />
         <mark key="." line="164" column="16" />
@@ -819,8 +816,8 @@
       <file name="$USER_HOME$/code/jshare_server/cps_server/utils/jsf_json/jsf_json.hpp" timestamp="1522160525473">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/url_detector.hpp" timestamp="1526987204000">
-        <mark key="'" line="51" column="16" />
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/url_detector.hpp" timestamp="1532405708826">
+        <mark key="'" line="46" column="67" />
         <mark key="[" line="58" column="16" />
         <mark key="]" line="58" column="16" />
         <mark key="." line="58" column="16" />
@@ -990,12 +987,6 @@
       </file>
       <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/smart_ptr/enable_shared_from_this.hpp" timestamp="1523689840367">
         <mark key="'" line="73" column="18" />
-      </file>
-      <file name="$USER_HOME$/code/cps_server/biz/qwshop/sales/svc/makefile" timestamp="1527748211981">
-        <mark key="[" line="23" column="61" />
-        <mark key="]" line="23" column="62" />
-        <mark key="^" line="23" column="62" />
-        <mark key="." line="23" column="62" />
       </file>
       <file name="$USER_HOME$/code/jshare_server/netgo/include/exception_helper.hpp" timestamp="1521549549811">
         <mark key="'" line="10" column="8" />
@@ -1270,7 +1261,7 @@
         <mark key="." line="64" column="0" />
         <mark key="^" line="65" column="15" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/cps_server/const/cps_service_const.hpp" timestamp="1529466951147">
+      <file name="$USER_HOME$/code/jshare_server/cps_server/const/cps_service_const.hpp" timestamp="1532405925977">
         <mark key="[" line="151" column="48" />
         <mark key="]" line="151" column="59" />
       </file>
@@ -1364,6 +1355,9 @@
       </file>
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/jsf_include/com-jd-ads-union-master-api-service-user-UserInfoService/jsf/bjunion/usercardidquevo.h" timestamp="1521118025460">
         <mark key="'" line="158" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/promo_detector.hpp" timestamp="1532405703910">
+        <mark key="'" line="57" column="65" />
       </file>
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/import/mastercommissionreport_service.h" timestamp="1514967737912">
         <mark key="'" line="253" column="10" />
@@ -1544,9 +1538,9 @@
       <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/asio/basic_deadline_timer.hpp" timestamp="1523689700896">
         <mark key="'" line="500" column="15" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/cps_server/config/online/jsf/jsf.json" timestamp="1529464876146">
-        <mark key="[" line="29" column="6" />
-        <mark key="]" line="29" column="6" />
+      <file name="$USER_HOME$/code/jshare_server/cps_server/config/online/jsf/jsf.json" timestamp="1532405944094">
+        <mark key="[" line="270" column="0" />
+        <mark key="]" line="272" column="30" />
         <mark key="^" line="29" column="6" />
         <mark key="." line="29" column="6" />
       </file>
@@ -1661,12 +1655,6 @@
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/chnrelation/fcgi/qwd_chnrel_linkcopy.cpp" timestamp="1517367783133">
         <mark key="'" line="203" column="24" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/cps_server/utils/string_utils.hpp" timestamp="1527689755764">
-        <mark key="[" line="30" column="42" />
-        <mark key="]" line="30" column="42" />
-        <mark key="." line="30" column="42" />
-        <mark key="^" line="30" column="42" />
-      </file>
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/util/https_head.h" timestamp="1519719191530">
         <mark key="'" line="8" column="26" />
       </file>
@@ -1778,12 +1766,6 @@
       <file name="$USER_HOME$/code/jshare_server/thirdparty/stringencoders-svn-355/src/modp_b64r_data.h" timestamp="1526455763958">
         <mark key="'" line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/cps_server/service/jsf_service.hpp" timestamp="1527597077731">
-        <mark key="[" line="496" column="40" />
-        <mark key="]" line="496" column="41" />
-        <mark key="." line="496" column="41" />
-        <mark key="^" line="496" column="44" />
-      </file>
       <file name="/Library/Developer/CommandLineTools/usr/include/c++/v1/cstdint" timestamp="1516887964091">
         <mark key="'" line="155" column="12" />
       </file>
@@ -1828,16 +1810,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="47" filename="$USER_HOME$/code/jshare_server/ut/protocol_buffer_test.cpp" />
-      <jump line="11" column="15" filename="$USER_HOME$/code/jshare_server/ut/protocol_buffer_test.cpp" />
-      <jump line="9" column="38" filename="$USER_HOME$/code/jshare_server/ut/protocol_buffer_test.cpp" />
-      <jump line="478" column="0" filename="$USER_HOME$/code/jshare_server/cps_server/utils/protocol_utils.hpp" />
-      <jump line="36" column="18" filename="$USER_HOME$/code/jshare_server/CMakeLists.txt" />
-      <jump line="0" column="0" filename="$USER_HOME$/code/jshare_server/CMakeLists.txt" />
-      <jump line="36" column="18" filename="$USER_HOME$/Documents/temp/move-temp/CMakeLists.txt" />
-      <jump line="213" column="0" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/chnrelation/ao/ao_chnrelation.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/chnrelation/svc/qwd.chnrelation.cpp" />
-      <jump line="762" column="0" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/chnrelation/ao/ao_chnrelation.cpp" />
       <jump line="586" column="20" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/chnrelation/ao/ao_chnrelation.cpp" />
       <jump line="451" column="20" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/chnrelation/ao/ao_chnrelation.cpp" />
       <jump line="440" column="7" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/chnrelation/ao/ao_chnrelation.cpp" />
@@ -1928,6 +1900,16 @@
       <jump line="5" column="14" filename="$USER_HOME$/Documents/workspaceSet/clion/sgistl-code-r1/cstdlib" />
       <jump line="3" column="20" filename="$USER_HOME$/Documents/workspaceSet/clion/sgistl-code-r1/stl_vector.h" />
       <jump line="679" column="6" filename="$USER_HOME$/Documents/workspaceSet/clion/sgistl-code-r1/stl_vector.h" />
+      <jump line="57" column="65" filename="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/promo_detector.hpp" />
+      <jump line="46" column="67" filename="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/url_detector.hpp" />
+      <jump line="45" column="58" filename="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/convert_content_generator.cpp" />
+      <jump line="61" column="41" filename="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/convert_content_builder.hpp" />
+      <jump line="101" column="21" filename="$USER_HOME$/code/jshare_server/cps_server/utils/url_rule.hpp" />
+      <jump line="62" column="36" filename="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/convert_content_generator.cpp" />
+      <jump line="152" column="41" filename="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/url_generator.hpp" />
+      <jump line="31" column="50" filename="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/convert_content_generator.cpp" />
+      <jump line="27" column="35" filename="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/union_click_info_jsf_service.hpp" />
+      <jump line="162" column="57" filename="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/url_generator.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1946,10 +1928,10 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxRdWVyeVNrdUlkc0J5U291cmNlSWRcPg==</text>
+        <text encoding="base64">XDx1bmlvblVybFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>warranty</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgInNlcnZpY2UiOiAiY29tLmpkLnVuaW9uLnByb21vdGlvbi5hcGkuanNmLlVuaW9uQ2xpY2tVcmxEZVNlcnZpY2UiLAogICAgICAiYWxpYXMiOiAib25saW5lIiwKICAgICAgIm1ldGhvZCI6ICJnZXRDbGlja0luZm8iLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">5ZWG5ZOB5o+Q5oql566h55CG5aKe5Yqg5LyY5oOg5Yi45piv5ZCm5pyJ5pWI55qE5Yik5patCg==</text>
@@ -1989,17 +1971,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxRdWVyeVNrdUlkc0J5U291cmNlSWRcPg==</last-search>
+      <last-search encoding="base64">XDx1bmlvblVybFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxRdWVyeVNrdUlkc0J5U291cmNlSWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx1bmlvblVybFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXN1bHRcPg==</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb3Vwb25JdFw+</entry>
         <entry encoding="base64">XDxjb3Vwb25WYWxpZFw+</entry>
         <entry encoding="base64">XDxxdWVyeVZlbmRlcklkc1w+</entry>
         <entry encoding="base64">XDxjb3Vwb25JbmZvc1w+</entry>
@@ -2019,6 +2000,7 @@
         <entry encoding="base64">XDxpdFw+</entry>
         <entry encoding="base64">XDxtc2dzXD4=</entry>
         <entry encoding="base64">XDxRdWVyeVNrdUlkc0J5U291cmNlSWRcPg==</entry>
+        <entry encoding="base64">XDx1bmlvblVybFw+</entry>
       </history-search>
       <history-cmd>
         <entry>/</entry>
