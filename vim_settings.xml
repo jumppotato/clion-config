@@ -1203,12 +1203,12 @@
       <file name="$USER_HOME$/code/jshare/toft/net/http/http_client.cpp" timestamp="1515499411410">
         <mark key="'" line="498" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/workspaceSet/clion/HeaderFinder/main.cpp" timestamp="1532433686500">
-        <mark key="'" line="11" column="28" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="3" column="41" />
-        <mark key="." line="9" column="36" />
-        <mark key="^" line="9" column="36" />
+      <file name="$USER_HOME$/Documents/workspaceSet/clion/HeaderFinder/main.cpp" timestamp="1532437282849">
+        <mark key="'" line="33" column="27" />
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="15" />
+        <mark key="." line="9" column="15" />
+        <mark key="^" line="9" column="15" />
       </file>
       <file name="$USER_HOME$/code/php_cps_cgi/web/jxj/biz/coupon/ao/CouponAO.php" timestamp="1524737782722">
         <mark key="'" line="27" column="20" />
@@ -1788,11 +1788,10 @@
       <file name="$USER_HOME$/code/jshare_server/netgo/src/worker_mgr.cpp" timestamp="1523792254786">
         <mark key="'" line="122" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/workspaceSet/clion/HeaderFinder/file_reader.hpp" timestamp="1532433705435">
-        <mark key="[" line="16" column="77" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="16" column="69" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Documents/workspaceSet/clion/HeaderFinder/file_reader.hpp" timestamp="1532437232445">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="19" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/code/jshare/jshare_server/configor/configor.hpp" timestamp="1514863555054">
         <mark key="'" line="6" column="13" />
@@ -1817,7 +1816,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="305" column="10" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/relation/ao/ao_relation.cpp" />
       <jump line="306" column="10" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/relation/ao/ao_relation.cpp" />
       <jump line="307" column="8" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/relation/ao/ao_relation.cpp" />
       <jump line="308" column="8" filename="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/relation/ao/ao_relation.cpp" />
@@ -1917,6 +1915,7 @@
       <jump line="14" column="30" filename="$USER_HOME$/Documents/workspaceSet/clion/HeaderFinder/main.cpp" />
       <jump line="12" column="34" filename="$USER_HOME$/Documents/workspaceSet/clion/HeaderFinder/main.cpp" />
       <jump line="10" column="28" filename="$USER_HOME$/Documents/workspaceSet/clion/HeaderFinder/main.cpp" />
+      <jump line="33" column="27" filename="$USER_HOME$/Documents/workspaceSet/clion/HeaderFinder/main.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1932,7 +1931,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlX3BhdGhcPg==</text>
@@ -1941,37 +1940,37 @@
         <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L3N5c3RlbS9lcnJvcl9jb2RlLmhwcD4KI2luY2x1ZGUgPGJvb3N0L2ZpbGVzeXN0ZW0vcGF0aC5ocHA+CiNpbmNsdWRlIDxib29zdC9maWxlc3lzdGVtL29wZXJhdGlvbnMuaHBwPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">I2luY2x1ZGUgImZpbGVfcmVhZGVyLmhwcCIK</text>
       </register>
       <register name="q" type="4">
         <text>@af;r,j017@af;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0@af;r,j0kkkkkkkkkkkkkkkkkkkkkkjjjb</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L3N5c3RlbS9lcnJvcl9jb2RlLmhwcD4K</text>
+        <text encoding="base64">I2luY2x1ZGUgPGlvc3RyZWFtPgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IHggPSAxOwo=</text>
+        <text encoding="base64">ICAgIGJvb3N0OjpmaWxlc3lzdGVtOjpwYXRoIHBhdGgoIi90ZXN0L3Rlc3QxIik7ICAgLy/liJ3lp4vljJYKICAgIGJvb3N0OjpmaWxlc3lzdGVtOjpwYXRoIG9sZF9jcGF0aCA9IGJvb3N0OjpmaWxlc3lzdGVtOjpjdXJyZW50X3BhdGgoKTsgLy/lj5blvpflvZPliY3nqIvluo/miYDlnKjmlofku7blpLkKICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJvbGQgcGF0aCA6ICIgPDwgb2xkX2NwYXRoIDw8IHN0ZDo6ZW5kbDsKICAgIGJvb3N0OjpmaWxlc3lzdGVtOjpwYXRoIHBhcmVudF9wYXRoID0gb2xkX2NwYXRoLnBhcmVudF9wYXRoKCk7Ly/lj5ZvbGRfY3BhdGjnmoTkuIrkuIDlsYLniLbmlofku7blpLnot6/lvoQKICAgIGJvb3N0OjpmaWxlc3lzdGVtOjpwYXRoIGZpbGVfcGF0aCA9IG9sZF9jcGF0aCAvICJmaWxlIjsgLy9wYXRo5pSv5oyB6YeN6L29L+i/kOeul+espgogICAgc3RkOjpjb3V0IDw8ICJwYXRoLmZpbGVuYW1lIDogIiA8PCBwYXRoLmZpbGVuYW1lKCkgPDwgc3RkOjplbmRsOwogICAgaWYgKGJvb3N0OjpmaWxlc3lzdGVtOjpleGlzdHMoZmlsZV9wYXRoKSkgIC8v5o6o5pat5paH5Lu25a2Y5Zyo5oCnCiAgICB7CiAgICAgICAgc3RkOjpzdHJpbmcgc3RyUGF0aCA9IGZpbGVfcGF0aC5zdHJpbmcoKTsKICAgICAgICBpbnQgeCA9IDE7CiAgICB9IGVsc2UgewogICAgICAgIC8v5paH5Lu25aS55LiN5a2Y5ZyoOwogICAgICAgIGJvb3N0OjpmaWxlc3lzdGVtOjpjcmVhdGVfZGlyZWN0b3J5KGZpbGVfcGF0aCk7ICAvL+aWh+S7tuWkueS4jeWtmOWcqOOAguWIm+W7ugogICAgfQogICAgYm9vbCBiSXNEaXJlY3RvcnkgPSBib29zdDo6ZmlsZXN5c3RlbTo6aXNfZGlyZWN0b3J5KGZpbGVfcGF0aCk7IC8v5o6o5patZmlsZV9wYXRo5piv5ZCm5Li65paH5Lu25aS5CiAgICBib29zdDo6ZmlsZXN5c3RlbTo6cmVjdXJzaXZlX2RpcmVjdG9yeV9pdGVyYXRvciBiZWdfaXRlcihmaWxlX3BhdGgpOwogICAgYm9vc3Q6OmZpbGVzeXN0ZW06OnJlY3Vyc2l2ZV9kaXJlY3RvcnlfaXRlcmF0b3IgZW5kX2l0ZXI7CiAgICBmb3IgKDsgYmVnX2l0ZXIgIT0gZW5kX2l0ZXI7ICsrYmVnX2l0ZXIpIHsKICAgICAgICBpZiAoYm9vc3Q6OmZpbGVzeXN0ZW06OmlzX2RpcmVjdG9yeSgqYmVnX2l0ZXIpKSB7CiAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHN0ZDo6c3RyaW5nIHN0clBhdGggPSBiZWdfaXRlci0+cGF0aCgpLnN0cmluZygpOyAgLy/pgY3ljoblh7rmnaXnmoTmlofku7blkI3np7AKICAgICAgICAgICAgc3RkOjpjb3V0IDw8IHN0clBhdGggPDwgc3RkOjplbmRsOwogICAgICAgIH0KICAgIH0KICAgIGJvb3N0OjpmaWxlc3lzdGVtOjpwYXRoIG5ld19maWxlX3BhdGggPSBmaWxlX3BhdGggLyAidGVzdC50eHQiOwogICAgaWYgKGJvb3N0OjpmaWxlc3lzdGVtOjppc19yZWd1bGFyX2ZpbGUobmV3X2ZpbGVfcGF0aCkpICAgIC8v5o6o5pat5piv5ZCm5Li65pmu6YCa5paH5Lu2CiAgICB7CiAgICAgICAgc2l6ZV90IHNpemVmaWxlID0gYm9vc3Q6OmZpbGVzeXN0ZW06OmZpbGVfc2l6ZShuZXdfZmlsZV9wYXRoKTsgIC8v5paH5Lu25aSn5bCPKOWtl+iKgikKICAgICAgICBpbnQgeCA9IDE7CiAgICB9CiAgICBib29zdDo6ZmlsZXN5c3RlbTo6cmVtb3ZlKG5ld19maWxlX3BhdGgpOy8v5Yig6Zmk5paH5Lu2bmV3X2ZpbGVfcGF0aAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L3N5c3RlbS9lcnJvcl9jb2RlLmhwcD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jkjk</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHggPSAxOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
