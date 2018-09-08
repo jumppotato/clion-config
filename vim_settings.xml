@@ -603,8 +603,8 @@
       <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/core/noncopyable.hpp" timestamp="1522829580998">
         <mark key="'" line="43" column="22" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/cps_server/business/union_user_info.cpp" timestamp="1535640153769">
-        <mark key="'" line="56" column="46" />
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/union_user_info.cpp" timestamp="1535640223350">
+        <mark key="'" line="70" column="34" />
       </file>
       <file name="$USER_HOME$/code/jshare/jshare_server/common/counter_helper.cpp" timestamp="1514895642864">
         <mark key="'" line="34" column="73" />
@@ -983,8 +983,8 @@
       <file name="$USER_HOME$/code/jshare/thirdparty/rapidjson-1.0.2/include/rapidjson/stringbuffer.h" timestamp="1515392007930">
         <mark key="'" line="56" column="10" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/gmonitor/src/registry.cpp" timestamp="1521195418962">
-        <mark key="'" line="79" column="35" />
+      <file name="$USER_HOME$/code/jshare_server/gmonitor/src/registry.cpp" timestamp="1536416922599">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/cps_server/biz/item/fcgi/action_item.cpp" timestamp="1522662869273">
         <mark key="'" line="198" column="43" />
@@ -1818,8 +1818,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="87" filename="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" />
-      <jump line="484" column="56" filename="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" />
       <jump line="482" column="28" filename="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" />
       <jump line="402" column="35" filename="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" />
       <jump line="403" column="32" filename="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" />
@@ -1918,6 +1916,8 @@
       <jump line="135" column="25" filename="$USER_HOME$/code/jshare_server/cps_server/business/union_user_info.cpp" />
       <jump line="46" column="29" filename="$USER_HOME$/code/jshare_server/cps_server/utils/jsf_utils.hpp" />
       <jump line="56" column="46" filename="$USER_HOME$/code/jshare_server/cps_server/business/union_user_info.cpp" />
+      <jump line="70" column="34" filename="$USER_HOME$/code/jshare_server/cps_server/business/union_user_info.cpp" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/jshare_server/gmonitor/src/registry.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
