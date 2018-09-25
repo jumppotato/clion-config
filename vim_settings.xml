@@ -401,7 +401,7 @@
       <file name="$USER_HOME$/Documents/workspaceSet/clion/HttpUtils/curl/curl.h" timestamp="1509106366087">
         <mark key="'" line="2732" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532439910013">
+      <file name="/Dummy.txt" timestamp="1537886184830">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/jshare/cps_server/business/url_convert/url_detector.hpp" timestamp="1517037629482">
@@ -603,8 +603,12 @@
       <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/core/noncopyable.hpp" timestamp="1522829580998">
         <mark key="'" line="43" column="22" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/cps_server/business/union_user_info.cpp" timestamp="1536418448617">
-        <mark key="'" line="70" column="34" />
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/union_user_info.cpp" timestamp="1537886504112">
+        <mark key="'" line="71" column="13" />
+        <mark key="[" line="69" column="39" />
+        <mark key="]" line="69" column="43" />
+        <mark key="^" line="69" column="43" />
+        <mark key="." line="69" column="43" />
       </file>
       <file name="$USER_HOME$/code/jshare/jshare_server/common/counter_helper.cpp" timestamp="1514895642864">
         <mark key="'" line="34" column="73" />
@@ -929,6 +933,9 @@
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/user/fcgi/qwd_user_update.cpp" timestamp="1525679786852">
         <mark key="'" line="294" column="4" />
       </file>
+      <file name="/product_handler.cpp" timestamp="1537886477130">
+        <mark key="'" line="201" column="13" />
+      </file>
       <file name="$USER_HOME$/code/toft/net/http/http_request.h" timestamp="1509448567721">
         <mark key="'" line="11" column="34" />
       </file>
@@ -1186,7 +1193,7 @@
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/market/dao/mysql_qwdmarket.h" timestamp="1523893281624">
         <mark key="'" line="97" column="42" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/cps_server/business/union_user_info.hpp" timestamp="1535640061805">
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/union_user_info.hpp" timestamp="1537885937157">
         <mark key="'" line="24" column="27" />
       </file>
       <file name="$USER_HOME$/code/jshare_server/cps_server/request_handler/commission_handler.hpp" timestamp="1527490521830">
@@ -1818,12 +1825,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="482" column="28" filename="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" />
-      <jump line="402" column="35" filename="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" />
-      <jump line="403" column="32" filename="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" />
-      <jump line="300" column="23" filename="$USER_HOME$/code/jshare_server/proto/boss_api.proto" />
-      <jump line="192" column="23" filename="$USER_HOME$/code/jshare_server/proto/boss_api.proto" />
-      <jump line="370" column="31" filename="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" />
       <jump line="483" column="58" filename="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" />
       <jump line="414" column="27" filename="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" />
       <jump line="329" column="12" filename="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" />
@@ -1911,13 +1912,19 @@
       <jump line="24" column="27" filename="$USER_HOME$/code/jshare_server/cps_server/business/union_user_info.hpp" />
       <jump line="31" column="20" filename="$USER_HOME$/code/jshare_server/cps_server/business/union_user_info.cpp" />
       <jump line="39" column="20" filename="$USER_HOME$/code/jshare_server/cps_server/business/union_user_info.cpp" />
-      <jump line="47" column="20" filename="$USER_HOME$/code/jshare_server/cps_server/business/union_user_info.cpp" />
-      <jump line="64" column="19" filename="$USER_HOME$/code/jshare_server/cps_server/business/union_user_info.cpp" />
       <jump line="135" column="25" filename="$USER_HOME$/code/jshare_server/cps_server/business/union_user_info.cpp" />
       <jump line="46" column="29" filename="$USER_HOME$/code/jshare_server/cps_server/utils/jsf_utils.hpp" />
-      <jump line="56" column="46" filename="$USER_HOME$/code/jshare_server/cps_server/business/union_user_info.cpp" />
       <jump line="70" column="34" filename="$USER_HOME$/code/jshare_server/cps_server/business/union_user_info.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/code/jshare_server/gmonitor/src/registry.cpp" />
+      <jump line="173" column="36" filename="$USER_HOME$/code/jshare_server/cps_server/business/union_user_info.cpp" />
+      <jump line="66" column="40" filename="$USER_HOME$/code/jshare_server/cps_server/business/union_user_info.cpp" />
+      <jump line="62" column="13" filename="$USER_HOME$/code/jshare_server/cps_server/business/union_user_info.cpp" />
+      <jump line="64" column="20" filename="$USER_HOME$/code/jshare_server/cps_server/business/union_user_info.cpp" />
+      <jump line="56" column="46" filename="$USER_HOME$/code/jshare_server/cps_server/business/union_user_info.cpp" />
+      <jump line="47" column="20" filename="$USER_HOME$/code/jshare_server/cps_server/business/union_user_info.cpp" />
+      <jump line="71" column="13" filename="$USER_HOME$/code/jshare_server/cps_server/business/union_user_info.cpp" />
+      <jump line="208" column="41" filename="/product_handler.cpp" />
+      <jump line="201" column="13" filename="/product_handler.cpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1933,65 +1940,62 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text encoding="base64">IiA8PCByZXNwLT5VdGY4RGVidWdTdHJpbmcoKSA8PCAiXSI7</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxRdWVyeUluZm9cPg==</text>
+        <text encoding="base64">XDxpc1JCb29rVXNlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L3N5c3RlbS9lcnJvcl9jb2RlLmhwcD4KI2luY2x1ZGUgPGJvb3N0L2ZpbGVzeXN0ZW0vcGF0aC5ocHA+CiNpbmNsdWRlIDxib29zdC9maWxlc3lzdGVtL29wZXJhdGlvbnMuaHBwPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSkxPRyhpbmZvKSA8PCAicmVzcG9uc2UgOiBbIiA8PCByZXNwLT5VdGY4RGVidWdTdHJpbmcoKSA8PCAiXSI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImZpbGVfcmVhZGVyLmhwcCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text>@af;r,j017@af;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0f;r,j0@af;r,j0kkkkkkkkkkkkkkkkkkkkkkjjjb</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGlvc3RyZWFtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJvb3N0OjpmaWxlc3lzdGVtOjpwYXRoIHBhdGgoIi90ZXN0L3Rlc3QxIik7ICAgLy/liJ3lp4vljJYKICAgIGJvb3N0OjpmaWxlc3lzdGVtOjpwYXRoIG9sZF9jcGF0aCA9IGJvb3N0OjpmaWxlc3lzdGVtOjpjdXJyZW50X3BhdGgoKTsgLy/lj5blvpflvZPliY3nqIvluo/miYDlnKjmlofku7blpLkKICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJvbGQgcGF0aCA6ICIgPDwgb2xkX2NwYXRoIDw8IHN0ZDo6ZW5kbDsKICAgIGJvb3N0OjpmaWxlc3lzdGVtOjpwYXRoIHBhcmVudF9wYXRoID0gb2xkX2NwYXRoLnBhcmVudF9wYXRoKCk7Ly/lj5ZvbGRfY3BhdGjnmoTkuIrkuIDlsYLniLbmlofku7blpLnot6/lvoQKICAgIGJvb3N0OjpmaWxlc3lzdGVtOjpwYXRoIGZpbGVfcGF0aCA9IG9sZF9jcGF0aCAvICJmaWxlIjsgLy9wYXRo5pSv5oyB6YeN6L29L+i/kOeul+espgogICAgc3RkOjpjb3V0IDw8ICJwYXRoLmZpbGVuYW1lIDogIiA8PCBwYXRoLmZpbGVuYW1lKCkgPDwgc3RkOjplbmRsOwogICAgaWYgKGJvb3N0OjpmaWxlc3lzdGVtOjpleGlzdHMoZmlsZV9wYXRoKSkgIC8v5o6o5pat5paH5Lu25a2Y5Zyo5oCnCiAgICB7CiAgICAgICAgc3RkOjpzdHJpbmcgc3RyUGF0aCA9IGZpbGVfcGF0aC5zdHJpbmcoKTsKICAgICAgICBpbnQgeCA9IDE7CiAgICB9IGVsc2UgewogICAgICAgIC8v5paH5Lu25aS55LiN5a2Y5ZyoOwogICAgICAgIGJvb3N0OjpmaWxlc3lzdGVtOjpjcmVhdGVfZGlyZWN0b3J5KGZpbGVfcGF0aCk7ICAvL+aWh+S7tuWkueS4jeWtmOWcqOOAguWIm+W7ugogICAgfQogICAgYm9vbCBiSXNEaXJlY3RvcnkgPSBib29zdDo6ZmlsZXN5c3RlbTo6aXNfZGlyZWN0b3J5KGZpbGVfcGF0aCk7IC8v5o6o5patZmlsZV9wYXRo5piv5ZCm5Li65paH5Lu25aS5CiAgICBib29zdDo6ZmlsZXN5c3RlbTo6cmVjdXJzaXZlX2RpcmVjdG9yeV9pdGVyYXRvciBiZWdfaXRlcihmaWxlX3BhdGgpOwogICAgYm9vc3Q6OmZpbGVzeXN0ZW06OnJlY3Vyc2l2ZV9kaXJlY3RvcnlfaXRlcmF0b3IgZW5kX2l0ZXI7CiAgICBmb3IgKDsgYmVnX2l0ZXIgIT0gZW5kX2l0ZXI7ICsrYmVnX2l0ZXIpIHsKICAgICAgICBpZiAoYm9vc3Q6OmZpbGVzeXN0ZW06OmlzX2RpcmVjdG9yeSgqYmVnX2l0ZXIpKSB7CiAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHN0ZDo6c3RyaW5nIHN0clBhdGggPSBiZWdfaXRlci0+cGF0aCgpLnN0cmluZygpOyAgLy/pgY3ljoblh7rmnaXnmoTmlofku7blkI3np7AKICAgICAgICAgICAgc3RkOjpjb3V0IDw8IHN0clBhdGggPDwgc3RkOjplbmRsOwogICAgICAgIH0KICAgIH0KICAgIGJvb3N0OjpmaWxlc3lzdGVtOjpwYXRoIG5ld19maWxlX3BhdGggPSBmaWxlX3BhdGggLyAidGVzdC50eHQiOwogICAgaWYgKGJvb3N0OjpmaWxlc3lzdGVtOjppc19yZWd1bGFyX2ZpbGUobmV3X2ZpbGVfcGF0aCkpICAgIC8v5o6o5pat5piv5ZCm5Li65pmu6YCa5paH5Lu2CiAgICB7CiAgICAgICAgc2l6ZV90IHNpemVmaWxlID0gYm9vc3Q6OmZpbGVzeXN0ZW06OmZpbGVfc2l6ZShuZXdfZmlsZV9wYXRoKTsgIC8v5paH5Lu25aSn5bCPKOWtl+iKgikKICAgICAgICBpbnQgeCA9IDE7CiAgICB9CiAgICBib29zdDo6ZmlsZXN5c3RlbTo6cmVtb3ZlKG5ld19maWxlX3BhdGgpOy8v5Yig6Zmk5paH5Lu2bmV3X2ZpbGVfcGF0aAo=</text>
+        <text encoding="base64">I2luY2x1ZGUgImZpbGVfcmVhZGVyLmhwcCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">I2luY2x1ZGUgPGlvc3RyZWFtPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L3N5c3RlbS9lcnJvcl9jb2RlLmhwcD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJvb3N0OjpmaWxlc3lzdGVtOjpwYXRoIHBhdGgoIi90ZXN0L3Rlc3QxIik7ICAgLy/liJ3lp4vljJYKICAgIGJvb3N0OjpmaWxlc3lzdGVtOjpwYXRoIG9sZF9jcGF0aCA9IGJvb3N0OjpmaWxlc3lzdGVtOjpjdXJyZW50X3BhdGgoKTsgLy/lj5blvpflvZPliY3nqIvluo/miYDlnKjmlofku7blpLkKICAgICAgICAgICAgc3RkOjpjb3V0IDw8ICJvbGQgcGF0aCA6ICIgPDwgb2xkX2NwYXRoIDw8IHN0ZDo6ZW5kbDsKICAgIGJvb3N0OjpmaWxlc3lzdGVtOjpwYXRoIHBhcmVudF9wYXRoID0gb2xkX2NwYXRoLnBhcmVudF9wYXRoKCk7Ly/lj5ZvbGRfY3BhdGjnmoTkuIrkuIDlsYLniLbmlofku7blpLnot6/lvoQKICAgIGJvb3N0OjpmaWxlc3lzdGVtOjpwYXRoIGZpbGVfcGF0aCA9IG9sZF9jcGF0aCAvICJmaWxlIjsgLy9wYXRo5pSv5oyB6YeN6L29L+i/kOeul+espgogICAgc3RkOjpjb3V0IDw8ICJwYXRoLmZpbGVuYW1lIDogIiA8PCBwYXRoLmZpbGVuYW1lKCkgPDwgc3RkOjplbmRsOwogICAgaWYgKGJvb3N0OjpmaWxlc3lzdGVtOjpleGlzdHMoZmlsZV9wYXRoKSkgIC8v5o6o5pat5paH5Lu25a2Y5Zyo5oCnCiAgICB7CiAgICAgICAgc3RkOjpzdHJpbmcgc3RyUGF0aCA9IGZpbGVfcGF0aC5zdHJpbmcoKTsKICAgICAgICBpbnQgeCA9IDE7CiAgICB9IGVsc2UgewogICAgICAgIC8v5paH5Lu25aS55LiN5a2Y5ZyoOwogICAgICAgIGJvb3N0OjpmaWxlc3lzdGVtOjpjcmVhdGVfZGlyZWN0b3J5KGZpbGVfcGF0aCk7ICAvL+aWh+S7tuWkueS4jeWtmOWcqOOAguWIm+W7ugogICAgfQogICAgYm9vbCBiSXNEaXJlY3RvcnkgPSBib29zdDo6ZmlsZXN5c3RlbTo6aXNfZGlyZWN0b3J5KGZpbGVfcGF0aCk7IC8v5o6o5patZmlsZV9wYXRo5piv5ZCm5Li65paH5Lu25aS5CiAgICBib29zdDo6ZmlsZXN5c3RlbTo6cmVjdXJzaXZlX2RpcmVjdG9yeV9pdGVyYXRvciBiZWdfaXRlcihmaWxlX3BhdGgpOwogICAgYm9vc3Q6OmZpbGVzeXN0ZW06OnJlY3Vyc2l2ZV9kaXJlY3RvcnlfaXRlcmF0b3IgZW5kX2l0ZXI7CiAgICBmb3IgKDsgYmVnX2l0ZXIgIT0gZW5kX2l0ZXI7ICsrYmVnX2l0ZXIpIHsKICAgICAgICBpZiAoYm9vc3Q6OmZpbGVzeXN0ZW06OmlzX2RpcmVjdG9yeSgqYmVnX2l0ZXIpKSB7CiAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHN0ZDo6c3RyaW5nIHN0clBhdGggPSBiZWdfaXRlci0+cGF0aCgpLnN0cmluZygpOyAgLy/pgY3ljoblh7rmnaXnmoTmlofku7blkI3np7AKICAgICAgICAgICAgc3RkOjpjb3V0IDw8IHN0clBhdGggPDwgc3RkOjplbmRsOwogICAgICAgIH0KICAgIH0KICAgIGJvb3N0OjpmaWxlc3lzdGVtOjpwYXRoIG5ld19maWxlX3BhdGggPSBmaWxlX3BhdGggLyAidGVzdC50eHQiOwogICAgaWYgKGJvb3N0OjpmaWxlc3lzdGVtOjppc19yZWd1bGFyX2ZpbGUobmV3X2ZpbGVfcGF0aCkpICAgIC8v5o6o5pat5piv5ZCm5Li65pmu6YCa5paH5Lu2CiAgICB7CiAgICAgICAgc2l6ZV90IHNpemVmaWxlID0gYm9vc3Q6OmZpbGVzeXN0ZW06OmZpbGVfc2l6ZShuZXdfZmlsZV9wYXRoKTsgIC8v5paH5Lu25aSn5bCPKOWtl+iKgikKICAgICAgICBpbnQgeCA9IDE7CiAgICB9CiAgICBib29zdDo6ZmlsZXN5c3RlbTo6cmVtb3ZlKG5ld19maWxlX3BhdGgpOy8v5Yig6Zmk5paH5Lu2bmV3X2ZpbGVfcGF0aAo=</text>
       </register>
       <register name="w" type="4">
         <text>jkjk</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IHggPSAxOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">I2luY2x1ZGUgPGJvb3N0L3N5c3RlbS9lcnJvcl9jb2RlLmhwcD4K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxRdWVyeUluZm9cPg==</last-search>
+      <last-search encoding="base64">XDxpc1JCb29rVXNlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxRdWVyeUluZm9cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpc1JCb29rVXNlclw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXN1bHRcPg==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxxdWVyeVNrdUlkc1w+</entry>
-        <entry encoding="base64">XDxzcWxcPg==</entry>
-        <entry encoding="base64">XDxxdWVyeVJlc3VsdFw+</entry>
         <entry encoding="base64">XDxpdFw+</entry>
         <entry encoding="base64">XDxtc2dzXD4=</entry>
         <entry encoding="base64">XDxRdWVyeVNrdUlkc0J5U291cmNlSWRcPg==</entry>
@@ -2008,7 +2012,10 @@
         <entry encoding="base64">XDxiZWZvcmVXb3JkXD4=</entry>
         <entry encoding="base64">XDx3b3JkXD4=</entry>
         <entry encoding="base64">XDxuZWVkQ2hlY2tcPg==</entry>
+        <entry encoding="base64">XDxyZXNwXD4=</entry>
         <entry encoding="base64">XDxRdWVyeUluZm9cPg==</entry>
+        <entry encoding="base64">XDxyZXNwUHRyXD4=</entry>
+        <entry encoding="base64">XDxpc1JCb29rVXNlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>/</entry>
