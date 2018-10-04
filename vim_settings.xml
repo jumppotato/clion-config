@@ -1302,6 +1302,9 @@
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/user/fcgi/qwd_union_reg.cpp" timestamp="1524906119506">
         <mark key="'" line="167" column="15" />
       </file>
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/url_convertor.hpp" timestamp="1538310519793">
+        <mark key="'" line="186" column="49" />
+      </file>
       <file name="$USER_HOME$/code/jshare_server/cps_server/request_handler/url_promo_info_transfer_handler.hpp" timestamp="1526285663592">
         <mark key="'" line="56" column="17" />
       </file>
@@ -1362,8 +1365,8 @@
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/jsf_include/com-jd-ads-union-master-api-service-user-UserInfoService/jsf/bjunion/usercardidquevo.h" timestamp="1521118025460">
         <mark key="'" line="158" column="0" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/promo_detector.hpp" timestamp="1533194431163">
-        <mark key="'" line="277" column="32" />
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/promo_detector.hpp" timestamp="1538310616739">
+        <mark key="'" line="63" column="37" />
       </file>
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/import/mastercommissionreport_service.h" timestamp="1514967737912">
         <mark key="'" line="253" column="10" />
@@ -1505,8 +1508,8 @@
       <file name="/qwd_bjgateway_test.cpp" timestamp="1512039558086">
         <mark key="'" line="25" column="13" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/convert_content_filler.hpp" timestamp="1526987073900">
-        <mark key="'" line="176" column="16" />
+      <file name="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/convert_content_filler.hpp" timestamp="1538310646129">
+        <mark key="'" line="91" column="38" />
         <mark key="[" line="187" column="16" />
         <mark key="]" line="187" column="16" />
         <mark key="." line="187" column="16" />
@@ -1825,20 +1828,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="483" column="58" filename="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" />
-      <jump line="414" column="27" filename="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" />
-      <jump line="329" column="12" filename="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" />
-      <jump line="323" column="33" filename="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" />
-      <jump line="333" column="49" filename="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" />
-      <jump line="291" column="75" filename="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" />
-      <jump line="379" column="95" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
-      <jump line="370" column="78" filename="$USER_HOME$/code/jshare_server/cps_server/boss/db/report_sku_pool_db_object.hpp" />
-      <jump line="85" column="54" filename="$USER_HOME$/code/jshare_server/cps_server/service/coupon_service.hpp" />
-      <jump line="310" column="68" filename="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" />
-      <jump line="23" column="84" filename="$USER_HOME$/code/jshare_server/cps_server/service/coupon_service.hpp" />
-      <jump line="42" column="20" filename="$USER_HOME$/code/jshare_server/cps_server/service/coupon_service.hpp" />
-      <jump line="41" column="25" filename="$USER_HOME$/code/jshare_server/cps_server/service/coupon_service.hpp" />
-      <jump line="39" column="48" filename="$USER_HOME$/code/jshare_server/cps_server/service/coupon_service.hpp" />
       <jump line="40" column="63" filename="$USER_HOME$/code/jshare_server/cps_server/service/coupon_service.hpp" />
       <jump line="38" column="130" filename="$USER_HOME$/code/jshare_server/cps_server/service/coupon_service.hpp" />
       <jump line="318" column="38" filename="$USER_HOME$/code/jshare_server/cps_server/boss/report_pool_handler.cpp" />
@@ -1925,6 +1914,20 @@
       <jump line="71" column="13" filename="$USER_HOME$/code/jshare_server/cps_server/business/union_user_info.cpp" />
       <jump line="208" column="41" filename="/product_handler.cpp" />
       <jump line="201" column="13" filename="/product_handler.cpp" />
+      <jump line="197" column="31" filename="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/url_convertor.hpp" />
+      <jump line="186" column="49" filename="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/url_convertor.hpp" />
+      <jump line="205" column="20" filename="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/promo_detector.hpp" />
+      <jump line="213" column="89" filename="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/promo_detector.hpp" />
+      <jump line="63" column="37" filename="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/promo_detector.hpp" />
+      <jump line="34" column="20" filename="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/convert_content_filler.hpp" />
+      <jump line="50" column="17" filename="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/convert_content_filler.hpp" />
+      <jump line="54" column="37" filename="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/convert_content_filler.hpp" />
+      <jump line="59" column="12" filename="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/convert_content_filler.hpp" />
+      <jump line="62" column="12" filename="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/convert_content_filler.hpp" />
+      <jump line="86" column="86" filename="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/convert_content_filler.hpp" />
+      <jump line="93" column="20" filename="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/convert_content_filler.hpp" />
+      <jump line="108" column="18" filename="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/convert_content_filler.hpp" />
+      <jump line="91" column="38" filename="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/convert_content_filler.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1943,7 +1946,7 @@
         <text encoding="base64">IiA8PCByZXNwLT5VdGY4RGVidWdTdHJpbmcoKSA8PCAiXSI7</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc1JCb29rVXNlclw+</text>
+        <text encoding="base64">XDxwcm9kdWN0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgSkxPRyhpbmZvKSA8PCAicmVzcG9uc2UgOiBbIiA8PCByZXNwLT5VdGY4RGVidWdTdHJpbmcoKSA8PCAiXSI7Cg==</text>
@@ -1986,9 +1989,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc1JCb29rVXNlclw+</last-search>
+      <last-search encoding="base64">XDxwcm9kdWN0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc1JCb29rVXNlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9kdWN0XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXN1bHRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1996,8 +1999,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpdFw+</entry>
-        <entry encoding="base64">XDxtc2dzXD4=</entry>
         <entry encoding="base64">XDxRdWVyeVNrdUlkc0J5U291cmNlSWRcPg==</entry>
         <entry encoding="base64">XDx1bmlvblVybFw+</entry>
         <entry encoding="base64">XDxzaXplZmlsZVw+</entry>
@@ -2016,6 +2017,8 @@
         <entry encoding="base64">XDxRdWVyeUluZm9cPg==</entry>
         <entry encoding="base64">XDxyZXNwUHRyXD4=</entry>
         <entry encoding="base64">XDxpc1JCb29rVXNlclw+</entry>
+        <entry encoding="base64">XDxsb3N0TXNnXD4=</entry>
+        <entry encoding="base64">XDxwcm9kdWN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>/</entry>
