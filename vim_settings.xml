@@ -400,7 +400,7 @@
       <file name="$USER_HOME$/Documents/workspaceSet/clion/HttpUtils/curl/curl.h" timestamp="1509106366087">
         <mark key="'" line="2732" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543038484877">
+      <file name="/Dummy.txt" timestamp="1543042007969">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/jshare/cps_server/business/url_convert/url_detector.hpp" timestamp="1517037629482">
@@ -914,7 +914,7 @@
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/promote/svc/qwd.promote.h" timestamp="1525864365061">
         <mark key="'" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/cps_server/common/abtest.hpp" timestamp="1543041229518">
+      <file name="$USER_HOME$/code/jshare_server/cps_server/common/abtest.hpp" timestamp="1543042187209">
         <mark key="'" line="45" column="62" />
       </file>
       <file name="$USER_HOME$/code/jshare/thirdparty/gflags-2.0/src/gflags/gflags.h" timestamp="1517041876038">
@@ -1084,12 +1084,12 @@
       <file name="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/relation/svc/qwd.relation.h" timestamp="1527855885586">
         <mark key="'" line="19" column="16" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/cps_server/configor/configor.cpp" timestamp="1543040775690">
+      <file name="$USER_HOME$/code/jshare_server/cps_server/configor/configor.cpp" timestamp="1543042005276">
         <mark key="'" line="68" column="8" />
-        <mark key="[" line="91" column="38" />
-        <mark key="]" line="91" column="41" />
-        <mark key="." line="91" column="41" />
-        <mark key="^" line="91" column="41" />
+        <mark key="[" line="94" column="13" />
+        <mark key="]" line="94" column="17" />
+        <mark key="." line="94" column="17" />
+        <mark key="^" line="94" column="17" />
       </file>
       <file name="$USER_HOME$/code/cps_server/common/util/src/buffered_file_reader.cpp" timestamp="1508729749698">
         <mark key="'" line="26" column="11" />
@@ -1950,7 +1950,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>firstInit</text>
+        <text>info</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZWFyY2hTa3VcPg==</text>
