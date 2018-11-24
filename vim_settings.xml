@@ -406,6 +406,9 @@
       <file name="$USER_HOME$/code/jshare/cps_server/business/url_convert/url_detector.hpp" timestamp="1517037629482">
         <mark key="'" line="46" column="55" />
       </file>
+      <file name="/Library/Developer/CommandLineTools/usr/include/c++/v1/list" timestamp="1543039364021">
+        <mark key="'" line="988" column="9" />
+      </file>
       <file name="$USER_HOME$/code/jshare_server/toft/net/uri/uri.h" timestamp="1524707015249">
         <mark key="'" line="279" column="9" />
       </file>
@@ -1078,8 +1081,8 @@
       <file name="$USER_HOME$/Documents/jddoc/code/cps_server/biz/qwshop/relation/svc/qwd.relation.h" timestamp="1527855885586">
         <mark key="'" line="19" column="16" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/cps_server/configor/configor.cpp" timestamp="1543038101091">
-        <mark key="'" line="46" column="31" />
+      <file name="$USER_HOME$/code/jshare_server/cps_server/configor/configor.cpp" timestamp="1543039616727">
+        <mark key="'" line="196" column="58" />
         <mark key="[" line="91" column="38" />
         <mark key="]" line="91" column="41" />
         <mark key="." line="91" column="41" />
@@ -1206,8 +1209,8 @@
         <mark key="." line="125" column="14" />
         <mark key="^" line="125" column="14" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/cps_server/utils/cache/cps_local_cache.hpp" timestamp="1543035808024">
-        <mark key="'" line="44" column="52" />
+      <file name="$USER_HOME$/code/jshare_server/cps_server/utils/cache/cps_local_cache.hpp" timestamp="1543039697820">
+        <mark key="'" line="17" column="10" />
       </file>
       <file name="$USER_HOME$/code/jxj/front/jdqwd/coupons.shtml" timestamp="1524737942293">
         <mark key="'" line="46" column="37" />
@@ -1783,6 +1786,9 @@
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/app/fcgi/qwd_app_sharemerchant.cpp" timestamp="1525864339561">
         <mark key="'" line="49" column="4" />
       </file>
+      <file name="$USER_HOME$/code/jshare_server/3rd/nlohmann/json.hpp" timestamp="1543039440611">
+        <mark key="'" line="15608" column="15" />
+      </file>
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/agreement/ao/ao_agreement.cpp" timestamp="1525681569649">
         <mark key="'" line="62" column="14" />
       </file>
@@ -1820,14 +1826,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="44" filename="$USER_HOME$/Documents/workspaceSet/clion/HeaderFinder/main.cpp" />
-      <jump line="14" column="30" filename="$USER_HOME$/Documents/workspaceSet/clion/HeaderFinder/main.cpp" />
-      <jump line="12" column="34" filename="$USER_HOME$/Documents/workspaceSet/clion/HeaderFinder/main.cpp" />
-      <jump line="10" column="28" filename="$USER_HOME$/Documents/workspaceSet/clion/HeaderFinder/main.cpp" />
-      <jump line="33" column="27" filename="$USER_HOME$/Documents/workspaceSet/clion/HeaderFinder/main.cpp" />
-      <jump line="60" column="12" filename="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/promo_detector.hpp" />
-      <jump line="142" column="62" filename="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/promo_detector.hpp" />
-      <jump line="200" column="42" filename="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/promo_detector.hpp" />
       <jump line="258" column="23" filename="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/promo_detector.hpp" />
       <jump line="255" column="18" filename="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/promo_detector.hpp" />
       <jump line="256" column="37" filename="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/promo_detector.hpp" />
@@ -1874,7 +1872,6 @@
       <jump line="64" column="33" filename="$USER_HOME$/code/jshare_server/cps_server/business/url_convert/promo_detector.hpp" />
       <jump line="0" column="0" filename="$USER_HOME$/code/jshare_server/cps_server/configor/configor.cpp" />
       <jump line="0" column="22" filename="$USER_HOME$/code/jshare_server/cps_server/utils/cache/cps_local_cache.hpp" />
-      <jump line="44" column="52" filename="$USER_HOME$/code/jshare_server/cps_server/utils/cache/cps_local_cache.hpp" />
       <jump line="83" column="19" filename="$USER_HOME$/code/jshare_server/cps_server/configor/configor.cpp" />
       <jump line="23" column="27" filename="$USER_HOME$/code/jshare_server/cps_server/configor/configor.hpp" />
       <jump line="15" column="29" filename="$USER_HOME$/code/jshare_server/cps_server/configor/configor.hpp" />
@@ -1920,6 +1917,15 @@
       <jump line="46" column="31" filename="$USER_HOME$/code/jshare_server/cps_server/configor/configor.cpp" />
       <jump line="22" column="16" filename="$USER_HOME$/code/jshare_server/cps_server/utils/url_rule.cpp" />
       <jump line="27" column="13" filename="$USER_HOME$/code/jshare_server/cps_server/utils/url_rule.cpp" />
+      <jump line="65" column="37" filename="$USER_HOME$/code/jshare_server/cps_server/utils/cache/cps_local_cache.hpp" />
+      <jump line="967" column="9" filename="/Library/Developer/CommandLineTools/usr/include/c++/v1/list" />
+      <jump line="988" column="9" filename="/Library/Developer/CommandLineTools/usr/include/c++/v1/list" />
+      <jump line="35" column="4" filename="$USER_HOME$/code/jshare_server/cps_server/configor/configor.cpp" />
+      <jump line="195" column="31" filename="$USER_HOME$/code/jshare_server/cps_server/configor/configor.cpp" />
+      <jump line="15608" column="15" filename="$USER_HOME$/code/jshare_server/3rd/nlohmann/json.hpp" />
+      <jump line="196" column="58" filename="$USER_HOME$/code/jshare_server/cps_server/configor/configor.cpp" />
+      <jump line="44" column="46" filename="$USER_HOME$/code/jshare_server/cps_server/utils/cache/cps_local_cache.hpp" />
+      <jump line="17" column="10" filename="$USER_HOME$/code/jshare_server/cps_server/utils/cache/cps_local_cache.hpp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1938,7 +1944,7 @@
         <text>firstInit</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWxvYWRlZFw+</text>
+        <text encoding="base64">XDxrZXlfdmFsdWVfcGFpcl90XD4=</text>
       </register>
       <register name="0" type="4">
         <text>inited</text>
@@ -1981,9 +1987,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWxvYWRlZFw+</last-search>
+      <last-search encoding="base64">XDxrZXlfdmFsdWVfcGFpcl90XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWxvYWRlZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxrZXlfdmFsdWVfcGFpcl90XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXN1bHRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1991,10 +1997,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxRdWVyeUluZm9cPg==</entry>
-        <entry encoding="base64">XDxyZXNwUHRyXD4=</entry>
-        <entry encoding="base64">XDxpc1JCb29rVXNlclw+</entry>
-        <entry encoding="base64">XDxsb3N0TXNnXD4=</entry>
         <entry encoding="base64">XDxwcm9kdWN0XD4=</entry>
         <entry encoding="base64">XDxiYXRjaElkc1w+</entry>
         <entry encoding="base64">XDxyZXNwXD4=</entry>
@@ -2011,6 +2013,10 @@
         <entry encoding="base64">XDx2ZXJzaW9uVGFnX1w+</entry>
         <entry encoding="base64">XDxMb2FkUmVmcmVzaENvbmZpZ1w+</entry>
         <entry encoding="base64">XDxyZWxvYWRlZFw+</entry>
+        <entry encoding="base64">XDxwdXNoX2Zyb250XD4=</entry>
+        <entry encoding="base64">XDxqc29uXD4=</entry>
+        <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
+        <entry encoding="base64">XDxrZXlfdmFsdWVfcGFpcl90XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>/</entry>
