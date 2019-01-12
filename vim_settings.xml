@@ -540,6 +540,7 @@
       <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/unordered/detail/buckets.hpp" timestamp="1524221734605">
         <mark key="'" line="28" column="50" />
       </file>
+      <file name="$USER_HOME$/code/jshare_server/netgo/include/tcp_client.hpp" timestamp="1546782114577" />
       <file name="$USER_HOME$/code/jshare/thirdparty/boost/shared_ptr.hpp" timestamp="1514973533244">
         <mark key="'" line="16" column="35" />
       </file>
@@ -1564,7 +1565,6 @@
       <file name="$USER_HOME$/code/jshare_server/thirdparty/boost/asio/basic_deadline_timer.hpp" timestamp="1523689700896">
         <mark key="'" line="500" column="15" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/cps_server/config/online/jsf/jsf.json" timestamp="1544279841563" />
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/include/qwd_external_extractcomm.h" timestamp="1519721250091">
         <mark key="'" line="51" column="30" />
       </file>
@@ -1808,8 +1808,12 @@
       <file name="$USER_HOME$/code/cps_server/biz/qwshop/wpublic/svc/qwd.wpublic.h" timestamp="1527062159980">
         <mark key="'" line="35" column="64" />
       </file>
-      <file name="$USER_HOME$/code/jshare_server/netgo/src/worker_mgr.cpp" timestamp="1523792254786">
+      <file name="$USER_HOME$/code/jshare_server/netgo/src/worker_mgr.cpp" timestamp="1546782581072">
         <mark key="'" line="122" column="34" />
+        <mark key="[" line="72" column="26" />
+        <mark key="]" line="72" column="24" />
+        <mark key="^" line="72" column="24" />
+        <mark key="." line="72" column="24" />
       </file>
       <file name="$USER_HOME$/code/jshare/jshare_server/configor/configor.hpp" timestamp="1514863555054">
         <mark key="'" line="6" column="13" />
@@ -1955,7 +1959,7 @@
         <text encoding="base64">XDxTZWFyY2hTa3VcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>jsf_general_convert_url</text>
+        <text>A worker is dead</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgX2NhY2hlX2l0ZW1zX2xpc3Quc3BsaWNlKF9jYWNoZV9pdGVtc19saXN0LmJlZ2luKCksIF9jYWNoZV9pdGVtc19saXN0LCBpdC0+c2Vjb25kKTsKICAgICAgICAgICAgcmV0dXJuIGl0LT5zZWNvbmQtPnNlY29uZDsK</text>
@@ -2001,7 +2005,7 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxyZXN1bHRcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
